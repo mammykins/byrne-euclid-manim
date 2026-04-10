@@ -175,7 +175,9 @@ def _key_stage_sort_key(key_stage: str) -> tuple[int, str]:
     return (KEY_STAGE_ORDER.get(key_stage, 99), key_stage)
 
 
-def render_curriculum_mapping_markdown(manifest: dict[str, Any]) -> str:
+def _group_manifest_entries(
+    manifest: dict[str, Any],
+) -> dict[str, dict[int | None, list[tuple[dict[str, Any], dict[str, Any]]]]]:
     grouped: dict[str, dict[int | None, list[tuple[dict[str, Any], dict[str, Any]]]]] = {}
 
     for animation in manifest.get("animations", []):
@@ -184,18 +186,15 @@ def render_curriculum_mapping_markdown(manifest: dict[str, Any]) -> str:
             year = reference.get("year")
             grouped.setdefault(key_stage, {}).setdefault(year, []).append((animation, reference))
 
-    lines = [
-        "# Curriculum mapping",
-        (
-            "This document maps each animation to its curriculum position in the "
-            "English national curriculum for mathematics."
-        ),
-        (
-            "Contains public sector information licensed under the Open Government "
-            "Licence v3.0. Oak National Academy content is used under the Open "
-            "Government Licence."
-        ),
-    ]
+    return grouped
+
+
+def _render_grouped_mapping_sections(
+    grouped: dict[str, dict[int | None, list[tuple[dict[str, Any], dict[str, Any]]]]],
+    lesson_label: str,
+    thread_label: str,
+) -> list[str]:
+    lines: list[str] = []
 
     for key_stage in sorted(grouped, key=_key_stage_sort_key):
         lines.append(f"## {key_stage}")
@@ -216,21 +215,21 @@ def render_curriculum_mapping_markdown(manifest: dict[str, Any]) -> str:
                 )
                 lines.append(f"  - NC: {reference['statement']}")
                 lines.append(f"  - Domain: {reference['domain']}")
-                oak_lessons = animation.get("oak_lesson_slugs") or []
-                oak_threads = animation.get("oak_thread_slugs") or []
+                lesson_slugs = animation.get("oak_lesson_slugs") or []
+                thread_slugs = animation.get("oak_thread_slugs") or []
                 lines.append(
-                    "  - Oak lessons: "
+                    f"  - {lesson_label}: "
                     + (
-                        ", ".join(f"`{slug}`" for slug in oak_lessons)
-                        if oak_lessons
+                        ", ".join(f"`{slug}`" for slug in lesson_slugs)
+                        if lesson_slugs
                         else "Draft mapping pending"
                     )
                 )
                 lines.append(
-                    "  - Oak threads: "
+                    f"  - {thread_label}: "
                     + (
-                        ", ".join(f"`{slug}`" for slug in oak_threads)
-                        if oak_threads
+                        ", ".join(f"`{slug}`" for slug in thread_slugs)
+                        if thread_slugs
                         else "Draft mapping pending"
                     )
                 )
@@ -245,5 +244,140 @@ def render_curriculum_mapping_markdown(manifest: dict[str, Any]) -> str:
                         )
                     )
                 )
+
+    return lines
+
+
+def render_curriculum_mapping_markdown(manifest: dict[str, Any]) -> str:
+    grouped = _group_manifest_entries(manifest)
+
+    lines = [
+        "# Curriculum mapping",
+        (
+            "This document maps each animation to its curriculum position in the "
+            "English national curriculum for mathematics."
+        ),
+        (
+            "Contains public sector information licensed under the Open Government "
+            "Licence v3.0. Oak National Academy content is used under the Open "
+            "Government Licence."
+        ),
+    ]
+    lines.extend(
+        _render_grouped_mapping_sections(
+            grouped,
+            lesson_label="Oak lessons",
+            thread_label="Oak threads",
+        )
+    )
+
+    return "\n".join(lines) + "\n"
+
+
+def render_curriculum_preview_markdown(manifest: dict[str, Any]) -> str:
+    grouped = _group_manifest_entries(manifest)
+    lines = [
+        "# Demo curriculum mapping",
+        (
+            "This synthetic preview shows how the curriculum packaging will look once "
+            "live Oak-derived metadata is available again."
+        ),
+        (
+            "The lesson and thread slugs below are hand-authored demo values, used "
+            "purely to preview the final shape of the enriched outputs."
+        ),
+    ]
+    lines.extend(
+        _render_grouped_mapping_sections(
+            grouped,
+            lesson_label="Preview lesson slugs",
+            thread_label="Preview thread slugs",
+        )
+    )
+
+    return "\n".join(lines) + "\n"
+
+
+def render_curriculum_showcase_markdown(
+    manifest: dict[str, Any],
+    title: str = "Curriculum showcase",
+) -> str:
+    lines = [
+        f"# {title}",
+        (
+            "This synthetic preview shows how enriched curriculum metadata can sit "
+            "beside the rendered media files."
+        ),
+        (
+            "Where live Oak data is unavailable, the lesson and thread slugs below "
+            "are preview values rather than authoritative curriculum identifiers."
+        ),
+    ]
+
+    for animation in sorted(
+        manifest.get("animations", []),
+        key=lambda item: (item["title"], item["scene_class"]),
+    ):
+        lines.append(f"## {animation['title']}")
+        lines.append(f"- Scene: `{animation['scene_class']}`")
+        lines.append(f"- Euclid: {_euclid_reference(animation)}")
+        lines.append(f"- Description: {animation['description']}")
+
+        nc_references = animation.get("nc_references") or []
+        if nc_references:
+            lines.append("- Curriculum links:")
+            for reference in nc_references:
+                year = reference.get("year")
+                year_label = "General" if year is None else f"Year {year}"
+                lines.append(
+                    f"  - {reference['key_stage']} {year_label} — "
+                    f"{reference['domain']}: {reference['statement']}"
+                )
+        else:
+            lines.append("- Curriculum links: None recorded")
+
+        lesson_slugs = animation.get("oak_lesson_slugs") or []
+        thread_slugs = animation.get("oak_thread_slugs") or []
+        keywords = animation.get("keywords") or []
+        misconceptions = animation.get("misconceptions") or []
+
+        lines.append(
+            "- Lesson slugs: "
+            + (
+                ", ".join(f"`{slug}`" for slug in lesson_slugs)
+                if lesson_slugs
+                else "None recorded"
+            )
+        )
+        lines.append(
+            "- Thread slugs: "
+            + (
+                ", ".join(f"`{slug}`" for slug in thread_slugs)
+                if thread_slugs
+                else "None recorded"
+            )
+        )
+        lines.append(
+            "- Keywords: "
+            + (
+                ", ".join(f"`{keyword}`" for keyword in keywords)
+                if keywords
+                else "None recorded"
+            )
+        )
+        if misconceptions:
+            lines.append("- Misconceptions:")
+            for misconception in misconceptions:
+                lines.append(f"  - {misconception}")
+        else:
+            lines.append("- Misconceptions: None recorded")
+        lines.append(f"- Alt text: {animation['alt_text']}")
+        lines.append(
+            "- Files: "
+            + ", ".join(
+                f"`{animation['files'][format_name]}`"
+                for format_name in ("gif", "mp4", "png")
+            )
+        )
 
     return "\n".join(lines) + "\n"

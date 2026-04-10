@@ -1,0 +1,82 @@
+- scene: DefAngleTypes
+  euclid_type: definition
+  euclid_numbers:
+    - 10
+    - 11
+    - 12
+  title: Definitions X–XII — right, obtuse, and acute angles
+  description: Synthetic preview entry for angle vocabulary, angle comparison, and classroom-ready metadata.
+  alt_text: One arm rotates around a vertex so the angle changes from right to obtuse to acute.
+  duration_seconds: 30
+  nc_references:
+    - key_stage: KS2
+      year: 4
+      domain: Geometry — properties of shapes
+      statement: Identify acute and obtuse angles
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Describe, sketch and draw using conventional terms and notation
+  oak_lesson_slugs:
+    - demo-identify-acute-and-obtuse-angles
+  oak_thread_slugs:
+    - demo-geometry-properties-of-shapes
+  keywords:
+    - angle
+    - right angle
+    - acute angle
+    - obtuse angle
+  misconceptions:
+    - A right angle can face any direction and still remain a right angle.
+- scene: PropXI
+  euclid_type: proposition
+  euclid_numbers:
+    - 11
+  title: Proposition XI — draw a perpendicular from a point on a line
+  description: Synthetic preview entry for perpendicular constructions and right-angle reasoning.
+  alt_text: An equilateral-triangle construction creates a vertical line from a point on a base line.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs:
+    - demo-perpendicular-from-a-point-on-a-line
+  oak_thread_slugs:
+    - demo-constructions-and-perpendicular-lines
+  keywords:
+    - perpendicular
+    - right angle
+    - construction
+  misconceptions:
+    - Perpendicular lines are defined by the right angle they make, not by looking vertical.
+- scene: PropXXXII
+  euclid_type: proposition
+  euclid_numbers:
+    - 32
+  title: Proposition XXXII — angle sum of a triangle
+  description: Synthetic preview entry for triangle angle sums, exterior angles, and missing-angle work.
+  alt_text: The three angles of a triangle are rearranged along a straight line to show a 180-degree total.
+  duration_seconds: 45
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Find unknown angles in triangles, quadrilaterals and regular polygons
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the sum of angles in a triangle and use it to deduce the angle sum in polygons
+  oak_lesson_slugs:
+    - demo-angle-sum-of-a-triangle
+  oak_thread_slugs:
+    - demo-angle-facts-and-triangle-properties
+  keywords:
+    - triangle
+    - interior angle
+    - angle sum
+    - 180 degrees
+  misconceptions:
+    - The triangle's angles still total 180 degrees even when the triangle is scalene or obtuse.

@@ -1,3 +1,4 @@
+import json
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -7,7 +8,19 @@ from byrne_euclid.curriculum import (
     build_manifest,
     load_mapping_entries,
     render_curriculum_mapping_markdown,
+    render_curriculum_preview_markdown,
+    render_curriculum_showcase_markdown,
 )
+
+DEMO_MAPPING_PATH = Path("curriculum/demo_curriculum_preview.yaml")
+DEMO_ENRICHMENT_PATH = Path("curriculum/demo_curriculum_enrichment.json")
+DEMO_GENERATED_AT = datetime(2026, 4, 10, 6, 0, tzinfo=UTC)
+
+
+def _build_demo_preview_manifest() -> dict[str, object]:
+    entries = load_mapping_entries(DEMO_MAPPING_PATH)
+    oak_data = json.loads(DEMO_ENRICHMENT_PATH.read_text())
+    return build_manifest(entries, oak_data=oak_data, generated_at=DEMO_GENERATED_AT)
 
 
 def test_load_mapping_entries_rejects_unknown_scene_names(tmp_path: Path) -> None:
@@ -183,3 +196,72 @@ def test_render_curriculum_mapping_markdown_groups_entries_by_key_stage_and_year
     assert "## KS3" in markdown
     assert "### Year 7" in markdown
     assert "`PropIX`" in markdown
+
+
+def test_load_demo_preview_mapping_entries_accepts_only_real_scene_names() -> None:
+    entries = load_mapping_entries(DEMO_MAPPING_PATH)
+
+    assert [entry.scene for entry in entries] == [
+        "DefAngleTypes",
+        "PropXI",
+        "PropXXXII",
+    ]
+
+
+def test_build_demo_preview_manifest_enriches_without_live_oak() -> None:
+    manifest = _build_demo_preview_manifest()
+
+    assert manifest["generated_at"] == "2026-04-10T06:00:00Z"
+    assert [entry["scene_class"] for entry in manifest["animations"]] == [
+        "DefAngleTypes",
+        "PropXI",
+        "PropXXXII",
+    ]
+
+    angle_types = manifest["animations"][0]
+    assert angle_types["oak_lesson_slugs"] == ["demo-identify-acute-and-obtuse-angles"]
+    assert angle_types["oak_thread_slugs"] == ["demo-geometry-properties-of-shapes"]
+    assert "angle" in angle_types["keywords"]
+    assert "turn" in angle_types["keywords"]
+    assert (
+        "Pupils may think an obtuse angle is any angle that looks large."
+        in angle_types["misconceptions"]
+    )
+    assert angle_types["files"] == {
+        "gif": "output/gif/DefAngleTypes.gif",
+        "mp4": "output/mp4/DefAngleTypes.mp4",
+        "png": "output/png/DefAngleTypes.png",
+    }
+
+
+def test_render_demo_curriculum_mapping_markdown_has_populated_curriculum_links() -> None:
+    manifest = _build_demo_preview_manifest()
+    markdown = render_curriculum_preview_markdown(manifest)
+
+    assert "# Demo curriculum mapping" in markdown
+    assert "synthetic preview" in markdown
+    assert "Preview lesson slugs" in markdown
+    assert "Preview thread slugs" in markdown
+    assert "demo-identify-acute-and-obtuse-angles" in markdown
+    assert "demo-perpendicular-from-a-point-on-a-line" in markdown
+    assert "demo-angle-sum-of-a-triangle" in markdown
+    assert "Draft mapping pending" not in markdown
+
+
+def test_render_curriculum_showcase_markdown_includes_media_and_teaching_metadata() -> None:
+    manifest = _build_demo_preview_manifest()
+
+    markdown = render_curriculum_showcase_markdown(
+        manifest,
+        title="Demo curriculum showcase",
+    )
+
+    assert "# Demo curriculum showcase" in markdown
+    assert "## Definitions X–XII — right, obtuse, and acute angles" in markdown
+    assert "## Proposition XI — draw a perpendicular from a point on a line" in markdown
+    assert "## Proposition XXXII — angle sum of a triangle" in markdown
+    assert "- Keywords:" in markdown
+    assert "- Misconceptions:" in markdown
+    assert "- Alt text:" in markdown
+    assert "`output/gif/PropXXXII.gif`" in markdown
+    assert "Pupils may place the perpendicular by eye rather than by construction." in markdown

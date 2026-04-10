@@ -93,6 +93,12 @@ bash scripts/gif_convert.sh
 uv run python scripts/build_manifest.py
 ```
 
+### Build the synthetic curriculum preview
+
+```bash path=null start=null
+uv run python scripts/build_demo_curriculum_preview.py
+```
+
 If you have an Oak API key available locally under `OAK_OPEN_API_KEY` or `OAK_API_KEY`, refresh the cached curriculum data without exposing the key:
 
 ```bash path=null start=null
@@ -106,6 +112,9 @@ uv run --env-file .env python scripts/fetch_oak_curriculum.py
 - `output/gif/` — square GIF conversions
 - `curriculum/curriculum_manifest.json` — programmatic curriculum manifest
 - `docs/curriculum_mapping.md` — human-readable curriculum view
+- `curriculum/demo_curriculum_manifest.json` — synthetic preview manifest showing the final enriched shape without live Oak auth
+- `docs/demo_curriculum_mapping.md` — synthetic preview of populated lesson and thread links
+- `docs/demo_curriculum_showcase.md` — synthetic showcase of media paths, keywords, misconceptions, and curriculum notes
 
 ## Curriculum alignment
 
@@ -113,6 +122,13 @@ The mapping lives in `curriculum/euclid_to_oak.yaml` and is compiled into:
 
 - `curriculum/curriculum_manifest.json`
 - `docs/curriculum_mapping.md`
+
+While live Oak auth is blocked, a hand-authored preview of the final enriched packaging can be generated from:
+
+- `curriculum/demo_curriculum_preview.yaml`
+- `curriculum/demo_curriculum_enrichment.json`
+- `docs/demo_curriculum_mapping.md`
+- `docs/demo_curriculum_showcase.md`
 
 The alignment currently covers KS2 and KS3 geometry, especially:
 

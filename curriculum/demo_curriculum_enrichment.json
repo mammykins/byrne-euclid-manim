@@ -1,0 +1,58 @@
+{
+  "lesson_summaries": {
+    "demo-identify-acute-and-obtuse-angles": {
+      "lessonKeywords": [
+        {
+          "keyword": "turn",
+          "description": "The amount of rotation between two rays."
+        },
+        {
+          "keyword": "compare to a right angle",
+          "description": "A reliable way to classify an angle as acute, right, or obtuse."
+        }
+      ],
+      "misconceptionsAndCommonMistakes": [
+        {
+          "misconception": "Pupils may think an obtuse angle is any angle that looks large.",
+          "response": "Compare each angle to a right angle rather than relying on first impressions."
+        }
+      ]
+    },
+    "demo-perpendicular-from-a-point-on-a-line": {
+      "lessonKeywords": [
+        {
+          "keyword": "base line",
+          "description": "The given line on which the starting point lies."
+        },
+        {
+          "keyword": "equidistant",
+          "description": "At the same distance from a chosen point."
+        }
+      ],
+      "misconceptionsAndCommonMistakes": [
+        {
+          "misconception": "Pupils may place the perpendicular by eye rather than by construction.",
+          "response": "Use equal marks and a justified construction so the right angle follows from the geometry."
+        }
+      ]
+    },
+    "demo-angle-sum-of-a-triangle": {
+      "lessonKeywords": [
+        {
+          "keyword": "straight angle",
+          "description": "An angle of 180 degrees."
+        },
+        {
+          "keyword": "exterior angle",
+          "description": "An angle formed when one side of a polygon is extended."
+        }
+      ],
+      "misconceptionsAndCommonMistakes": [
+        {
+          "misconception": "Pupils may think the angle sum changes when the triangle changes shape.",
+          "response": "Vary the triangle and keep tracking the three interior angles back to a straight angle."
+        }
+      ]
+    }
+  }
+}

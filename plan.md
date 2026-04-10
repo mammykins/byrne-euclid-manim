@@ -1719,6 +1719,7 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [x] 5.4 — `scripts/build_manifest.py` and `curriculum/curriculum_manifest.json`
 - [x] 5.5 — Generated `docs/curriculum_mapping.md`
 - [x] Oak API auth diagnosis completed locally: `api/v0/swagger.json` confirms bearer auth on curriculum endpoints, and the configured `.env` token returns `401 UNAUTHORIZED` for `/subjects/maths` under all tested header variants
+- [x] Synthetic curriculum preview added so the final Oak-enriched manifest, mapping, and showcase shape can be reviewed without live Oak auth
 - [x] 6.1 — `scripts/render_all.py` and `scripts/gif_convert.sh` implemented; full low-quality MP4/PNG render pass and local GIF conversion completed successfully
 - [x] 6.2 — README completed for public-facing use
 - [x] 6.3 — `CONTRIBUTING.md`
