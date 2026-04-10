@@ -128,6 +128,9 @@ def write_json(path: Path, payload: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
 
+def resolve_api_key() -> str | None:
+    return os.environ.get("OAK_OPEN_API_KEY") or os.environ.get("OAK_API_KEY")
+
 
 def fetch_oak_curriculum_data(
     client: OakClientProtocol,
@@ -226,10 +229,10 @@ def main() -> None:
         logger.info("Would write Oak cache files into %s", output_dir)
         return
 
-    api_key = os.environ.get("OAK_API_KEY")
+    api_key = resolve_api_key()
     if not api_key:
         raise SystemExit(
-            "Missing OAK_API_KEY. Re-run with "
+            "Missing OAK_OPEN_API_KEY or OAK_API_KEY. Re-run with "
             "`uv run --env-file .env python scripts/fetch_oak_curriculum.py`."
         )
 

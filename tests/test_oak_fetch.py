@@ -1,8 +1,11 @@
 import json
 from pathlib import Path
 
+import pytest
+
 from scripts.fetch_oak_curriculum import (
     fetch_oak_curriculum_data,
+    resolve_api_key,
     select_geometry_lessons,
     select_geometry_threads,
 )
@@ -220,3 +223,10 @@ def test_fetch_oak_curriculum_data_writes_expected_cache_files(tmp_path: Path) -
         saved["lesson_summaries"]["bisect-a-line-segment"]["lessonTitle"]
         == "Bisect a line segment"
     )
+
+
+def test_resolve_api_key_prefers_oak_open_api_key(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("OAK_API_KEY", "legacy-key")
+    monkeypatch.setenv("OAK_OPEN_API_KEY", "preferred-key")
+
+    assert resolve_api_key() == "preferred-key"

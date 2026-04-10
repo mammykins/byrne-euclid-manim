@@ -93,7 +93,7 @@ bash scripts/gif_convert.sh
 uv run python scripts/build_manifest.py
 ```
 
-If you have an Oak API key available locally, refresh the cached curriculum data without exposing the key:
+If you have an Oak API key available locally under `OAK_OPEN_API_KEY` or `OAK_API_KEY`, refresh the cached curriculum data without exposing the key:
 
 ```bash path=null start=null
 uv run --env-file .env python scripts/fetch_oak_curriculum.py

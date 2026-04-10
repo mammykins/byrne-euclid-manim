@@ -18,6 +18,6 @@ Oak National Academy content is used under the Open Government Licence. When les
 
 ## Update workflow
 
-1. Refresh Oak cache data with `uv run --env-file .env python scripts/fetch_oak_curriculum.py`
+1. Refresh Oak cache data with `uv run --env-file .env python scripts/fetch_oak_curriculum.py` using `OAK_OPEN_API_KEY` or `OAK_API_KEY`
 2. Review or adjust `curriculum/euclid_to_oak.yaml`
 3. Rebuild the manifest and curriculum document with `uv run python scripts/build_manifest.py`

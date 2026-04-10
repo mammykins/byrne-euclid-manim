@@ -71,7 +71,7 @@ If you change scene titles, scene coverage, curriculum links, or output file exp
 uv run python scripts/build_manifest.py
 ```
 
-If you are refreshing Oak cache data and have a local API key:
+If you are refreshing Oak cache data and have a local key under `OAK_OPEN_API_KEY` or `OAK_API_KEY`:
 
 ```bash path=null start=null
 uv run --env-file .env python scripts/fetch_oak_curriculum.py

@@ -1718,7 +1718,8 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [x] 5.3 — Hand-maintained curriculum mapping drafted in `curriculum/euclid_to_oak.yaml`
 - [x] 5.4 — `scripts/build_manifest.py` and `curriculum/curriculum_manifest.json`
 - [x] 5.5 — Generated `docs/curriculum_mapping.md`
-- [x] 6.1 — `scripts/render_all.py` and `scripts/gif_convert.sh` implemented; full low-quality MP4/PNG render pass completed locally
+- [x] Oak API auth diagnosis completed locally: `api/v0/swagger.json` confirms bearer auth on curriculum endpoints, and the configured `.env` token returns `401 UNAUTHORIZED` for `/subjects/maths` under all tested header variants
+- [x] 6.1 — `scripts/render_all.py` and `scripts/gif_convert.sh` implemented; full low-quality MP4/PNG render pass and local GIF conversion completed successfully
 - [x] 6.2 — README completed for public-facing use
 - [x] 6.3 — `CONTRIBUTING.md`
 - [x] 6.4 — CI expanded for full renders plus PR validation workflow
@@ -1731,9 +1732,9 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [ ] 2.11 — Phase 2 consistency review and high-quality render pass
 - [ ] 3.8 — Phase 3 consistency review and high-quality render pass
 - [ ] 4.4 — Phase 4 consistency review and high-quality render pass
-- [ ] 5.1 — Live Oak API exploration and `curriculum/` cache refresh pending `OAK_API_KEY`
+- [ ] 5.1 — Live Oak API exploration and `curriculum/` cache refresh blocked until Mat provides or verifies a fresh working Oak API token; the current configured token returns `401 UNAUTHORIZED`
 - [ ] 5.6 — Commit reviewed Oak cache data after a successful authenticated fetch
-- [ ] 6.1 — Local GIF conversion verification pending an installed `ffmpeg` binary
+- [ ] 6.1 — Mat final quality spot-check across rendered outputs
 - [ ] 6.5 — YouTube upload and playlist curation
 - [ ] 6.6 — Blog post drafting, review, and publication
 - [ ] 6.7 — Tag and publish the `v0.1.0` release
