@@ -1,0 +1,803 @@
+{
+  "animations": [
+    {
+      "alt_text": "Four Byrne colour swatches sit beside sample lines and an angle mark on a cream page.",
+      "description": "Reference scene showing the Byrne palette, stroke weights, and angle marks.",
+      "duration_seconds": 12,
+      "euclid_book": 1,
+      "euclid_numbers": [],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/PaletteCard.gif",
+        "mp4": "output/mp4/PaletteCard.mp4",
+        "png": "output/png/PaletteCard.png"
+      },
+      "keywords": [
+        "Byrne palette",
+        "design system",
+        "geometry notation"
+      ],
+      "misconceptions": [],
+      "nc_references": [],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PaletteCard",
+      "title": "Byrne palette card"
+    },
+    {
+      "alt_text": "A point appears, then a line, then a curved and a straight line are contrasted.",
+      "description": "Introduces the Euclidean ideas of a point, a line, and a straight line.",
+      "duration_seconds": 20,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        1,
+        2,
+        4
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefPointLineStraightLine.gif",
+        "mp4": "output/mp4/DefPointLineStraightLine.mp4",
+        "png": "output/png/DefPointLineStraightLine.png"
+      },
+      "keywords": [
+        "point",
+        "line",
+        "straight line"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify horizontal and vertical lines and pairs of perpendicular and parallel lines",
+          "year": 3
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Describe, sketch and draw using conventional terms and notation",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefPointLineStraightLine",
+      "title": "Definitions I, II, IV \u2014 point, line, straight line"
+    },
+    {
+      "alt_text": "One arm rotates around a vertex so the angle changes from right to obtuse to acute.",
+      "description": "Shows how a right angle relates to obtuse and acute angles.",
+      "duration_seconds": 30,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        10,
+        11,
+        12
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefAngleTypes.gif",
+        "mp4": "output/mp4/DefAngleTypes.mp4",
+        "png": "output/png/DefAngleTypes.png"
+      },
+      "keywords": [
+        "right angle",
+        "obtuse angle",
+        "acute angle",
+        "perpendicular"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Recognise angles as a property of shape or a description of a turn",
+          "year": 3
+        },
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify right angles",
+          "year": 3
+        },
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify acute and obtuse angles",
+          "year": 4
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Describe, sketch and draw using conventional terms and notation",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefAngleTypes",
+      "title": "Definitions X\u2013XII \u2014 right, obtuse, and acute angles"
+    },
+    {
+      "alt_text": "A point and radius create a circle, then a diameter and coloured semicircle are added.",
+      "description": "Builds a circle from a centre and radius, then highlights the diameter and semicircle.",
+      "duration_seconds": 25,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefCircle.gif",
+        "mp4": "output/mp4/DefCircle.mp4",
+        "png": "output/png/DefCircle.png"
+      },
+      "keywords": [
+        "circle",
+        "centre",
+        "radius",
+        "diameter",
+        "semicircle"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Illustrate and name parts of circles, including radius, diameter and circumference",
+          "year": 6
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and illustrate properties of circles and other plane figures",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefCircle",
+      "title": "Definitions XV\u2013XVIII \u2014 circle, centre, diameter, semicircle"
+    },
+    {
+      "alt_text": "Three triangles appear side by side, each labelled by its side properties.",
+      "description": "Compares equilateral, isosceles, and scalene triangles.",
+      "duration_seconds": 30,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        24,
+        25,
+        26
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefTrianglesBySide.gif",
+        "mp4": "output/mp4/DefTrianglesBySide.mp4",
+        "png": "output/png/DefTrianglesBySide.png"
+      },
+      "keywords": [
+        "equilateral triangle",
+        "isosceles triangle",
+        "scalene triangle",
+        "classify triangles"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Compare and classify geometric shapes, including triangles, based on their properties and sizes",
+          "year": 4
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and illustrate properties of triangles and other plane figures",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefTrianglesBySide",
+      "title": "Definitions XXIV\u2013XXVI \u2014 triangles by side"
+    },
+    {
+      "alt_text": "Three triangles appear with angle marks showing right, obtuse, and acute classifications.",
+      "description": "Compares right-angled, obtuse-angled, and acute-angled triangles.",
+      "duration_seconds": 30,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        27,
+        28,
+        29
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefTrianglesByAngle.gif",
+        "mp4": "output/mp4/DefTrianglesByAngle.mp4",
+        "png": "output/png/DefTrianglesByAngle.png"
+      },
+      "keywords": [
+        "right-angled triangle",
+        "obtuse-angled triangle",
+        "acute-angled triangle",
+        "classify triangles"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Compare and classify geometric shapes, including triangles, based on their properties and sizes",
+          "year": 4
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and illustrate properties of triangles and other plane figures",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefTrianglesByAngle",
+      "title": "Definitions XXVII\u2013XXIX \u2014 triangles by angle"
+    },
+    {
+      "alt_text": "A square morphs through several quadrilateral families while their defining properties are highlighted.",
+      "description": "Compares square, rectangle, rhombus, parallelogram, and trapezium families.",
+      "duration_seconds": 40,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefQuadrilaterals.gif",
+        "mp4": "output/mp4/DefQuadrilaterals.mp4",
+        "png": "output/png/DefQuadrilaterals.png"
+      },
+      "keywords": [
+        "square",
+        "rectangle",
+        "rhombus",
+        "parallelogram",
+        "trapezium"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes",
+          "year": 4
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and illustrate properties of quadrilaterals and other plane figures",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefQuadrilaterals",
+      "title": "Definitions XXX\u2013XXXIV \u2014 quadrilaterals"
+    },
+    {
+      "alt_text": "Two lines extend in both directions while spacing markers show they remain parallel.",
+      "description": "Shows that parallel lines stay equidistant and never meet.",
+      "duration_seconds": 20,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        35
+      ],
+      "euclid_type": "definition",
+      "files": {
+        "gif": "output/gif/DefParallelLines.gif",
+        "mp4": "output/mp4/DefParallelLines.mp4",
+        "png": "output/png/DefParallelLines.png"
+      },
+      "keywords": [
+        "parallel lines",
+        "straight line",
+        "equidistant"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify horizontal and vertical lines and pairs of perpendicular and parallel lines",
+          "year": 3
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Describe, sketch and draw using conventional terms and notation",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "DefParallelLines",
+      "title": "Definition XXXV \u2014 parallel lines"
+    },
+    {
+      "alt_text": "Two points appear and a straight line is drawn cleanly between them.",
+      "description": "Establishes the basic act of joining two points with a straight line.",
+      "duration_seconds": 10,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        1
+      ],
+      "euclid_type": "postulate",
+      "files": {
+        "gif": "output/gif/PostulateI.gif",
+        "mp4": "output/mp4/PostulateI.mp4",
+        "png": "output/png/PostulateI.png"
+      },
+      "keywords": [
+        "straight line",
+        "endpoints",
+        "construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PostulateI",
+      "title": "Postulate I \u2014 draw a straight line between two points"
+    },
+    {
+      "alt_text": "A short segment grows in both directions to become a longer straight line.",
+      "description": "Shows a line segment being produced beyond its endpoints.",
+      "duration_seconds": 10,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        2
+      ],
+      "euclid_type": "postulate",
+      "files": {
+        "gif": "output/gif/PostulateII.gif",
+        "mp4": "output/mp4/PostulateII.mp4",
+        "png": "output/png/PostulateII.png"
+      },
+      "keywords": [
+        "extend a line",
+        "straight line",
+        "construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PostulateII",
+      "title": "Postulate II \u2014 extend a finite straight line"
+    },
+    {
+      "alt_text": "A point and a fixed radius produce a full circle through a compass-style sweep.",
+      "description": "Shows a circle swept from a chosen centre and radius.",
+      "duration_seconds": 15,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        3
+      ],
+      "euclid_type": "postulate",
+      "files": {
+        "gif": "output/gif/PostulateIII.gif",
+        "mp4": "output/mp4/PostulateIII.mp4",
+        "png": "output/png/PostulateIII.png"
+      },
+      "keywords": [
+        "circle",
+        "centre",
+        "radius",
+        "compass construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Illustrate and name parts of circles, including radius, diameter and circumference",
+          "year": 6
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PostulateIII",
+      "title": "Postulate III \u2014 describe a circle with any centre and distance"
+    },
+    {
+      "alt_text": "Two circles cross above a base line to create an equilateral triangle.",
+      "description": "Builds an equilateral triangle from a single given segment using two circles.",
+      "duration_seconds": 45,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        1
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropI.gif",
+        "mp4": "output/mp4/PropI.mp4",
+        "png": "output/png/PropI.png"
+      },
+      "keywords": [
+        "equilateral triangle",
+        "compass construction",
+        "circle intersection"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Draw 2D shapes using given dimensions and angles",
+          "year": 6
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropI",
+      "title": "Proposition I \u2014 construct an equilateral triangle on a given line"
+    },
+    {
+      "alt_text": "Several auxiliary lines and circles show how a given length is copied from a new point.",
+      "description": "Constructs a new segment from a point equal in length to a given segment.",
+      "duration_seconds": 50,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        2
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropII.gif",
+        "mp4": "output/mp4/PropII.mp4",
+        "png": "output/png/PropII.png"
+      },
+      "keywords": [
+        "copy a segment",
+        "equal lengths",
+        "compass construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropII",
+      "title": "Proposition II \u2014 copy a line segment from a given point"
+    },
+    {
+      "alt_text": "A longer line is marked by a circle so a shorter equal segment is cut off from it.",
+      "description": "Cuts a line so that part of it matches a shorter given segment.",
+      "duration_seconds": 35,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        3
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropIII.gif",
+        "mp4": "output/mp4/PropIII.mp4",
+        "png": "output/png/PropIII.png"
+      },
+      "keywords": [
+        "cut off a segment",
+        "equal lengths",
+        "circle construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropIII",
+      "title": "Proposition III \u2014 cut off a segment equal to a shorter one"
+    },
+    {
+      "alt_text": "Compass arcs and a final line split one angle cleanly into two equal parts.",
+      "description": "Bisects a given angle using equal marks and an equilateral triangle construction.",
+      "duration_seconds": 40,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        9
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropIX.gif",
+        "mp4": "output/mp4/PropIX.mp4",
+        "png": "output/png/PropIX.png"
+      },
+      "keywords": [
+        "angle bisector",
+        "equal angles",
+        "compass construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropIX",
+      "title": "Proposition IX \u2014 bisect a rectilinear angle"
+    },
+    {
+      "alt_text": "A line segment gains auxiliary circles and a final mark at its midpoint.",
+      "description": "Locates the midpoint of a line segment by construction.",
+      "duration_seconds": 40,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        10
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropX.gif",
+        "mp4": "output/mp4/PropX.mp4",
+        "png": "output/png/PropX.png"
+      },
+      "keywords": [
+        "midpoint",
+        "bisect a line segment",
+        "perpendicular bisector"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropX",
+      "title": "Proposition X \u2014 bisect a finite straight line"
+    },
+    {
+      "alt_text": "An equilateral-triangle construction creates a vertical line from a point on a base line.",
+      "description": "Constructs a line perpendicular to a given line at a point on it.",
+      "duration_seconds": 40,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        11
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropXI.gif",
+        "mp4": "output/mp4/PropXI.mp4",
+        "png": "output/png/PropXI.png"
+      },
+      "keywords": [
+        "perpendicular",
+        "right angle",
+        "construction"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify horizontal and vertical lines and pairs of perpendicular and parallel lines",
+          "year": 3
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropXI",
+      "title": "Proposition XI \u2014 draw a perpendicular from a point on a line"
+    },
+    {
+      "alt_text": "A point above a line uses a circle and midpoint construction to create a perpendicular.",
+      "description": "Drops a perpendicular from a point outside a line down to the line.",
+      "duration_seconds": 45,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        12
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropXII.gif",
+        "mp4": "output/mp4/PropXII.mp4",
+        "png": "output/png/PropXII.png"
+      },
+      "keywords": [
+        "perpendicular from a point",
+        "right angle",
+        "external point"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the standard ruler and compass constructions",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropXII",
+      "title": "Proposition XII \u2014 draw a perpendicular from an external point"
+    },
+    {
+      "alt_text": "Two adjacent coloured angles sit on a straight line and are shown to combine to 180 degrees.",
+      "description": "Demonstrates that adjacent angles on a straight line sum to two right angles.",
+      "duration_seconds": 35,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        13
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropXIII.gif",
+        "mp4": "output/mp4/PropXIII.mp4",
+        "png": "output/png/PropXIII.png"
+      },
+      "keywords": [
+        "straight line angle",
+        "supplementary angles",
+        "180 degrees"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Identify angles at a point on a straight line and 1/2 a turn",
+          "year": 5
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Apply the properties of angles at a point and angles at a point on a straight line",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropXIII",
+      "title": "Proposition XIII \u2014 angles on a straight line"
+    },
+    {
+      "alt_text": "Two intersecting lines create four angles, with opposite pairs highlighted as equal.",
+      "description": "Demonstrates that vertically opposite angles are equal.",
+      "duration_seconds": 35,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        15
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropXV.gif",
+        "mp4": "output/mp4/PropXV.mp4",
+        "png": "output/png/PropXV.png"
+      },
+      "keywords": [
+        "vertically opposite angles",
+        "intersecting lines",
+        "equal angles"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Recognise angles where they meet at a point, are on a straight line, or are vertically opposite, and find missing angles",
+          "year": 6
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Apply the properties of vertically opposite angles",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropXV",
+      "title": "Proposition XV \u2014 vertically opposite angles"
+    },
+    {
+      "alt_text": "The three angles of a triangle are rearranged along a straight line to show a 180-degree total.",
+      "description": "Demonstrates that the interior angles of a triangle sum to 180 degrees.",
+      "duration_seconds": 45,
+      "euclid_book": 1,
+      "euclid_numbers": [
+        32
+      ],
+      "euclid_type": "proposition",
+      "files": {
+        "gif": "output/gif/PropXXXII.gif",
+        "mp4": "output/mp4/PropXXXII.mp4",
+        "png": "output/png/PropXXXII.png"
+      },
+      "keywords": [
+        "angle sum of a triangle",
+        "exterior angle",
+        "180 degrees"
+      ],
+      "misconceptions": [],
+      "nc_references": [
+        {
+          "domain": "Geometry \u2014 properties of shapes",
+          "key_stage": "KS2",
+          "statement": "Find unknown angles in triangles, quadrilaterals and regular polygons",
+          "year": 6
+        },
+        {
+          "domain": "Geometry and measures",
+          "key_stage": "KS3",
+          "statement": "Derive and use the sum of angles in a triangle and use it to deduce the angle sum in polygons",
+          "year": null
+        }
+      ],
+      "oak_lesson_slugs": [],
+      "oak_thread_slugs": [],
+      "scene_class": "PropXXXII",
+      "title": "Proposition XXXII \u2014 angle sum of a triangle"
+    }
+  ],
+  "generated_at": "2026-04-10T05:01:17Z",
+  "version": "0.1.0"
+}

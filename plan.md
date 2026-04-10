@@ -1705,21 +1705,35 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [x] 1.2 — Animation convenience methods on `ByrneScene`
 - [x] 1.5 — Unit tests (`tests/test_style.py`, `tests/test_utils.py`, `tests/test_rendering.py`)
 - [x] 1.6 — Palette card scene
+- [x] 1.7 — `docs/style_guide.md`
 - [x] 1.8 — Update CI
 - [x] 2.1–2.10 — Implement definition and postulate scene classes
+- [x] 2.12 — Add definition and postulate entries to `curriculum/euclid_to_oak.yaml`
 - [x] 3.1–3.7 — Implement construction scene classes
+- [x] 3.9 — Add construction entries to `curriculum/euclid_to_oak.yaml`
 - [x] 4.1–4.3 — Implement theorem scene classes
+- [x] 4.5 — Add theorem entries to `curriculum/euclid_to_oak.yaml`
 - [x] Smoke renders verified for `PaletteCard`, `DefAngleTypes`, `DefCircle`, `PostulateIII`, `PropI`, `PropII`, and `PropXXXII`
+- [x] 5.2 — `scripts/fetch_oak_curriculum.py` implemented with dry-run support and cache-writing flow
+- [x] 5.3 — Hand-maintained curriculum mapping drafted in `curriculum/euclid_to_oak.yaml`
+- [x] 5.4 — `scripts/build_manifest.py` and `curriculum/curriculum_manifest.json`
+- [x] 5.5 — Generated `docs/curriculum_mapping.md`
+- [x] 6.1 — `scripts/render_all.py` and `scripts/gif_convert.sh` implemented; full low-quality MP4/PNG render pass completed locally
+- [x] 6.2 — README completed for public-facing use
+- [x] 6.3 — `CONTRIBUTING.md`
+- [x] 6.4 — CI expanded for full renders plus PR validation workflow
 
 ### Pending Mat-only review or later-phase follow-up
 
 - [ ] 0.7 — Push to GitHub and verify CI green on the remote
 - [ ] 1.0 — Verify Byrne palette against c82.net and confirm the visual feel
 - [ ] 1.3 — Final square-output approach handled in the render pipeline phase via centre-crop GIF generation rather than scene-level frame resizing
-- [ ] 1.7 — Write `docs/style_guide.md`
 - [ ] 2.11 — Phase 2 consistency review and high-quality render pass
-- [ ] 2.12 — Update curriculum mapping for the definition and postulate scenes
 - [ ] 3.8 — Phase 3 consistency review and high-quality render pass
-- [ ] 3.9 — Update curriculum mapping for the construction scenes
 - [ ] 4.4 — Phase 4 consistency review and high-quality render pass
-- [ ] 4.5 — Update curriculum mapping for the theorem scenes
+- [ ] 5.1 — Live Oak API exploration and `curriculum/` cache refresh pending `OAK_API_KEY`
+- [ ] 5.6 — Commit reviewed Oak cache data after a successful authenticated fetch
+- [ ] 6.1 — Local GIF conversion verification pending an installed `ffmpeg` binary
+- [ ] 6.5 — YouTube upload and playlist curation
+- [ ] 6.6 — Blog post drafting, review, and publication
+- [ ] 6.7 — Tag and publish the `v0.1.0` release

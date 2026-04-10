@@ -1,0 +1,478 @@
+- scene: PaletteCard
+  euclid_type: definition
+  euclid_numbers: []
+  title: Byrne palette card
+  description: Reference scene showing the Byrne palette, stroke weights, and angle marks.
+  alt_text: Four Byrne colour swatches sit beside sample lines and an angle mark on a cream page.
+  duration_seconds: 12
+  nc_references: []
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - Byrne palette
+    - design system
+    - geometry notation
+  misconceptions: []
+- scene: DefPointLineStraightLine
+  euclid_type: definition
+  euclid_numbers:
+    - 1
+    - 2
+    - 4
+  title: Definitions I, II, IV — point, line, straight line
+  description: Introduces the Euclidean ideas of a point, a line, and a straight line.
+  alt_text: A point appears, then a line, then a curved and a straight line are contrasted.
+  duration_seconds: 20
+  nc_references:
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Describe, sketch and draw using conventional terms and notation
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - point
+    - line
+    - straight line
+  misconceptions: []
+- scene: DefAngleTypes
+  euclid_type: definition
+  euclid_numbers:
+    - 10
+    - 11
+    - 12
+  title: Definitions X–XII — right, obtuse, and acute angles
+  description: Shows how a right angle relates to obtuse and acute angles.
+  alt_text: One arm rotates around a vertex so the angle changes from right to obtuse to acute.
+  duration_seconds: 30
+  nc_references:
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Recognise angles as a property of shape or a description of a turn
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Identify right angles
+    - key_stage: KS2
+      year: 4
+      domain: Geometry — properties of shapes
+      statement: Identify acute and obtuse angles
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Describe, sketch and draw using conventional terms and notation
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - right angle
+    - obtuse angle
+    - acute angle
+    - perpendicular
+  misconceptions: []
+- scene: DefCircle
+  euclid_type: definition
+  euclid_numbers:
+    - 15
+    - 16
+    - 17
+    - 18
+  title: Definitions XV–XVIII — circle, centre, diameter, semicircle
+  description: Builds a circle from a centre and radius, then highlights the diameter and semicircle.
+  alt_text: A point and radius create a circle, then a diameter and coloured semicircle are added.
+  duration_seconds: 25
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Illustrate and name parts of circles, including radius, diameter and circumference
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and illustrate properties of circles and other plane figures
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - circle
+    - centre
+    - radius
+    - diameter
+    - semicircle
+  misconceptions: []
+- scene: DefTrianglesBySide
+  euclid_type: definition
+  euclid_numbers:
+    - 24
+    - 25
+    - 26
+  title: Definitions XXIV–XXVI — triangles by side
+  description: Compares equilateral, isosceles, and scalene triangles.
+  alt_text: Three triangles appear side by side, each labelled by its side properties.
+  duration_seconds: 30
+  nc_references:
+    - key_stage: KS2
+      year: 4
+      domain: Geometry — properties of shapes
+      statement: Compare and classify geometric shapes, including triangles, based on their properties and sizes
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and illustrate properties of triangles and other plane figures
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - equilateral triangle
+    - isosceles triangle
+    - scalene triangle
+    - classify triangles
+  misconceptions: []
+- scene: DefTrianglesByAngle
+  euclid_type: definition
+  euclid_numbers:
+    - 27
+    - 28
+    - 29
+  title: Definitions XXVII–XXIX — triangles by angle
+  description: Compares right-angled, obtuse-angled, and acute-angled triangles.
+  alt_text: Three triangles appear with angle marks showing right, obtuse, and acute classifications.
+  duration_seconds: 30
+  nc_references:
+    - key_stage: KS2
+      year: 4
+      domain: Geometry — properties of shapes
+      statement: Compare and classify geometric shapes, including triangles, based on their properties and sizes
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and illustrate properties of triangles and other plane figures
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - right-angled triangle
+    - obtuse-angled triangle
+    - acute-angled triangle
+    - classify triangles
+  misconceptions: []
+- scene: DefQuadrilaterals
+  euclid_type: definition
+  euclid_numbers:
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+  title: Definitions XXX–XXXIV — quadrilaterals
+  description: Compares square, rectangle, rhombus, parallelogram, and trapezium families.
+  alt_text: A square morphs through several quadrilateral families while their defining properties are highlighted.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS2
+      year: 4
+      domain: Geometry — properties of shapes
+      statement: Compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and illustrate properties of quadrilaterals and other plane figures
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - square
+    - rectangle
+    - rhombus
+    - parallelogram
+    - trapezium
+  misconceptions: []
+- scene: DefParallelLines
+  euclid_type: definition
+  euclid_numbers:
+    - 35
+  title: Definition XXXV — parallel lines
+  description: Shows that parallel lines stay equidistant and never meet.
+  alt_text: Two lines extend in both directions while spacing markers show they remain parallel.
+  duration_seconds: 20
+  nc_references:
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Describe, sketch and draw using conventional terms and notation
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - parallel lines
+    - straight line
+    - equidistant
+  misconceptions: []
+- scene: PostulateI
+  euclid_type: postulate
+  euclid_numbers:
+    - 1
+  title: Postulate I — draw a straight line between two points
+  description: Establishes the basic act of joining two points with a straight line.
+  alt_text: Two points appear and a straight line is drawn cleanly between them.
+  duration_seconds: 10
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - straight line
+    - endpoints
+    - construction
+  misconceptions: []
+- scene: PostulateII
+  euclid_type: postulate
+  euclid_numbers:
+    - 2
+  title: Postulate II — extend a finite straight line
+  description: Shows a line segment being produced beyond its endpoints.
+  alt_text: A short segment grows in both directions to become a longer straight line.
+  duration_seconds: 10
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - extend a line
+    - straight line
+    - construction
+  misconceptions: []
+- scene: PostulateIII
+  euclid_type: postulate
+  euclid_numbers:
+    - 3
+  title: Postulate III — describe a circle with any centre and distance
+  description: Shows a circle swept from a chosen centre and radius.
+  alt_text: A point and a fixed radius produce a full circle through a compass-style sweep.
+  duration_seconds: 15
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Illustrate and name parts of circles, including radius, diameter and circumference
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - circle
+    - centre
+    - radius
+    - compass construction
+  misconceptions: []
+- scene: PropI
+  euclid_type: proposition
+  euclid_numbers:
+    - 1
+  title: Proposition I — construct an equilateral triangle on a given line
+  description: Builds an equilateral triangle from a single given segment using two circles.
+  alt_text: Two circles cross above a base line to create an equilateral triangle.
+  duration_seconds: 45
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Draw 2D shapes using given dimensions and angles
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - equilateral triangle
+    - compass construction
+    - circle intersection
+  misconceptions: []
+- scene: PropII
+  euclid_type: proposition
+  euclid_numbers:
+    - 2
+  title: Proposition II — copy a line segment from a given point
+  description: Constructs a new segment from a point equal in length to a given segment.
+  alt_text: Several auxiliary lines and circles show how a given length is copied from a new point.
+  duration_seconds: 50
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - copy a segment
+    - equal lengths
+    - compass construction
+  misconceptions: []
+- scene: PropIII
+  euclid_type: proposition
+  euclid_numbers:
+    - 3
+  title: Proposition III — cut off a segment equal to a shorter one
+  description: Cuts a line so that part of it matches a shorter given segment.
+  alt_text: A longer line is marked by a circle so a shorter equal segment is cut off from it.
+  duration_seconds: 35
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - cut off a segment
+    - equal lengths
+    - circle construction
+  misconceptions: []
+- scene: PropIX
+  euclid_type: proposition
+  euclid_numbers:
+    - 9
+  title: Proposition IX — bisect a rectilinear angle
+  description: Bisects a given angle using equal marks and an equilateral triangle construction.
+  alt_text: Compass arcs and a final line split one angle cleanly into two equal parts.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - angle bisector
+    - equal angles
+    - compass construction
+  misconceptions: []
+- scene: PropX
+  euclid_type: proposition
+  euclid_numbers:
+    - 10
+  title: Proposition X — bisect a finite straight line
+  description: Locates the midpoint of a line segment by construction.
+  alt_text: A line segment gains auxiliary circles and a final mark at its midpoint.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - midpoint
+    - bisect a line segment
+    - perpendicular bisector
+  misconceptions: []
+- scene: PropXI
+  euclid_type: proposition
+  euclid_numbers:
+    - 11
+  title: Proposition XI — draw a perpendicular from a point on a line
+  description: Constructs a line perpendicular to a given line at a point on it.
+  alt_text: An equilateral-triangle construction creates a vertical line from a point on a base line.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS2
+      year: 3
+      domain: Geometry — properties of shapes
+      statement: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - perpendicular
+    - right angle
+    - construction
+  misconceptions: []
+- scene: PropXII
+  euclid_type: proposition
+  euclid_numbers:
+    - 12
+  title: Proposition XII — draw a perpendicular from an external point
+  description: Drops a perpendicular from a point outside a line down to the line.
+  alt_text: A point above a line uses a circle and midpoint construction to create a perpendicular.
+  duration_seconds: 45
+  nc_references:
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - perpendicular from a point
+    - right angle
+    - external point
+  misconceptions: []
+- scene: PropXIII
+  euclid_type: proposition
+  euclid_numbers:
+    - 13
+  title: Proposition XIII — angles on a straight line
+  description: Demonstrates that adjacent angles on a straight line sum to two right angles.
+  alt_text: Two adjacent coloured angles sit on a straight line and are shown to combine to 180 degrees.
+  duration_seconds: 35
+  nc_references:
+    - key_stage: KS2
+      year: 5
+      domain: Geometry — properties of shapes
+      statement: Identify angles at a point on a straight line and 1/2 a turn
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Apply the properties of angles at a point and angles at a point on a straight line
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - straight line angle
+    - supplementary angles
+    - 180 degrees
+  misconceptions: []
+- scene: PropXV
+  euclid_type: proposition
+  euclid_numbers:
+    - 15
+  title: Proposition XV — vertically opposite angles
+  description: Demonstrates that vertically opposite angles are equal.
+  alt_text: Two intersecting lines create four angles, with opposite pairs highlighted as equal.
+  duration_seconds: 35
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Recognise angles where they meet at a point, are on a straight line, or are vertically opposite, and find missing angles
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Apply the properties of vertically opposite angles
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - vertically opposite angles
+    - intersecting lines
+    - equal angles
+  misconceptions: []
+- scene: PropXXXII
+  euclid_type: proposition
+  euclid_numbers:
+    - 32
+  title: Proposition XXXII — angle sum of a triangle
+  description: Demonstrates that the interior angles of a triangle sum to 180 degrees.
+  alt_text: The three angles of a triangle are rearranged along a straight line to show a 180-degree total.
+  duration_seconds: 45
+  nc_references:
+    - key_stage: KS2
+      year: 6
+      domain: Geometry — properties of shapes
+      statement: Find unknown angles in triangles, quadrilaterals and regular polygons
+    - key_stage: KS3
+      domain: Geometry and measures
+      statement: Derive and use the sum of angles in a triangle and use it to deduce the angle sum in polygons
+  oak_lesson_slugs: []
+  oak_thread_slugs: []
+  keywords:
+    - angle sum of a triangle
+    - exterior angle
+    - 180 degrees
+  misconceptions: []

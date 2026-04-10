@@ -4,12 +4,19 @@ on:
   push:
     branches: [main]
     paths:
+      - ".github/workflows/render.yml"
       - "src/**"
       - "scripts/**"
       - "tests/**"
+      - "curriculum/**"
       - "manim.cfg"
       - "pyproject.toml"
+  release:
+    types: [published]
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   render:
@@ -34,8 +41,14 @@ jobs:
       - name: Lint
         run: uv run ruff check src/ scripts/ tests/
 
-      - name: Render Proposition I
-        run: uv run python scripts/render_one.py PropI --quality m
+      - name: Build curriculum artefacts
+        run: uv run python scripts/build_manifest.py
+
+      - name: Render all scenes
+        run: uv run python scripts/render_all.py --quality h
+
+      - name: Convert MP4 outputs to GIF
+        run: bash scripts/gif_convert.sh
 
       - name: Upload rendered outputs
         uses: actions/upload-artifact@v4
@@ -43,3 +56,22 @@ jobs:
           name: rendered-animations
           path: output/
           retention-days: 30
+
+      - name: Upload curriculum artefacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: curriculum-artefacts
+          path: |
+            curriculum/curriculum_manifest.json
+            docs/curriculum_mapping.md
+          retention-days: 30
+
+      - name: Attach release assets
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            output/gif/*.gif
+            output/mp4/*.mp4
+            output/png/*.png
+            curriculum/curriculum_manifest.json

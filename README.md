@@ -1,10 +1,49 @@
 # byrne-euclid-manim
 
-Animated Euclidean geometry in the style of Oliver Byrne's 1847 *Euclid*.
+Animated Euclidean geometry in the style of Oliver Byrne’s 1847 *Euclid*, aligned to the English national curriculum.
 
-## What is this?
+![Proposition I still](docs/assets/prop_i.png)
 
-This project renders short geometry animations with ManimCE using Byrne's four-colour visual language on a warm cream background. The first milestone is a clean end-to-end render of Proposition I, with a repo structure that can scale to the rest of Book I.
+## What this repo does
+
+This project renders short geometry animations with Manim Community Edition using Byrne’s four-colour visual language on a warm cream background.
+
+The current catalogue covers a design-system reference card, foundational definitions and postulates, ruler-and-compass constructions, and key angle theorems from Book I. Output is produced as MP4, PNG, and square GIF artefacts so the scenes can be used in classrooms, slide decks, blog posts, and curriculum tooling.
+
+## Scene catalogue
+
+### Design system
+
+- `PaletteCard`
+
+### Definitions and postulates
+
+- `DefPointLineStraightLine`
+- `DefAngleTypes`
+- `DefCircle`
+- `DefTrianglesBySide`
+- `DefTrianglesByAngle`
+- `DefQuadrilaterals`
+- `DefParallelLines`
+- `PostulateI`
+- `PostulateII`
+- `PostulateIII`
+
+### Constructions
+
+- `PropI`
+- `PropII`
+- `PropIII`
+- `PropIX`
+- `PropX`
+- `PropXI`
+- `PropXII`
+
+### Angle theorems
+
+- `PropXIII`
+- `PropXV`
+- `PropXXXII`
 
 ## Quickstart
 
@@ -15,28 +54,134 @@ This project renders short geometry animations with ManimCE using Byrne's four-c
 - `cairo`
 - `pango`
 
-### Install and render
+On macOS:
+
+```bash path=null start=null
+brew install ffmpeg cairo pango
+```
+
+On Debian or Ubuntu:
+
+```bash path=null start=null
+sudo apt-get update
+sudo apt-get install -y ffmpeg libcairo2-dev libpango1.0-dev
+```
+
+### Install dependencies
 
 ```bash path=null start=null
 uv sync
-uv run python scripts/render_one.py PropI
 ```
 
-The rendered file is copied into `output/mp4/`.
+### Render a single scene
 
-## Status
+```bash path=null start=null
+uv run python scripts/render_one.py PropI
+uv run python scripts/render_one.py DefAngleTypes --format png
+```
 
-The repository is under active construction. Phase 0 and Phase 1 lay down the shared style, geometry helpers, tests, and render tooling that the later animation tiers build on.
+### Render the full catalogue
 
-## Licence
+```bash path=null start=null
+uv run python scripts/render_all.py --quality l
+bash scripts/gif_convert.sh
+```
 
-- Code: MIT
-- Rendered animations: planned for CC-BY 4.0
+### Build curriculum artefacts
+
+```bash path=null start=null
+uv run python scripts/build_manifest.py
+```
+
+If you have an Oak API key available locally, refresh the cached curriculum data without exposing the key:
+
+```bash path=null start=null
+uv run --env-file .env python scripts/fetch_oak_curriculum.py
+```
+
+## Output layout
+
+- `output/mp4/` — rendered MP4 animations
+- `output/png/` — final-frame stills
+- `output/gif/` — square GIF conversions
+- `curriculum/curriculum_manifest.json` — programmatic curriculum manifest
+- `docs/curriculum_mapping.md` — human-readable curriculum view
+
+## Curriculum alignment
+
+The mapping lives in `curriculum/euclid_to_oak.yaml` and is compiled into:
+
+- `curriculum/curriculum_manifest.json`
+- `docs/curriculum_mapping.md`
+
+The alignment currently covers KS2 and KS3 geometry, especially:
+
+- properties of shapes
+- angle vocabulary and angle facts
+- ruler-and-compass constructions
+- triangle angle sums
+
+## Working locally
+
+### Tests
+
+```bash path=null start=null
+uv run pytest tests/
+```
+
+### Lint
+
+```bash path=null start=null
+uv run ruff check src/ scripts/ tests/
+```
+
+### Typical loop
+
+```bash path=null start=null
+uv run pytest tests/test_scene_catalogue.py
+uv run python scripts/render_one.py PropIX --quality l
+uv run ruff check src/ scripts/ tests/
+```
+
+## Project guide
+
+- `src/byrne_euclid/style.py` — palette, scene helpers, shared animation idioms
+- `src/byrne_euclid/utils.py` — geometry helpers
+- `src/byrne_euclid/definitions.py` — definition scenes and `PaletteCard`
+- `src/byrne_euclid/postulates.py` — postulate scenes
+- `src/byrne_euclid/propositions.py` — proposition scenes
+- `src/byrne_euclid/rendering.py` — registry and render plumbing
+- `scripts/` — render, GIF, curriculum, and manifest tooling
+- `docs/style_guide.md` — visual design rules
+- `docs/curriculum_mapping.md` — curriculum mapping
+- `references/` — source attribution and curriculum PDFs
+
+## For teachers
+
+The intended classroom flow is simple:
+
+1. Render or download the scene you need
+2. Use the MP4 in slides or the GIF in docs and LMS content
+3. Cross-check the linked curriculum note in `docs/curriculum_mapping.md`
+
+The animations are visual aids. They are built to support explanation rather than replace it.
+
+## Contributing
+
+See `CONTRIBUTING.md` for the practical workflow and `docs/style_guide.md` for the non-negotiable visual rules.
 
 ## Credits
 
 - Oliver Byrne
-- Nicholas Rougeux and c82.net
-- Sergey Slyusarev / jemmybutton
+- William Pickering
+- Mary Byfield
+- Nicholas Rougeux and `c82.net`
+- Sergey Slyusarev / `jemmybutton`
 - Manim Community Edition
 - Oak National Academy
+
+## Licence
+
+- Code: MIT
+- Rendered animations: intended for CC-BY 4.0 distribution
+- Curriculum source material: Open Government Licence v3.0
