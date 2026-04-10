@@ -5,11 +5,19 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
+.ruff_cache/
 
 # Virtual environments
-.venv
+.venv/
 
 # Environment variables — never commit secrets
 .env
 .env.*
 !.env.example
+# Render outputs
+media/
+output/
+
+# Docs
+plan_critique.md

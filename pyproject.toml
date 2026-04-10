@@ -1,0 +1,52 @@
+[project]
+name = "byrne-euclid-manim"
+version = "0.1.0"
+description = "Animated Euclidean geometry in the style of Byrne's Euclid"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+    { name = "Mat Gregory" },
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "manim>=0.20.1",
+    "pydantic>=2.12.5",
+    "pyyaml>=6.0.3",
+]
+keywords = ["manim", "geometry", "euclid", "education", "animation", "byrne"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Education",
+    "Topic :: Multimedia :: Video",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.15.10",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/byrne_euclid"]
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
