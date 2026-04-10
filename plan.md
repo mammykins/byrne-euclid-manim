@@ -1706,6 +1706,10 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [x] 1.5 — Unit tests (`tests/test_style.py`, `tests/test_utils.py`, `tests/test_rendering.py`)
 - [x] 1.6 — Palette card scene
 - [x] 1.8 — Update CI
+- [x] 2.1–2.10 — Implement definition and postulate scene classes
+- [x] 3.1–3.7 — Implement construction scene classes
+- [x] 4.1–4.3 — Implement theorem scene classes
+- [x] Smoke renders verified for `PaletteCard`, `DefAngleTypes`, `DefCircle`, `PostulateIII`, `PropI`, `PropII`, and `PropXXXII`
 
 ### Pending Mat-only review or later-phase follow-up
 
@@ -1713,3 +1717,9 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [ ] 1.0 — Verify Byrne palette against c82.net and confirm the visual feel
 - [ ] 1.3 — Final square-output approach handled in the render pipeline phase via centre-crop GIF generation rather than scene-level frame resizing
 - [ ] 1.7 — Write `docs/style_guide.md`
+- [ ] 2.11 — Phase 2 consistency review and high-quality render pass
+- [ ] 2.12 — Update curriculum mapping for the definition and postulate scenes
+- [ ] 3.8 — Phase 3 consistency review and high-quality render pass
+- [ ] 3.9 — Update curriculum mapping for the construction scenes
+- [ ] 4.4 — Phase 4 consistency review and high-quality render pass
+- [ ] 4.5 — Update curriculum mapping for the theorem scenes

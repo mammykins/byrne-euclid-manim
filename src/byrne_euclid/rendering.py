@@ -9,7 +9,26 @@ logger = logging.getLogger(__name__)
 
 SCENE_REGISTRY: dict[str, str] = {
     "PaletteCard": "src/byrne_euclid/definitions.py",
+    "DefAngleTypes": "src/byrne_euclid/definitions.py",
+    "DefCircle": "src/byrne_euclid/definitions.py",
+    "DefParallelLines": "src/byrne_euclid/definitions.py",
+    "DefPointLineStraightLine": "src/byrne_euclid/definitions.py",
+    "DefQuadrilaterals": "src/byrne_euclid/definitions.py",
+    "DefTrianglesByAngle": "src/byrne_euclid/definitions.py",
+    "DefTrianglesBySide": "src/byrne_euclid/definitions.py",
+    "PostulateI": "src/byrne_euclid/postulates.py",
+    "PostulateII": "src/byrne_euclid/postulates.py",
+    "PostulateIII": "src/byrne_euclid/postulates.py",
     "PropI": "src/byrne_euclid/propositions.py",
+    "PropII": "src/byrne_euclid/propositions.py",
+    "PropIII": "src/byrne_euclid/propositions.py",
+    "PropIX": "src/byrne_euclid/propositions.py",
+    "PropX": "src/byrne_euclid/propositions.py",
+    "PropXI": "src/byrne_euclid/propositions.py",
+    "PropXII": "src/byrne_euclid/propositions.py",
+    "PropXIII": "src/byrne_euclid/propositions.py",
+    "PropXV": "src/byrne_euclid/propositions.py",
+    "PropXXXII": "src/byrne_euclid/propositions.py",
 }
 
 VALID_QUALITIES = {"l", "m", "h", "p", "k"}
