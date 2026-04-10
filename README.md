@@ -9,6 +9,31 @@ Animated Euclidean geometry in the style of Oliver Byrne’s 1847 *Euclid*, alig
 This project renders short geometry animations with Manim Community Edition using Byrne’s four-colour visual language on a warm cream background.
 
 The current catalogue covers a design-system reference card, foundational definitions and postulates, ruler-and-compass constructions, and key angle theorems from Book I. Output is produced as MP4, PNG, and square GIF artefacts so the scenes can be used in classrooms, slide decks, blog posts, and curriculum tooling.
+## Try the synthetic demo preview
+
+If you want the fastest end-to-end preview of the Oak-style packaging while live Oak auth is blocked, use the three-scene synthetic demo.
+
+If the source videos do not exist yet, render them first:
+
+```bash path=null start=null
+uv run python scripts/render_one.py DefAngleTypes --quality l
+uv run python scripts/render_one.py PropXI --quality l
+uv run python scripts/render_one.py PropXXXII --quality l
+```
+
+Build the synthetic curriculum artefacts and the stitched demo reel:
+
+```bash path=null start=null
+uv run python scripts/build_demo_curriculum_preview.py
+uv run python scripts/build_demo_reel.py
+```
+
+Open the stitched reel and the showcase document:
+
+```bash path=null start=null
+open output/demo/demo_curriculum_preview_reel.mp4
+open docs/demo_curriculum_showcase.md
+```
 
 ## Scene catalogue
 
@@ -97,6 +122,7 @@ uv run python scripts/build_manifest.py
 
 ```bash path=null start=null
 uv run python scripts/build_demo_curriculum_preview.py
+uv run python scripts/build_demo_reel.py
 ```
 
 If you have an Oak API key available locally under `OAK_OPEN_API_KEY` or `OAK_API_KEY`, refresh the cached curriculum data without exposing the key:
@@ -110,6 +136,7 @@ uv run --env-file .env python scripts/fetch_oak_curriculum.py
 - `output/mp4/` — rendered MP4 animations
 - `output/png/` — final-frame stills
 - `output/gif/` — square GIF conversions
+- `output/demo/` — stitched demo preview reel and concat manifest
 - `curriculum/curriculum_manifest.json` — programmatic curriculum manifest
 - `docs/curriculum_mapping.md` — human-readable curriculum view
 - `curriculum/demo_curriculum_manifest.json` — synthetic preview manifest showing the final enriched shape without live Oak auth
