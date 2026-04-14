@@ -203,9 +203,26 @@ uv run ruff check src/ scripts/ tests/
 
 The intended classroom flow is simple:
 
-1. Render or download the scene you need
-2. Use the MP4 in slides or the GIF in docs and LMS content
-3. Cross-check the linked curriculum note in `docs/curriculum_mapping.md`
+1. Open `docs/curriculum_mapping.md`
+2. Find the curriculum statement or geometry topic you are teaching
+3. Note the scene name and media paths listed for that entry
+4. Use the MP4 in slides or the GIF in docs and LMS content
+5. Use the animation to support explanation, then move into questioning or worked examples
+
+### Example classroom use
+
+If you are teaching triangle angle sums, start with the curriculum mapping rather than the scene name.
+
+1. Open `docs/curriculum_mapping.md`
+2. Search for `triangle` or go to the relevant curriculum statement, such as:
+   - KS2 Year 6 — `Find unknown angles in triangles, quadrilaterals and regular polygons`
+   - KS3 — `Derive and use the sum of angles in a triangle and use it to deduce the angle sum in polygons`
+3. In the matching entry, note that the mapped scene is `PropXXXII`
+4. In the `Files` line for that entry, open `output/mp4/PropXXXII.mp4`
+5. Play it once without interruption so pupils see the full movement
+6. Play it again and pause when the three interior angles are arranged on a straight line
+7. Ask: "What does this show about the angles in a triangle, and why does the straight line matter?"
+8. Then move to worked examples where pupils find missing angles in triangles
 
 The animations are visual aids. They are built to support explanation rather than replace it.
 
