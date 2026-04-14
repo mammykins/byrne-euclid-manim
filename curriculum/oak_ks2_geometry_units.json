@@ -1,0 +1,47 @@
+[
+  {
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  }
+]

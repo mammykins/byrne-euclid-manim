@@ -6,215 +6,215 @@ Contains public sector information licensed under the Open Government Licence v3
 - `DefParallelLines` — **Definition XXXV — parallel lines** (Book I definition 35)
   - NC: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identifying-parallel-lines`, `angles-on-parallel-lines-traversed-by-a-straight-line`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefParallelLines.gif`, `output/mp4/DefParallelLines.mp4`, `output/png/DefParallelLines.png`
 - `DefPointLineStraightLine` — **Definitions I, II, IV — point, line, straight line** (Book I definition 1, 2, 4)
   - NC: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `draw-shapes-with-given-properties`, `formal-angle-notation`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefPointLineStraightLine.gif`, `output/mp4/DefPointLineStraightLine.mp4`, `output/png/DefPointLineStraightLine.png`
 - `DefAngleTypes` — **Definitions X–XII — right, obtuse, and acute angles** (Book I definition 10, 11, 12)
   - NC: Recognise angles as a property of shape or a description of a turn
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-and-describe-right-angles`, `estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefAngleTypes.gif`, `output/mp4/DefAngleTypes.mp4`, `output/png/DefAngleTypes.png`
 - `DefAngleTypes` — **Definitions X–XII — right, obtuse, and acute angles** (Book I definition 10, 11, 12)
   - NC: Identify right angles
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-and-describe-right-angles`, `estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefAngleTypes.gif`, `output/mp4/DefAngleTypes.mp4`, `output/png/DefAngleTypes.png`
 - `PropXI` — **Proposition XI — draw a perpendicular from a point on a line** (Book I proposition 11)
   - NC: Identify horizontal and vertical lines and pairs of perpendicular and parallel lines
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides`, `perpendicular-to-a-given-line-through-a-given-point`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXI.gif`, `output/mp4/PropXI.mp4`, `output/png/PropXI.png`
 ### Year 4
 - `DefTrianglesBySide` — **Definitions XXIV–XXVI — triangles by side** (Book I definition 24, 25, 26)
   - NC: Compare and classify geometric shapes, including triangles, based on their properties and sizes
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-different-types-of-triangle`, `explore-sort-and-classify-triangles`, `formalising-understanding-of-triangles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefTrianglesBySide.gif`, `output/mp4/DefTrianglesBySide.mp4`, `output/png/DefTrianglesBySide.png`
 - `DefTrianglesByAngle` — **Definitions XXVII–XXIX — triangles by angle** (Book I definition 27, 28, 29)
   - NC: Compare and classify geometric shapes, including triangles, based on their properties and sizes
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-properties-of-triangles`, `angles-in-triangles`, `formalising-understanding-of-triangles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefTrianglesByAngle.gif`, `output/mp4/DefTrianglesByAngle.mp4`, `output/png/DefTrianglesByAngle.png`
 - `DefQuadrilaterals` — **Definitions XXX–XXXIV — quadrilaterals** (Book I definition 30, 31, 32, 33, 34)
   - NC: Compare and classify geometric shapes, including quadrilaterals and triangles, based on their properties and sizes
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-properties-of-quadrilaterals`, `construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides`, `angles-in-quadrilaterals`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefQuadrilaterals.gif`, `output/mp4/DefQuadrilaterals.mp4`, `output/png/DefQuadrilaterals.png`
 - `DefAngleTypes` — **Definitions X–XII — right, obtuse, and acute angles** (Book I definition 10, 11, 12)
   - NC: Identify acute and obtuse angles
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-and-describe-right-angles`, `estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefAngleTypes.gif`, `output/mp4/DefAngleTypes.mp4`, `output/png/DefAngleTypes.png`
 ### Year 5
 - `PropXIII` — **Proposition XIII — angles on a straight line** (Book I proposition 13)
   - NC: Identify angles at a point on a straight line and 1/2 a turn
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXIII.gif`, `output/mp4/PropXIII.mp4`, `output/png/PropXIII.png`
 ### Year 6
 - `DefCircle` — **Definitions XV–XVIII — circle, centre, diameter, semicircle** (Book I definition 15, 16, 17, 18)
   - NC: Illustrate and name parts of circles, including radius, diameter and circumference
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `understanding-constructing-a-circle`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefCircle.gif`, `output/mp4/DefCircle.mp4`, `output/png/DefCircle.png`
 - `PostulateIII` — **Postulate III — describe a circle with any centre and distance** (Book I postulate 3)
   - NC: Illustrate and name parts of circles, including radius, diameter and circumference
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `understanding-constructing-a-circle`, `securing-the-skill-of-using-a-pair-of-compasses`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PostulateIII.gif`, `output/mp4/PostulateIII.mp4`, `output/png/PostulateIII.png`
 - `PropI` — **Proposition I — construct an equilateral triangle on a given line** (Book I proposition 1)
   - NC: Draw 2D shapes using given dimensions and angles
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `constructing-triangles`, `draw-shapes-with-given-properties`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropI.gif`, `output/mp4/PropI.mp4`, `output/png/PropI.png`
 - `PropXV` — **Proposition XV — vertically opposite angles** (Book I proposition 15)
   - NC: Recognise angles where they meet at a point, are on a straight line, or are vertically opposite, and find missing angles
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXV.gif`, `output/mp4/PropXV.mp4`, `output/png/PropXV.png`
 - `PropXXXII` — **Proposition XXXII — angle sum of a triangle** (Book I proposition 32)
   - NC: Find unknown angles in triangles, quadrilaterals and regular polygons
   - Domain: Geometry — properties of shapes
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `angles-in-triangles`, `deriving-the-sum-of-interior-angles-in-multiple-ways`, `exterior-angles-of-polygons`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXXXII.gif`, `output/mp4/PropXXXII.mp4`, `output/png/PropXXXII.png`
 ## KS3
 ### General
 - `DefParallelLines` — **Definition XXXV — parallel lines** (Book I definition 35)
   - NC: Describe, sketch and draw using conventional terms and notation
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identifying-parallel-lines`, `angles-on-parallel-lines-traversed-by-a-straight-line`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefParallelLines.gif`, `output/mp4/DefParallelLines.mp4`, `output/png/DefParallelLines.png`
 - `DefPointLineStraightLine` — **Definitions I, II, IV — point, line, straight line** (Book I definition 1, 2, 4)
   - NC: Describe, sketch and draw using conventional terms and notation
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `draw-shapes-with-given-properties`, `formal-angle-notation`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefPointLineStraightLine.gif`, `output/mp4/DefPointLineStraightLine.mp4`, `output/png/DefPointLineStraightLine.png`
 - `DefCircle` — **Definitions XV–XVIII — circle, centre, diameter, semicircle** (Book I definition 15, 16, 17, 18)
   - NC: Derive and illustrate properties of circles and other plane figures
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `understanding-constructing-a-circle`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefCircle.gif`, `output/mp4/DefCircle.mp4`, `output/png/DefCircle.png`
 - `DefTrianglesBySide` — **Definitions XXIV–XXVI — triangles by side** (Book I definition 24, 25, 26)
   - NC: Derive and illustrate properties of triangles and other plane figures
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-different-types-of-triangle`, `explore-sort-and-classify-triangles`, `formalising-understanding-of-triangles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefTrianglesBySide.gif`, `output/mp4/DefTrianglesBySide.mp4`, `output/png/DefTrianglesBySide.png`
 - `DefTrianglesByAngle` — **Definitions XXVII–XXIX — triangles by angle** (Book I definition 27, 28, 29)
   - NC: Derive and illustrate properties of triangles and other plane figures
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-properties-of-triangles`, `angles-in-triangles`, `formalising-understanding-of-triangles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefTrianglesByAngle.gif`, `output/mp4/DefTrianglesByAngle.mp4`, `output/png/DefTrianglesByAngle.png`
 - `DefQuadrilaterals` — **Definitions XXX–XXXIV — quadrilaterals** (Book I definition 30, 31, 32, 33, 34)
   - NC: Derive and illustrate properties of quadrilaterals and other plane figures
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-properties-of-quadrilaterals`, `construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides`, `angles-in-quadrilaterals`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefQuadrilaterals.gif`, `output/mp4/DefQuadrilaterals.mp4`, `output/png/DefQuadrilaterals.png`
 - `DefAngleTypes` — **Definitions X–XII — right, obtuse, and acute angles** (Book I definition 10, 11, 12)
   - NC: Describe, sketch and draw using conventional terms and notation
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `identify-and-describe-right-angles`, `estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/DefAngleTypes.gif`, `output/mp4/DefAngleTypes.mp4`, `output/png/DefAngleTypes.png`
 - `PostulateI` — **Postulate I — draw a straight line between two points** (Book I postulate 1)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `draw-shapes-with-given-properties`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PostulateI.gif`, `output/mp4/PostulateI.mp4`, `output/png/PostulateI.png`
 - `PostulateII` — **Postulate II — extend a finite straight line** (Book I postulate 2)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `checking-compass-skills`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PostulateII.gif`, `output/mp4/PostulateII.mp4`, `output/png/PostulateII.png`
 - `PostulateIII` — **Postulate III — describe a circle with any centre and distance** (Book I postulate 3)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `understanding-constructing-a-circle`, `securing-the-skill-of-using-a-pair-of-compasses`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PostulateIII.gif`, `output/mp4/PostulateIII.mp4`, `output/png/PostulateIII.png`
 - `PropI` — **Proposition I — construct an equilateral triangle on a given line** (Book I proposition 1)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `constructing-triangles`, `draw-shapes-with-given-properties`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropI.gif`, `output/mp4/PropI.mp4`, `output/png/PropI.png`
 - `PropII` — **Proposition II — copy a line segment from a given point** (Book I proposition 2)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `checking-compass-skills`, `problem-solving-with-constructions`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropII.gif`, `output/mp4/PropII.mp4`, `output/png/PropII.png`
 - `PropIII` — **Proposition III — cut off a segment equal to a shorter one** (Book I proposition 3)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `checking-compass-skills`, `problem-solving-with-constructions`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropIII.gif`, `output/mp4/PropIII.mp4`, `output/png/PropIII.png`
 - `PropIX` — **Proposition IX — bisect a rectilinear angle** (Book I proposition 9)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `bisecting-an-angle`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropIX.gif`, `output/mp4/PropIX.mp4`, `output/png/PropIX.png`
 - `PropX` — **Proposition X — bisect a finite straight line** (Book I proposition 10)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `perpendicular-bisector-of-a-line-segment`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropX.gif`, `output/mp4/PropX.mp4`, `output/png/PropX.png`
 - `PropXI` — **Proposition XI — draw a perpendicular from a point on a line** (Book I proposition 11)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides`, `perpendicular-to-a-given-line-through-a-given-point`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXI.gif`, `output/mp4/PropXI.mp4`, `output/png/PropXI.png`
 - `PropXII` — **Proposition XII — draw a perpendicular from an external point** (Book I proposition 12)
   - NC: Derive and use the standard ruler and compass constructions
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `perpendicular-to-a-given-line-through-a-given-point`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXII.gif`, `output/mp4/PropXII.mp4`, `output/png/PropXII.png`
 - `PropXIII` — **Proposition XIII — angles on a straight line** (Book I proposition 13)
   - NC: Apply the properties of angles at a point and angles at a point on a straight line
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXIII.gif`, `output/mp4/PropXIII.mp4`, `output/png/PropXIII.png`
 - `PropXV` — **Proposition XV — vertically opposite angles** (Book I proposition 15)
   - NC: Apply the properties of vertically opposite angles
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems`, `checking-understanding-of-angles-from-ks2`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXV.gif`, `output/mp4/PropXV.mp4`, `output/png/PropXV.png`
 - `PropXXXII` — **Proposition XXXII — angle sum of a triangle** (Book I proposition 32)
   - NC: Derive and use the sum of angles in a triangle and use it to deduce the angle sum in polygons
   - Domain: Geometry and measures
-  - Oak lessons: Draft mapping pending
-  - Oak threads: Draft mapping pending
+  - Oak lessons: `angles-in-triangles`, `deriving-the-sum-of-interior-angles-in-multiple-ways`, `exterior-angles-of-polygons`
+  - Oak threads: `geometry-and-measure`
   - Files: `output/gif/PropXXXII.gif`, `output/mp4/PropXXXII.mp4`, `output/png/PropXXXII.png`

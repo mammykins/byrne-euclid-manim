@@ -1,0 +1,602 @@
+[
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides",
+    "lessonTitle": "Construct quadrilaterals with and without parallel and perpendicular sides",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "draw-polygons-on-isometric-paper",
+    "lessonTitle": "Draw polygons on isometric paper",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "draw-shapes-with-given-properties",
+    "lessonTitle": "Draw shapes with given properties",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "draw-shapes-with-given-properties-on-a-range-of-geometric-grids",
+    "lessonTitle": "Draw shapes with given properties on a range of geometric grids",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "identifying-parallel-lines",
+    "lessonTitle": "Identifying parallel lines",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "investigate-different-ways-of-decomposing-a-polygon",
+    "lessonTitle": "Investigate different ways of decomposing a polygon",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "make-and-draw-quadrilaterals-on-circular-geoboards",
+    "lessonTitle": "Make and draw quadrilaterals on circular geoboards",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "make-and-draw-shapes-with-and-without-parallel-and-perpendicular-sides",
+    "lessonTitle": "Make and draw shapes with and without parallel and perpendicular sides",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "make-and-draw-triangles-on-circular-geoboards",
+    "lessonTitle": "Make and draw triangles on circular geoboards",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "make-shapes-by-joining-two-polygons-in-different-ways",
+    "lessonTitle": "Make shapes by joining two polygons in different ways",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "identify-and-describe-right-angles",
+    "lessonTitle": "Identify and describe right angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "identify-properties-of-quadrilaterals",
+    "lessonTitle": "Identify properties of quadrilaterals",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "identify-properties-of-triangles",
+    "lessonTitle": "Identify properties of triangles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "investigate-and-draw-other-polygons-with-right-angles",
+    "lessonTitle": "Investigate and draw other polygons with right angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "investigate-the-shapes-made-when-rectangles-are-cut-on-the-diagonal",
+    "lessonTitle": "Investigate the shapes made when rectangles are cut on the diagonal",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "join-four-right-angles-at-a-point-using-different-right-angled-polygons",
+    "lessonTitle": "Join four right angles at a point using different right-angled polygons",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-a-rectangle-is-a-four-sided-polygon-with-four-right-angles",
+    "lessonTitle": "Know that a rectangle is a four-sided polygon with four right angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-a-right-angle-describes-a-quarter-turn",
+    "lessonTitle": "Know that a right angle describes a quarter turn",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-a-square-is-a-rectangle-in-which-the-four-sides-are-of-equal-length",
+    "lessonTitle": "Know that a square is a rectangle in which the four sides are of equal length",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "make-different-sized-angles-by-rotating-two-lines-around-a-fixed-point",
+    "lessonTitle": "Make different sized angles by rotating two lines around a fixed point",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles",
+    "yearSlug": "year-3",
+    "yearTitle": "Year 3"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "complete-a-symmetrical-pattern",
+    "lessonTitle": "Complete a symmetrical pattern",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "diagonal-lines-of-symmetry",
+    "lessonTitle": "Diagonal lines of symmetry",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "explore-sort-and-classify-triangles",
+    "lessonTitle": "Explore, sort and classify triangles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "explore-symmetry-by-joining-two-identical-shapes",
+    "lessonTitle": "Explore symmetry by joining two identical shapes",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "find-lines-of-symmetry-in-2d-shapes",
+    "lessonTitle": "Find lines of symmetry in 2D shapes",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "identify-different-types-of-triangle",
+    "lessonTitle": "Identify different types of triangle",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "investigate-lines-of-symmetry-in-2d-shapes-by-folding",
+    "lessonTitle": "Investigate lines of symmetry in 2D shapes by folding",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "investigate-symmetry-and-symmetrical-patterns",
+    "lessonTitle": "Investigate symmetry and symmetrical patterns",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "reflect-polygons-in-a-line-of-symmetry",
+    "lessonTitle": "Reflect polygons in a line of symmetry",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "reflect-polygons-that-are-dissected-by-the-line-of-symmetry",
+    "lessonTitle": "Reflect polygons that are dissected by the line of symmetry",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry",
+    "yearSlug": "year-4",
+    "yearTitle": "Year 4"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "angles-in-quadrilaterals",
+    "lessonTitle": "Angles in quadrilaterals",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "angles-in-triangles",
+    "lessonTitle": "Angles in triangles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "describe-rotations-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "lessonTitle": "Describe rotations using the standard unit of degrees when compared to a right angle",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "describe-static-angles-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "lessonTitle": "Describe static angles using the standard unit of degrees when compared to a right angle",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "draw-angles-accurately-using-a-protractor",
+    "lessonTitle": "Draw angles accurately using a protractor",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees",
+    "lessonTitle": "Estimate acute and obtuse angles using the standard unit of degrees",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "lessonTitle": "Know that the angles at a point sum to 360 degrees and use this to solve problems",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-the-angles-in-a-full-turn-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "lessonTitle": "Know that the angles in a full turn sum to 360 degrees and use this to solve problems",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems",
+    "lessonTitle": "Know that the angles on a straight line sum to 180 degrees and use this to solve problems",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "measure-the-size-of-angles-accurately-using-a-protractor",
+    "lessonTitle": "Measure the size of angles accurately using a protractor",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles",
+    "yearSlug": "year-5",
+    "yearTitle": "Year 5"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "3d-shapes-can-be-composed-from-2d-nets",
+    "lessonTitle": "3D shapes can be composed from 2D nets",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "any-parallelogram-can-be-decomposed-and-the-parts-rearranged-to-form-a-rectangular-parallelogram",
+    "lessonTitle": "Any parallelogram can be decomposed and the parts rearranged to form a rectangular parallelogram",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "reason-about-compound-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "lessonTitle": "Reason about compound shapes using the relationship between side lengths and area and perimeter",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "reason-about-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "lessonTitle": "Reason about shapes using the relationship between side lengths and area and perimeter",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "shapes-with-the-same-areas-can-have-different-perimeters-and-vice-versa",
+    "lessonTitle": "Shapes with the same areas can have different perimeters and vice versa",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "the-same-3d-shapes-can-be-composed-from-different-2d-nets",
+    "lessonTitle": "The same 3D shapes can be composed from different 2D nets",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "two-congruent-triangles-can-be-arranged-to-compose-a-parallelogram",
+    "lessonTitle": "Two congruent triangles can be arranged to compose a parallelogram",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "use-knowledge-of-shape-properties-to-draw-shapes-accurately-using-rulers-and-protractors",
+    "lessonTitle": "Use knowledge of shape properties to draw shapes accurately using rulers and protractors",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "use-knowledge-of-shape-properties-to-sketch-and-identify-shapes",
+    "lessonTitle": "Use knowledge of shape properties to sketch and identify shapes",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  },
+  {
+    "keyStageSlug": "ks2",
+    "lessonSlug": "when-a-2d-shape-is-decomposed-and-the-parts-rearranged-the-areas-remains-the-same",
+    "lessonTitle": "When a 2D shape is decomposed and the parts rearranged, the areas remains the same",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes",
+    "yearSlug": "year-6",
+    "yearTitle": "Year 6"
+  }
+]

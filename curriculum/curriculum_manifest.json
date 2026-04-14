@@ -43,9 +43,17 @@
       "keywords": [
         "point",
         "line",
-        "straight line"
+        "straight line",
+        "Quadrilateral",
+        "Vertex / vertices",
+        "Line",
+        "Ray",
+        "Line segment"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Children overgeneralise about the appearance of polygons such as rectangles and pentagons and do not recognise them when they are less typical.",
+        "I can draw a 7 cm line with my ruler."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -60,8 +68,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "draw-shapes-with-given-properties",
+        "formal-angle-notation"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefPointLineStraightLine",
       "title": "Definitions I, II, IV \u2014 point, line, straight line"
     },
@@ -85,9 +98,18 @@
         "right angle",
         "obtuse angle",
         "acute angle",
-        "perpendicular"
+        "perpendicular",
+        "Right angle",
+        "Estimate",
+        "Degree",
+        "Supplementary angles",
+        "Conjugate angles"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils may think there is only ever one right angle in an object or shape.",
+        "Pupils significantly over or under-estimate the size of angles, particularly when the initial line of the angle is not vertical or horizontal.",
+        "In order for two angles to be supplementary, they must both lie about a point on a straight line."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -114,8 +136,14 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "identify-and-describe-right-angles",
+        "estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees",
+        "checking-understanding-of-angles-from-ks2"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefAngleTypes",
       "title": "Definitions X\u2013XII \u2014 right, obtuse, and acute angles"
     },
@@ -141,9 +169,15 @@
         "centre",
         "radius",
         "diameter",
-        "semicircle"
+        "semicircle",
+        "Fixed point",
+        "Circumference",
+        "Arc",
+        "Equidistant"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "During tasks, pupils may use a ruler to draw or check whether points are equidistant from a centre."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -158,8 +192,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "understanding-constructing-a-circle"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefCircle",
       "title": "Definitions XV\u2013XVIII \u2014 circle, centre, diameter, semicircle"
     },
@@ -183,9 +221,20 @@
         "equilateral triangle",
         "isosceles triangle",
         "scalene triangle",
-        "classify triangles"
+        "classify triangles",
+        "Equilateral triangle",
+        "Isosceles triangle",
+        "Scalene triangle",
+        "Right-angled triangle",
+        "Equilateral",
+        "Scalene",
+        "Isosceles"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Some children may find it harder to recognise the type of triangle when they are drawn in different positions and orientations.",
+        "Children might find it difficult to create triangles with equal angles.",
+        "The horizontal side length of an isosceles triangle is always the base side."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -200,8 +249,14 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "identify-different-types-of-triangle",
+        "explore-sort-and-classify-triangles",
+        "formalising-understanding-of-triangles-from-ks2"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefTrianglesBySide",
       "title": "Definitions XXIV\u2013XXVI \u2014 triangles by side"
     },
@@ -225,9 +280,23 @@
         "right-angled triangle",
         "obtuse-angled triangle",
         "acute-angled triangle",
-        "classify triangles"
+        "classify triangles",
+        "Triangle",
+        "Vertex",
+        "Vertices",
+        "Properties",
+        "Quadrilateral",
+        "Sum",
+        "Equilateral",
+        "Scalene",
+        "Isosceles",
+        "Right-angled triangle"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils may see other shapes and collections of lines as triangles when they are not (e.g. shapes with rounded corners, three lines that do not all meet).",
+        "Pupils struggle to remember the number of degrees in a triangle as they only know it as a disconnected fact.",
+        "The horizontal side length of an isosceles triangle is always the base side."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -242,8 +311,14 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "identify-properties-of-triangles",
+        "angles-in-triangles",
+        "formalising-understanding-of-triangles-from-ks2"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefTrianglesByAngle",
       "title": "Definitions XXVII\u2013XXIX \u2014 triangles by angle"
     },
@@ -270,9 +345,22 @@
         "rectangle",
         "rhombus",
         "parallelogram",
-        "trapezium"
+        "trapezium",
+        "Quadrilateral",
+        "Vertex",
+        "Vertices",
+        "Properties",
+        "Polygon",
+        "Perpendicular",
+        "Parallel",
+        "Point",
+        "Sum"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils may have trouble recognising right angles or lines of symmetry when shapes have been rotated.",
+        "Pupils may find it challenging to identify specific quadrilaterals e.g. trapeziums when making them out of construction sticks as it can be harder to see the properties.",
+        "Pupils may not have fluency in properties of 2D shapes and may therefore not notice properties of angles within quadrilaterals such as trapeziums."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -287,8 +375,14 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "identify-properties-of-quadrilaterals",
+        "construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides",
+        "angles-in-quadrilaterals"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefQuadrilaterals",
       "title": "Definitions XXX\u2013XXXIV \u2014 quadrilaterals"
     },
@@ -309,9 +403,17 @@
       "keywords": [
         "parallel lines",
         "straight line",
-        "equidistant"
+        "equidistant",
+        "Parallel",
+        "Alternate angles",
+        "Corresponding angles",
+        "Co-interior angles",
+        "Vertically opposite angles"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Children may overgeneralise that parallel lines can only come in pairs or must be horizontal or vertical in orientation.",
+        "Pupils may struggle with the justifications rather than getting to the answer."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -326,8 +428,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "identifying-parallel-lines",
+        "angles-on-parallel-lines-traversed-by-a-straight-line"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "DefParallelLines",
       "title": "Definition XXXV \u2014 parallel lines"
     },
@@ -348,9 +455,13 @@
       "keywords": [
         "straight line",
         "endpoints",
-        "construction"
+        "construction",
+        "Quadrilateral",
+        "Vertex / vertices"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Children overgeneralise about the appearance of polygons such as rectangles and pentagons and do not recognise them when they are less typical."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -359,8 +470,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "draw-shapes-with-given-properties"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PostulateI",
       "title": "Postulate I \u2014 draw a straight line between two points"
     },
@@ -381,9 +496,12 @@
       "keywords": [
         "extend a line",
         "straight line",
-        "construction"
+        "construction",
+        "Pair of compasses"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "When drawing circles, pupils may find that the start and end of their arcs do not join together."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -392,8 +510,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "checking-compass-skills"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PostulateII",
       "title": "Postulate II \u2014 extend a finite straight line"
     },
@@ -415,9 +537,18 @@
         "circle",
         "centre",
         "radius",
-        "compass construction"
+        "compass construction",
+        "Fixed point",
+        "Circumference",
+        "Arc",
+        "Equidistant",
+        "Radius",
+        "Compass"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "During tasks, pupils may use a ruler to draw or check whether points are equidistant from a centre.",
+        "Pupils may find it difficult to decide where to mark the centre point of each circle during Task A."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -432,8 +563,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "understanding-constructing-a-circle",
+        "securing-the-skill-of-using-a-pair-of-compasses"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PostulateIII",
       "title": "Postulate III \u2014 describe a circle with any centre and distance"
     },
@@ -454,9 +590,18 @@
       "keywords": [
         "equilateral triangle",
         "compass construction",
-        "circle intersection"
+        "circle intersection",
+        "Scalene triangle",
+        "Isosceles triangle",
+        "Equilateral triangle",
+        "Radius",
+        "Quadrilateral",
+        "Vertex / vertices"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils may avoid using the pair of compasses and opt for a ruler instead.",
+        "Children overgeneralise about the appearance of polygons such as rectangles and pentagons and do not recognise them when they are less typical."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -471,8 +616,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "constructing-triangles",
+        "draw-shapes-with-given-properties"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropI",
       "title": "Proposition I \u2014 construct an equilateral triangle on a given line"
     },
@@ -493,9 +643,15 @@
       "keywords": [
         "copy a segment",
         "equal lengths",
-        "compass construction"
+        "compass construction",
+        "Pair of compasses",
+        "Bisect",
+        "Rhombus"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "When drawing circles, pupils may find that the start and end of their arcs do not join together.",
+        "You always need to draw circles that are the same size to construct any polygon."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -504,8 +660,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "checking-compass-skills",
+        "problem-solving-with-constructions"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropII",
       "title": "Proposition II \u2014 copy a line segment from a given point"
     },
@@ -526,9 +687,15 @@
       "keywords": [
         "cut off a segment",
         "equal lengths",
-        "circle construction"
+        "circle construction",
+        "Pair of compasses",
+        "Bisect",
+        "Rhombus"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "When drawing circles, pupils may find that the start and end of their arcs do not join together.",
+        "You always need to draw circles that are the same size to construct any polygon."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -537,8 +704,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "checking-compass-skills",
+        "problem-solving-with-constructions"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropIII",
       "title": "Proposition III \u2014 cut off a segment equal to a shorter one"
     },
@@ -559,9 +731,14 @@
       "keywords": [
         "angle bisector",
         "equal angles",
-        "compass construction"
+        "compass construction",
+        "Bisect",
+        "Rhombus",
+        "Congruent"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "I can use a protractor to measure an angle, then half that angle to bisect it."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -570,8 +747,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "bisecting-an-angle"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropIX",
       "title": "Proposition IX \u2014 bisect a rectilinear angle"
     },
@@ -592,9 +773,13 @@
       "keywords": [
         "midpoint",
         "bisect a line segment",
-        "perpendicular bisector"
+        "perpendicular bisector",
+        "Bisect",
+        "Rhombus"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "I can use a ruler to measure the midpoint of a line segment, and a protractor to find 90\u00b0."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -603,8 +788,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "perpendicular-bisector-of-a-line-segment"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropX",
       "title": "Proposition X \u2014 bisect a finite straight line"
     },
@@ -625,9 +814,17 @@
       "keywords": [
         "perpendicular",
         "right angle",
-        "construction"
+        "construction",
+        "Polygon",
+        "Perpendicular",
+        "Parallel",
+        "Bisect",
+        "Rhombus"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils may find it challenging to identify specific quadrilaterals e.g. trapeziums when making them out of construction sticks as it can be harder to see the properties.",
+        "You can't accurately draw the perpendicular to a point on a line segment close to its endpoint."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -642,8 +839,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides",
+        "perpendicular-to-a-given-line-through-a-given-point"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropXI",
       "title": "Proposition XI \u2014 draw a perpendicular from a point on a line"
     },
@@ -664,9 +866,13 @@
       "keywords": [
         "perpendicular from a point",
         "right angle",
-        "external point"
+        "external point",
+        "Bisect",
+        "Rhombus"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "You can't accurately draw the perpendicular to a point on a line segment close to its endpoint."
+      ],
       "nc_references": [
         {
           "domain": "Geometry and measures",
@@ -675,8 +881,12 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "perpendicular-to-a-given-line-through-a-given-point"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropXII",
       "title": "Proposition XII \u2014 draw a perpendicular from an external point"
     },
@@ -697,9 +907,16 @@
       "keywords": [
         "straight line angle",
         "supplementary angles",
-        "180 degrees"
+        "180 degrees",
+        "Sum",
+        "Opposite",
+        "Supplementary angles",
+        "Conjugate angles"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils think that the angles on a straight line only applied to lines that are horizontal.",
+        "In order for two angles to be supplementary, they must both lie about a point on a straight line."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -714,8 +931,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems",
+        "checking-understanding-of-angles-from-ks2"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropXIII",
       "title": "Proposition XIII \u2014 angles on a straight line"
     },
@@ -736,9 +958,16 @@
       "keywords": [
         "vertically opposite angles",
         "intersecting lines",
-        "equal angles"
+        "equal angles",
+        "Point",
+        "Sum",
+        "Supplementary angles",
+        "Conjugate angles"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils think that the whole 360 degrees must be composed of different sized angles.",
+        "In order for two angles to be supplementary, they must both lie about a point on a straight line."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -753,8 +982,13 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems",
+        "checking-understanding-of-angles-from-ks2"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropXV",
       "title": "Proposition XV \u2014 vertically opposite angles"
     },
@@ -775,9 +1009,20 @@
       "keywords": [
         "angle sum of a triangle",
         "exterior angle",
-        "180 degrees"
+        "180 degrees",
+        "Quadrilateral",
+        "Triangle",
+        "Sum",
+        "Polygon",
+        "Interior angle",
+        "Exterior angle",
+        "Supplementary angle"
       ],
-      "misconceptions": [],
+      "misconceptions": [
+        "Pupils struggle to remember the number of degrees in a triangle as they only know it as a disconnected fact.",
+        "Interior angles always sum to 180 times the number of component triangles it is split into.",
+        "The exterior angle is the entire reflex angle that is on the outside of each vertex of a shape."
+      ],
       "nc_references": [
         {
           "domain": "Geometry \u2014 properties of shapes",
@@ -792,12 +1037,18 @@
           "year": null
         }
       ],
-      "oak_lesson_slugs": [],
-      "oak_thread_slugs": [],
+      "oak_lesson_slugs": [
+        "angles-in-triangles",
+        "deriving-the-sum-of-interior-angles-in-multiple-ways",
+        "exterior-angles-of-polygons"
+      ],
+      "oak_thread_slugs": [
+        "geometry-and-measure"
+      ],
       "scene_class": "PropXXXII",
       "title": "Proposition XXXII \u2014 angle sum of a triangle"
     }
   ],
-  "generated_at": "2026-04-10T05:01:17Z",
+  "generated_at": "2026-04-14T04:39:29Z",
   "version": "0.1.0"
 }

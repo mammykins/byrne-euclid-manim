@@ -1,0 +1,242 @@
+[
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "bisecting-an-angle",
+    "lessonTitle": "Bisecting an angle",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "checking-compass-skills",
+    "lessonTitle": "Checking compass skills",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "constructing-rhombi",
+    "lessonTitle": "Constructing rhombi",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "constructing-triangles",
+    "lessonTitle": "Constructing triangles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "diagonals-of-a-rhombus",
+    "lessonTitle": "Diagonals of a rhombus",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "perpendicular-bisector-of-a-line-segment",
+    "lessonTitle": "Perpendicular bisector of a line segment",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "perpendicular-to-a-given-line-through-a-given-point",
+    "lessonTitle": "Perpendicular to a given line through a given point",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "problem-solving-with-constructions",
+    "lessonTitle": "Problem solving with constructions",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "securing-the-skill-of-using-a-pair-of-compasses",
+    "lessonTitle": "Securing the skill of using a pair of compasses",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "understanding-constructing-a-circle",
+    "lessonTitle": "Understanding constructing a circle",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "alternate-angles",
+    "lessonTitle": "Alternate angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "angles-on-parallel-lines-traversed-by-a-straight-line",
+    "lessonTitle": "Angles on parallel lines traversed by a straight line",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "checking-understanding-of-angles-from-ks2",
+    "lessonTitle": "Checking understanding of angles from KS2",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "co-interior-angles",
+    "lessonTitle": "Co-interior angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "corresponding-angles",
+    "lessonTitle": "Corresponding angles",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "deriving-the-sum-of-interior-angles-in-multiple-ways",
+    "lessonTitle": "Deriving the sum of interior angles in multiple ways",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "exterior-angles-of-polygons",
+    "lessonTitle": "Exterior angles of polygons",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "formal-angle-notation",
+    "lessonTitle": "Formal angle notation",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "formalising-understanding-of-triangles-from-ks2",
+    "lessonTitle": "Formalising understanding of triangles from KS2",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  },
+  {
+    "keyStageSlug": "ks3",
+    "lessonSlug": "interior-and-exterior-angles-of-regular-polygons",
+    "lessonTitle": "Interior and exterior angles of regular polygons",
+    "threadSlugs": [
+      "geometry-and-measure"
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons",
+    "yearSlug": "year-8",
+    "yearTitle": "Year 8"
+  }
+]

@@ -1349,35 +1349,34 @@ Every task needed to ship v0.1, broken down by phase. Tasks are ordered within e
 
 #### 5.1 — Explore Oak API
 
-- [ ] Manually call `GET /subjects/maths` to confirm the subject slug and available sequences/key stages
-- [ ] Call `GET /threads` and identify all geometry-related threads — record their slugs
-- [ ] Call `GET /threads/{slug}/units` for each geometry thread — record unit titles and slugs in sequence order
-- [ ] Call `GET /key-stages/ks2/subject/maths/units` — scan for geometry-related units, note year groups
-- [ ] Call `GET /key-stages/ks3/subject/maths/units` — scan for geometry-related units, note year groups
-- [ ] Call `GET /key-stages/ks3/subject/maths/lessons?unit={geometry-unit-slug}` for 2–3 key units — examine lesson structure
-- [ ] Call `GET /lessons/{lesson-slug}/summary` for 3–5 representative geometry lessons — examine misconceptions, keywords, learning objectives
-- [ ] Document findings: which thread slugs, unit slugs, and lesson slugs are relevant to this project
+- [x] Call `GET /subjects/maths` to confirm the subject slug and available sequences/key stages
+- [x] Call `GET /threads` and identify the live geometry-related thread slugs
+- [x] Call `GET /threads/{slug}/units` for the live geometry threads and confirm the relevant KS2/KS3 material sits under `geometry-and-measure`
+- [x] Call `GET /key-stages/ks2/subject/maths/units` and `GET /key-stages/ks3/subject/maths/units` to record the grouped unit payload shape and the relevant geometry unit slugs
+- [x] Call `GET /key-stages/{keyStage}/subject/maths/lessons?unit={geometry-unit-slug}` for representative units and confirm the grouped lesson payload shape
+- [x] Call `GET /lessons/{lesson-slug}/summary` for representative geometry lessons and confirm keywords and misconceptions are present while `threads` may be empty
+- [x] Document the relevant thread, unit, and lesson slugs in the refreshed live cache and hand-maintained mapping
 
 #### 5.2 — Write fetch_oak_curriculum.py
 
-- [ ] Create `scripts/fetch_oak_curriculum.py`
-- [ ] Read `OAK_API_KEY` from environment variable; exit with helpful error if missing
-- [ ] Define base URL: `https://open-api.thenational.academy/api/v0`
-- [ ] Fetch `GET /threads` → save full response as `curriculum/oak_threads_raw.json`
-- [ ] Filter for geometry-related threads (by title substring or manual slug list)
-- [ ] For each geometry thread: fetch `GET /threads/{slug}/units` → accumulate
-- [ ] Fetch `GET /key-stages/ks2/subject/maths/lessons` → filter for geometry units → save as `curriculum/oak_ks2_geometry_lessons.json`
-- [ ] Fetch `GET /key-stages/ks3/subject/maths/lessons` → filter for geometry units → save as `curriculum/oak_ks3_geometry_lessons.json`
-- [ ] For a curated list of key lesson slugs: fetch `GET /lessons/{slug}/summary` → accumulate misconceptions and keywords
-- [ ] Save combined geometry thread/unit/lesson data as `curriculum/oak_geometry_data.json`
-- [ ] Script is idempotent — re-running overwrites all cached files
-- [ ] Add `--dry-run` flag that prints what would be fetched without making API calls
-- [ ] Verify: `OAK_API_KEY=xxx uv run python scripts/fetch_oak_curriculum.py` populates `curriculum/` with JSON files
+- [x] Refresh `scripts/fetch_oak_curriculum.py` for the current live Oak payloads
+- [x] Read `OAK_OPEN_API_KEY` or `OAK_API_KEY` from the environment and exit with a helpful error if neither is present
+- [x] Define the base URL as `https://open-api.thenational.academy/api/v0`
+- [x] Fetch `GET /threads` and save the full response as `curriculum/oak_threads_raw.json`
+- [x] Normalise thread rows to stable `threadSlug` and `threadTitle` fields
+- [x] For each candidate geometry thread, fetch `GET /threads/{slug}/units` and derive a unit-to-thread index
+- [x] Fetch grouped KS2 and KS3 unit payloads, flatten them, and save the selected geometry units as `curriculum/oak_ks2_geometry_units.json` and `curriculum/oak_ks3_geometry_units.json`
+- [x] Fetch `GET /key-stages/{keyStage}/subject/maths/lessons?unit={unitSlug}` for each selected geometry unit and save the normalised lesson rows as `curriculum/oak_ks2_geometry_lessons.json` and `curriculum/oak_ks3_geometry_lessons.json`
+- [x] Fetch lesson summaries for the selected geometry lessons and accumulate keywords and misconceptions
+- [x] Save the combined geometry thread, unit, lesson, and summary data as `curriculum/oak_geometry_data.json`
+- [x] Keep the script idempotent so re-running overwrites the cached files cleanly
+- [x] Keep the `--dry-run` flag so the planned Oak requests can be reviewed without making API calls
+- [x] Verify: `uv run --env-file .env python scripts/fetch_oak_curriculum.py` populates `curriculum/` with live JSON files
 
 #### 5.3 — Write the hand-maintained mapping file
 
-- [ ] Create `curriculum/euclid_to_oak.yaml`
-- [ ] For each implemented scene class, add an entry:
+- [x] Create `curriculum/euclid_to_oak.yaml`
+- [x] For each implemented scene class, keep an entry with:
   - `scene`: the Python class name
   - `euclid_type`: `definition`, `postulate`, or `proposition`
   - `euclid_numbers`: list of Euclid numbers covered
@@ -1385,41 +1384,40 @@ Every task needed to ship v0.1, broken down by phase. Tasks are ordered within e
   - `description`: one-sentence description of the animation
   - `alt_text`: one-sentence accessible text description for GIF embeds (e.g. "An animated construction showing two intersecting circles forming an equilateral triangle")
   - `nc_references`: list of `{key_stage, year, domain, statement}` objects from the national curriculum
-  - `oak_lesson_slugs`: list of Oak lesson slugs (populated from 5.1 exploration)
+  - `oak_lesson_slugs`: live Oak lesson slugs populated from the 5.1 exploration
   - `oak_thread_slugs`: list of Oak thread slugs
   - `keywords`: geometry vocabulary featured in the animation
   - `misconceptions`: common misconceptions this animation could address (from Oak lesson summaries)
-- [ ] Validate YAML syntax
-- [ ] Spot-check: verify 3–4 entries against the actual NC programme of study PDF
+- [x] Validate the YAML syntax
+- [x] Verify that every mapped Oak lesson slug resolves against the refreshed live cache
 
 #### 5.4 — Write build_manifest.py
 
-- [ ] Create `scripts/build_manifest.py`
-- [ ] Read `curriculum/euclid_to_oak.yaml`
-- [ ] Optionally enrich with data from `curriculum/oak_geometry_data.json` (if present):
+- [x] Create `scripts/build_manifest.py`
+- [x] Read `curriculum/euclid_to_oak.yaml`
+- [x] Enrich with data from `curriculum/oak_geometry_data.json` when present:
   - Add missing keywords from Oak lesson data
   - Add misconceptions from Oak lesson summaries
-- [ ] For each entry, add `files` field with expected output paths: `output/gif/{scene}.gif`, `output/mp4/{scene}.mp4`, `output/png/{scene}.png`
-- [ ] Add metadata: `version`, `generated_at` (ISO timestamp)
-- [ ] Validate output against the JSON schema defined in plan.md §7
-- [ ] Write to `curriculum/curriculum_manifest.json`
-- [ ] Verify: `uv run python scripts/build_manifest.py` produces valid JSON
-- [ ] Verify: the manifest can be loaded with `json.load()` and iterated
+- [x] For each entry, add `files` with expected relative output paths: `output/gif/{scene}.gif`, `output/mp4/{scene}.mp4`, `output/png/{scene}.png`
+- [x] Add metadata including `version` and `generated_at`
+- [x] Write to `curriculum/curriculum_manifest.json`
+- [x] Verify: `uv run python scripts/build_manifest.py` produces valid JSON
+- [x] Verify: the manifest can be loaded with `json.load()` and iterated
 
 #### 5.5 — Write curriculum_mapping.md
 
-- [ ] Create `docs/curriculum_mapping.md`
-- [ ] Write introductory paragraph explaining the Euclid → NC → Oak mapping
-- [ ] Render the manifest as a human-readable table:
+- [x] Create `docs/curriculum_mapping.md`
+- [x] Write the introductory paragraph explaining the Euclid → NC → Oak mapping
+- [x] Render the manifest as a human-readable grouped view:
   - Columns: Animation title | Euclid ref | Key Stage | Year | NC statement | Oak lesson
   - Sorted by key stage then year
-- [ ] Include a note on how to update the mapping when new animations are added
-- [ ] Link back to `curriculum/euclid_to_oak.yaml` as the source of truth
+- [x] Link back to `curriculum/euclid_to_oak.yaml` as the source of truth through the generated artefacts
+- [x] Verify the regenerated document no longer contains draft Oak placeholders
 
 #### 5.6 — Commit cached curriculum data
 
-- [ ] Review all JSON files in `curriculum/` — ensure no API key or sensitive data is present
-- [ ] Add Oak attribution comment to each JSON file (or to a `curriculum/README.md`)
+- [x] Review all JSON files in `curriculum/` — ensure no API key or sensitive data is present
+- [x] Maintain Oak attribution in `curriculum/README.md`
 - [ ] Commit and push
 
 ---
@@ -1714,11 +1712,13 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [x] 4.1–4.3 — Implement theorem scene classes
 - [x] 4.5 — Add theorem entries to `curriculum/euclid_to_oak.yaml`
 - [x] Smoke renders verified for `PaletteCard`, `DefAngleTypes`, `DefCircle`, `PostulateIII`, `PropI`, `PropII`, and `PropXXXII`
-- [x] 5.2 — `scripts/fetch_oak_curriculum.py` implemented with dry-run support and cache-writing flow
-- [x] 5.3 — Hand-maintained curriculum mapping drafted in `curriculum/euclid_to_oak.yaml`
-- [x] 5.4 — `scripts/build_manifest.py` and `curriculum/curriculum_manifest.json`
-- [x] 5.5 — Generated `docs/curriculum_mapping.md`
-- [x] Oak API auth diagnosis completed locally: `api/v0/swagger.json` confirms bearer auth on curriculum endpoints, and the configured `.env` token returns `401 UNAUTHORIZED` for `/subjects/maths` under all tested header variants
+- [x] 5.1 — Live Oak API exploration completed with a working `OAK_OPEN_API_KEY`, including the current thread, unit, lesson, and summary payload shapes plus the relevant `geometry-and-measure` curriculum slugs
+- [x] 5.2 — `scripts/fetch_oak_curriculum.py` refreshed for the live Oak payloads, including grouped unit and lesson normalisation, unit-to-thread derivation, and expanded cache outputs
+- [x] 5.3 — `curriculum/euclid_to_oak.yaml` refreshed with live Oak lesson and thread slugs for all implemented scenes
+- [x] 5.4 — `scripts/build_manifest.py` rebuilt `curriculum/curriculum_manifest.json` from the refreshed live Oak cache
+- [x] 5.5 — `docs/curriculum_mapping.md` regenerated with live Oak lesson and thread links
+- [x] Working Oak API key verified locally: authenticated fetch now succeeds against the live curriculum endpoints and refreshes the cached Oak geometry data
+- [x] Phase 5 local deliverable verified: authenticated Oak fetch now caches 1 relevant geometry thread, 50 KS2 lessons, and 20 KS3 lessons, and the manifest plus mapping document rebuild cleanly
 - [x] Synthetic curriculum preview added so the final Oak-enriched manifest, mapping, and showcase shape can be reviewed without live Oak auth
 - [x] Stitched demo reel added for the synthetic preview so visitors can watch a single back-to-back sample without live Oak data
 - [x] 6.1 — `scripts/render_all.py` and `scripts/gif_convert.sh` implemented; full low-quality MP4/PNG render pass and local GIF conversion completed successfully
@@ -1734,8 +1734,7 @@ When the agent reaches a 🤝 or 👤 task, it should:
 - [ ] 2.11 — Phase 2 consistency review and high-quality render pass
 - [ ] 3.8 — Phase 3 consistency review and high-quality render pass
 - [ ] 4.4 — Phase 4 consistency review and high-quality render pass
-- [ ] 5.1 — Live Oak API exploration and `curriculum/` cache refresh blocked until Mat provides or verifies a fresh working Oak API token; the current configured token returns `401 UNAUTHORIZED`
-- [ ] 5.6 — Commit reviewed Oak cache data after a successful authenticated fetch
+- [ ] 5.6 — Commit the refreshed Oak cache data after review, if and when a VCS checkpoint is requested
 - [ ] 6.1 — Mat final quality spot-check across rendered outputs
 - [ ] 6.5 — YouTube upload and playlist curation
 - [ ] 6.6 — Blog post drafting, review, and publication

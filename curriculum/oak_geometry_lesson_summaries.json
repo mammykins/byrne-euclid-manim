@@ -1,0 +1,3472 @@
+{
+  "3d-shapes-can-be-composed-from-2d-nets": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/3d-shapes-can-be-composed-from-2d-nets",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A net is a 2D shape that can be folded and joined to create a 3D shape."
+      },
+      {
+        "keyLearningPoint": "Not all arrangements of shapes will form the net of a 3D shape."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A net is a 2D representation of the faces of a 3D shape, that can be folded up into the 3D object.",
+        "keyword": "net"
+      }
+    ],
+    "lessonTitle": "3D shapes can be composed from 2D nets",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "It is perfectly possible for pupils to be highly numerate but struggle with the spatial awareness needed to visualise / imagine whether a 2D net will fold together to form a 2D shape.",
+        "response": "As part of the lesson design process you may wish to incorporate manipulatives such as construction materials for those pupils whose learning needs scaffolding. As with all scaffolding, aim to move pupils away from this when you can."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/3d-shapes-can-be-composed-from-2d-nets",
+    "pupilLessonOutcome": "I can compose 3D shapes from 2D nets and identify the 2D net which will create a 3D shape.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "If pupils are miscounting the faces of a 2D shape when planning to create its net, provide small sticky notes for them to place on a face when it has been counted."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "alternate-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/alternate-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Alternate angles can be identified in an arrangement of 3 line segments."
+      },
+      {
+        "keyLearningPoint": "If two of the lines are parallel these alternate angles are equal."
+      },
+      {
+        "keyLearningPoint": "Knowledge of alternate angles can be used to find unknown angles."
+      },
+      {
+        "keyLearningPoint": "Knowledge of corresponding and alternate angles can be used to find unknown angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A pair of angles both between or both outside two line segments that are on opposite sides of the transversal that cuts them.",
+        "keyword": "Alternate angles"
+      }
+    ],
+    "lessonTitle": "Alternate angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Referring to alternate angles as 'Z' angles because of the arrangement of the lines.",
+        "response": "Modelling the justification correctly through every example and using exterior alternate angles to highlight the limitations of 'Z' angles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/alternate-angles",
+    "pupilLessonOutcome": "I can recognise that a pair of parallel lines traversed by a straight line produces equal alternate angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "If available, use mini-whiteboards and ask the students to draw a diagram that shows \"exterior alternate angles\", \"interior alternate angles\", \"equal interior alternate angles\" etc."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "angles-in-quadrilaterals": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/angles-in-quadrilaterals",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A quadrilateral is a shape with four sides and four vertices."
+      },
+      {
+        "keyLearningPoint": "Interior angles in a quadrilateral are composed of two triangles."
+      },
+      {
+        "keyLearningPoint": "Interior angles in a quadrilateral are equal to 360 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quadrilateral is a polygon with four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "A point is an exact location. It has no size, only position.",
+        "keyword": "Point"
+      },
+      {
+        "description": "The sum is the result of adding two or more numbers.",
+        "keyword": "Sum"
+      }
+    ],
+    "lessonTitle": "Angles in quadrilaterals",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may not have fluency in properties of 2D shapes and may therefore not notice properties of angles within quadrilaterals such as trapeziums.",
+        "response": "Pre-teaching or providing a scaffold containing shape names and properties will allow pupils to see the properties and support them in making connections."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/angles-in-quadrilaterals",
+    "pupilLessonOutcome": "I can explain why the angles in a quadrilateral sum to 360\u00b0 and use this to find missing angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to notice angles that look the same in size. You may like to have the angles cut out and available to manipulate to help visualise this, particularly where folding may help recognise angles that are the same size."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "angles-in-triangles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/angles-in-triangles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Angles on a straight line sum to 180 degrees."
+      },
+      {
+        "keyLearningPoint": "Interior angles in triangles sum to 180 degrees."
+      },
+      {
+        "keyLearningPoint": "Missing angles can be calculated using the sum of 180 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quadrilateral is a polygon with four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "A triangle is a polygon with three straight sides and three vertices.",
+        "keyword": "Triangle"
+      },
+      {
+        "description": "The sum is the result of adding two or more numbers.",
+        "keyword": "Sum"
+      }
+    ],
+    "lessonTitle": "Angles in triangles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils struggle to remember the number of degrees in a triangle as they only know it as a disconnected fact.",
+        "response": "Apply pupils' knowledge of angles in a quadrilateral to understanding the sum of the angles in a triangle. Spend time showing how a quadrilateral is constructed using triangles and what happens to the angles as the quadrilateral is partitioned."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/angles-in-triangles",
+    "pupilLessonOutcome": "I know that the angles in a triangle sum to 180\u00b0.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is important that pupils are provided with opportunities to construct triangles for themselves. Using angle tools to help construct triangles is an appropriate step to make use of before moving to drawing angles with a protractor in later lessons."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "angles-on-parallel-lines-traversed-by-a-straight-line": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/angles-on-parallel-lines-traversed-by-a-straight-line",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Alternate, corresponding and co-interior angles can be identified in diagrams containing pairs of parallel lines."
+      },
+      {
+        "keyLearningPoint": "Facts about angles in parallel lines can be used to find unknown angles."
+      },
+      {
+        "keyLearningPoint": "Facts about angles in parallel lines can be used in succession to find multiple unknown angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Two lines are parallel if they are straight lines that are always the same (non-zero) distance apart.",
+        "keyword": "Parallel"
+      },
+      {
+        "description": "a pair of angles both between or both outside two line segments that are on opposite sides of the transversal that cuts them.",
+        "keyword": "Alternate angles"
+      },
+      {
+        "description": "Corresponding angles are a pair of angles at different vertices on the same side of a transversal in equivalent positions.",
+        "keyword": "Corresponding angles"
+      },
+      {
+        "description": "o-interior angles are on the same side of the transversal line and in between the two other lines.",
+        "keyword": "Co-interior angles"
+      },
+      {
+        "description": "Vertical angles are pairs of opposite angles formed when two lines intersect at a point. They are equal.",
+        "keyword": "Vertically opposite angles"
+      }
+    ],
+    "lessonTitle": "Angles on parallel lines traversed by a straight line",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may struggle with the justifications rather than getting to the answer.",
+        "response": "Keep asking pupils \"why?\" and encourage them to ask themselves, whenever they are working out an angle."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/angles-on-parallel-lines-traversed-by-a-straight-line",
+    "pupilLessonOutcome": "I can use facts about a pair of parallel lines traversed by a straight line.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Pupils could make their own parallel line problem up for peers to complete. They can think about how many angles are necessary to give and the most efficient route to the answer."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "any-parallelogram-can-be-decomposed-and-the-parts-rearranged-to-form-a-rectangular-parallelogram": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/any-parallelogram-can-be-decomposed-and-the-parts-rearranged-to-form-a-rectangular-parallelogram",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The area of a parallelogram is equal to the area of the rectangle created by rearranging the parts."
+      },
+      {
+        "keyLearningPoint": "A parallelogram can be decomposed into a rectangle and 2 identical triangles."
+      },
+      {
+        "keyLearningPoint": "Rearranging the parts of a parallelogram helps to calculate the area."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A parallelogram is a quadrilateral with two pairs of parallel and equal sides.",
+        "keyword": "Parallelogram"
+      }
+    ],
+    "lessonTitle": "Any parallelogram can be decomposed and the parts rearranged to form a rectangular parallelogram",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils who have learned about parallelograms often have a fixed idea of what they look like and do not realise that squares and other kinds of rectangles are also parallelograms.",
+        "response": "The lesson defines parallelograms, giving three criteria, including parallel sides and equal pairs of opposite angles. Reinforce with pupils that these match the set criteria."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/any-parallelogram-can-be-decomposed-and-the-parts-rearranged-to-form-a-rectangular-parallelogram",
+    "pupilLessonOutcome": "I can explain how any parallelogram can be decomposed and the parts rearranged to form a rectangular parallelogram.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is useful for children to practically create parallelograms in the lesson. Number rods are suggested as a manipulative for this but equal-length pieces of straw or matchsticks could work as an alternative."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "bisecting-an-angle": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/bisecting-an-angle",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A rhombus can be constructed from two congruent isosceles triangles."
+      },
+      {
+        "keyLearningPoint": "The diagonals of a rhombus bisect the angles."
+      },
+      {
+        "keyLearningPoint": "It is possible to construct an angle bisector without drawing the rhombus."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "To bisect means to cut or divide an object into two equal parts.",
+        "keyword": "Bisect"
+      },
+      {
+        "description": "A rhombus is a parallelogram where all sides are the same length.",
+        "keyword": "Rhombus"
+      },
+      {
+        "description": "If one shape can fit exactly on top of another using rotation, reflection or translation, then the shapes are congruent.",
+        "keyword": "Congruent"
+      }
+    ],
+    "lessonTitle": "Bisecting an angle",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "I can use a protractor to measure an angle, then half that angle to bisect it.",
+        "response": "Constructions, such as bisecting an angle, are methods of creating & modifying shapes & angles in ways that don't require measurement tools."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/bisecting-an-angle",
+    "pupilLessonOutcome": "I can use the properties of a rhombus to construct an angle bisector.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "When bisecting a reflex angle, a student can bisect the conjugate angle, and extend the line of bisection through to the reflex part of the diagram."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "checking-compass-skills": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/checking-compass-skills",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw any circle."
+      },
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw circle with a particular radius."
+      },
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw part of a circle."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A pair of compasses is a tool which can be used to draw circles and arcs. A pair of compasses is sometimes referred to just as a compass.",
+        "keyword": "Pair of compasses"
+      }
+    ],
+    "lessonTitle": "Checking compass skills",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "When drawing circles, pupils may find that the start and end of their arcs do not join together.",
+        "response": "This can be caused by the pair of compasses opening or closing mid-drawing. Hold it with one hand and rest the pencil gently on the page."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/checking-compass-skills",
+    "pupilLessonOutcome": "I can confidently use a pair of compasses to draw circles and arcs.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "For this lesson, pupils will need a pair of compasses, pencil, ruler and several sheets of plain paper."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "checking-understanding-of-angles-from-ks2": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/checking-understanding-of-angles-from-ks2",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Angles that meet at a point can be identified in diagrams."
+      },
+      {
+        "keyLearningPoint": "Angles that make a straight line can be identified on a diagram."
+      },
+      {
+        "keyLearningPoint": "Vertically opposite angles can be identified on a diagram."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Supplementary angles are a pair of angles that sum to 180\u00b0.",
+        "keyword": "Supplementary angles"
+      },
+      {
+        "description": "Conjugate angles are a pair of angles that sum to 360\u00b0.",
+        "keyword": "Conjugate angles"
+      }
+    ],
+    "lessonTitle": "Checking understanding of angles from KS2",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "In order for two angles to be supplementary, they must both lie about a point on a straight line.",
+        "response": "For two angles to be supplementary, they must sum to 180\u00b0. They do not also need to both lie on a straight line."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/checking-understanding-of-angles-from-ks2",
+    "pupilLessonOutcome": "I can calculate with angles at a point, angles on a line and vertically opposite angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Some students may mistakenly equate drawing a larger angle marker (an arc with a greater radius) with a larger angle. It is important to present angles in different ways: large angles labelled with small angle markers, and vice versa."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "co-interior-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/co-interior-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Co-interior angles can be identified in an arrangement of 3 line segments."
+      },
+      {
+        "keyLearningPoint": "If two of the lines are parallel then these angles are supplementary."
+      },
+      {
+        "keyLearningPoint": "Knowledge of co-interior angles can be used to find unknown angles."
+      },
+      {
+        "keyLearningPoint": "Knowledge of co-interior, corresponding and alternate angles can be used to find unknown angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Co-interior angles are on the same side of the transversal line and in between the two other lines.",
+        "keyword": "Co-interior"
+      }
+    ],
+    "lessonTitle": "Co-interior angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may believe that the co-interior angles are equal, like alternate and corresponding angles.",
+        "response": "Have pupils draw a pair of parallel lines and a transversal line themselves, identify the co-interior angles, are they equal?"
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/co-interior-angles",
+    "pupilLessonOutcome": "I can recognise that a pair of parallel lines traversed by a straight line produces supplementary co-interior angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It can be helpful to show the pupils multiple diagrams with co-interior, alternate and corresponding angles identified and have the pupils decide which of the three is being shown at that point."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "complete-a-symmetrical-pattern": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/complete-a-symmetrical-pattern",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The mirror line shows where a mirror is placed."
+      },
+      {
+        "keyLearningPoint": "Patterns are symmetrical when they are exactly the same on each side of the mirror line."
+      },
+      {
+        "keyLearningPoint": "When placing a mirror on the line of symmetry, the image seen is the same as the other half of the symmetrical pattern."
+      },
+      {
+        "keyLearningPoint": "The pattern will be the same distance from the mirror line on both sides."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "When a shape has a line of symmetry, it can be described as symmetrical.",
+        "keyword": "Symmetrical"
+      },
+      {
+        "description": "Another term for a line of symmetry. If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Mirror line"
+      },
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      }
+    ],
+    "lessonTitle": "Complete a symmetrical pattern",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children might spot the unit of repeat and draw a repeating pattern rather than a symmetrical pattern.",
+        "response": "Allow children to fold and unfold painted patterns on the mirror line to see where each part of the pattern would be reflected. Printing is a great tool to create symmetrical patterns."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/complete-a-symmetrical-pattern",
+    "pupilLessonOutcome": "I can complete different types of symmetrical patterns.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "There are opportunities for practical exploration at the beginning of this lesson to activate children's prior knowledge of symmetry. Prioritise time for this."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Construction strips allow you to create different polygons."
+      },
+      {
+        "keyLearningPoint": "Lines are perpendicular when they are at right angles to each other."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A polygon is a 2D shape made up of three or more straight lines.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "Two lines which meet at a right angle are perpendicular.",
+        "keyword": "Perpendicular"
+      },
+      {
+        "description": "Parallel lines are straight lines that are always the same distance apart. They never get closer together or further apart.",
+        "keyword": "Parallel"
+      }
+    ],
+    "lessonTitle": "Construct quadrilaterals with and without parallel and perpendicular sides",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may find it challenging to identify specific quadrilaterals e.g. trapeziums when making them out of construction sticks as it can be harder to see the properties.",
+        "response": "Using a ruler to draw the shape, using the inside of the construction sticks, can support pupils in seeing and identifying the key properties to help them classify a quadrilateral."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/construct-quadrilaterals-with-and-without-parallel-and-perpendicular-sides",
+    "pupilLessonOutcome": "I can use equipment to construct and compare quadrilaterals with and without parallel and perpendicular sides.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is important that children construct polygons before they draw them. Construction materials are ideal however number rods or strips of paper can also be used to similar effect. See Additional Materials."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "constructing-rhombi": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/constructing-rhombi",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A rhombus can be created from two isosceles triangles."
+      },
+      {
+        "keyLearningPoint": "An isosceles triangle can be constructed from a given base and side lengths using intersecting circles."
+      },
+      {
+        "keyLearningPoint": "A rhombus can be constructed from intersecting circles using triangles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A rhombus is a parallelogram where all sides are the same length.",
+        "keyword": "Rhombus"
+      },
+      {
+        "description": "The plural of rhombus can be referred to as rhombi.",
+        "keyword": "Rhombi"
+      }
+    ],
+    "lessonTitle": "Constructing rhombi",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may avoid using the pair of compasses and opt for a ruler instead.",
+        "response": "Emphasise the efficiency and accuracy of using compasses instead of a ruler in the construction of their triangles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/constructing-rhombi",
+    "pupilLessonOutcome": "I can use intersecting circles to construct rhombi from given lengths.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Pupils could be provided with copies of each type of triangle and then manipulate them to create the different quadrilaterals."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "constructing-triangles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/constructing-triangles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A construction is an accurate drawing made using geometrical properties."
+      },
+      {
+        "keyLearningPoint": "A scalene triangle can be constructed using intersecting circles with different radii."
+      },
+      {
+        "keyLearningPoint": "An equilateral triangle can be constructed using intersecting circles with equal radii."
+      },
+      {
+        "keyLearningPoint": "An isosceles triangle can be constructed using intersecting circles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Scalene triangles have three different-sized angles and three edges of different lengths.",
+        "keyword": "Scalene triangle"
+      },
+      {
+        "description": "Isosceles triangles have two equal-sized angles. Two of the edges are equal in length.",
+        "keyword": "Isosceles triangle"
+      },
+      {
+        "description": "Equilateral triangles have three equal-sized angles and three edges of equal length. They are regular triangles.",
+        "keyword": "Equilateral triangle"
+      },
+      {
+        "description": "The radius is any line segment that joins the centre of a circle to any point on its circumference.",
+        "keyword": "Radius"
+      }
+    ],
+    "lessonTitle": "Constructing triangles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may avoid using the pair of compasses and opt for a ruler instead.",
+        "response": "Emphasise the efficiency and accuracy of using compasses instead of a ruler in the construction of their triangles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/constructing-triangles",
+    "pupilLessonOutcome": "I can use intersecting circles to construct triangles from given lengths.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Random number generators, dice or playing cards can be used to select three edge lengths for pupils to construct. Pupils can consider if a triangle can be constructed before attempting to."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "corresponding-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/corresponding-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The different arrangements of 3 line segments can be described and categorised."
+      },
+      {
+        "keyLearningPoint": "One of these arrangements involves a transversal."
+      },
+      {
+        "keyLearningPoint": "Corresponding angles can be identified in this arrangement."
+      },
+      {
+        "keyLearningPoint": "If the lines cut by the transversal are parallel these corresponding angles are equal."
+      },
+      {
+        "keyLearningPoint": "Knowledge of corresponding angles can be used to find unknown angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Corresponding angles are a pair of angles at different vertices on the same side of a transversal in equivalent positions.",
+        "keyword": "Corresponding angles"
+      },
+      {
+        "description": "A transversal is any line that intersects two or more lines at distinct (different) points (line, line segment or ray).",
+        "keyword": "Transversal"
+      }
+    ],
+    "lessonTitle": "Corresponding angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Transversals must intersect a pair of parallel lines.",
+        "response": "Transversals can intersect any set of lines or line segments, no matter whether any of those lines or line segments are parallel or not."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/corresponding-angles",
+    "pupilLessonOutcome": "I can recognise that a pair of parallel lines traversed by a straight line produces equal corresponding angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is important to emphasise the quality of a student's explanation when justifying the size of an angle. \"Corresponding angles are equal\" can be more accurately worded as, \"corresponding angles on a pair of parallel lines are equal\"."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "deriving-the-sum-of-interior-angles-in-multiple-ways": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/deriving-the-sum-of-interior-angles-in-multiple-ways",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Not all vertices of component shapes contribute to the sum of the interior angles of a composite shape."
+      },
+      {
+        "keyLearningPoint": "A numerical sequence can be used to derive the sum of interior angles."
+      },
+      {
+        "keyLearningPoint": "A formula can be derived to find the sum of interior angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A polygon is a flat (2D), closed figure made up of straight line segments.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "An interior angle is an angle formed inside a polygon by two of its edges.",
+        "keyword": "Interior angle"
+      },
+      {
+        "description": "The sum is the total when numbers are added together.",
+        "keyword": "Sum"
+      }
+    ],
+    "lessonTitle": "Deriving the sum of interior angles in multiple ways",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Interior angles always sum to 180 times the number of component triangles it is split into.",
+        "response": "If line segments drawn make new vertices in the polygon, its angles won't contribute to the sum of interior angles in the initial polygon."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/deriving-the-sum-of-interior-angles-in-multiple-ways",
+    "pupilLessonOutcome": "I can use reasoning to derive the sum of interior angles in multiple ways.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Following Task A, pupils could explore their own methods for splitting up a polygon into triangles and calculating the sum of interior angles."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "describe-rotations-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/describe-rotations-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Some objects rotate or spin and this is measured in degrees"
+      },
+      {
+        "keyLearningPoint": "Rotation can be more than a right angle >90 degrees"
+      },
+      {
+        "keyLearningPoint": "Rotation can be less than a right angle <90 degrees"
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A degree is a unit of measure for angles.",
+        "keyword": "Degrees"
+      },
+      {
+        "description": "To estimate is to find a value that is close enough to the right answer, usually with some thought or calculation involved.",
+        "keyword": "Estimate"
+      },
+      {
+        "description": "A rotation is a circular movement around a fixed point.",
+        "keyword": "Rotation"
+      }
+    ],
+    "lessonTitle": "Describe rotations using the standard unit of degrees when compared to a right angle",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Objects rotate only either less than a full turn or more than a full turn.",
+        "response": "Take time to discuss the purpose of the object in question and clarify the difference between what an object should do and could do."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/describe-rotations-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "pupilLessonOutcome": "I can describe rotations using the standard unit of degrees when compared to a right angle.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to find examples of rotating objects in their own settings and explore the different starting positions of each angle, generalising that an angle can start from any point."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "describe-static-angles-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/describe-static-angles-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "There are 90 degrees in a right angle"
+      },
+      {
+        "keyLearningPoint": "Acute angles are between 0 and 90 degrees"
+      },
+      {
+        "keyLearningPoint": "Obtuse angles are between 90 and 180 degrees"
+      },
+      {
+        "keyLearningPoint": "Reflex angles are greater than 180 degrees"
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A degree is a unit of measure for angles.",
+        "keyword": "Degrees"
+      },
+      {
+        "description": "To estimate is to find a value that is close enough to the right answer, usually with some thought or calculation involved.",
+        "keyword": "Estimate"
+      }
+    ],
+    "lessonTitle": "Describe static angles using the standard unit of degrees when compared to a right angle",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "90 degrees is classified as an acute angle and 180 degrees is classified as an obtuse angle.",
+        "response": "Provide opportunities for pupils to classify angle sizes and build towards understanding that acute angles are between 0-89 degrees and obtuse angles are between 91-179 degrees. Classifying multiples of right angles as a separate group may help."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/describe-static-angles-using-the-standard-unit-of-degrees-when-compared-to-a-right-angle",
+    "pupilLessonOutcome": "I can describe static angles using the standard unit of degrees when compared to a right angle.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Take time in the lesson for children to work independently and in pairs to estimate the size of a range of angles. Encourage identification of angle type and reasoning around estimate choice."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "diagonal-lines-of-symmetry": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/diagonal-lines-of-symmetry",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A line of symmetry does not have to be vertical or horizontal. You can reflect shapes in a diagonal line of symmetry."
+      },
+      {
+        "keyLearningPoint": "You can reflect a shape by counting the position of each vertex and making a mark, and then joining the marks."
+      },
+      {
+        "keyLearningPoint": "Each vertex of a shape will be the same distance from the line of symmetry when it is reflected."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "Mirror line is another term to describe the line of symmetry.",
+        "keyword": "Mirror line"
+      },
+      {
+        "description": "When you reflect a shape, you flip it over a mirror line or line of symmetry without turning it or changing the size.",
+        "keyword": "Reflect"
+      },
+      {
+        "description": "The reflection of a shape is the mirror image of a shape.",
+        "keyword": "Reflection"
+      }
+    ],
+    "lessonTitle": "Diagonal lines of symmetry",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may try to reflect in a diagonal line but not at a 45 degree angle, leading to inaccuracies when marking each vertex.",
+        "response": "Encourage children to work horizontally and then vertically, rather than trying to reflect in a diagonal line. Explore how this can be done in either order, orienting the paper, and notice how the same point will still be marked on the grid."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/diagonal-lines-of-symmetry",
+    "pupilLessonOutcome": "I can reflect shaded squares and polygons in a diagonal line of symmetry.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Allow children access to mirrors during this lesson and encourage them to use the mirror to check their work each time they have reflected a vertex, a pattern or a shape."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "diagonals-of-a-rhombus": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/diagonals-of-a-rhombus",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "An isosceles triangle has a line of symmetry that splits it into two congruent triangles."
+      },
+      {
+        "keyLearningPoint": "In a rhombus each diagonal splits the rhombus into two congruent isosceles triangles bisecting the angles."
+      },
+      {
+        "keyLearningPoint": "The two diagonals meet at right angles."
+      },
+      {
+        "keyLearningPoint": "The two diagonals bisect each other."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "To bisect means to cut or divide an object into two equal parts.",
+        "keyword": "Bisect"
+      },
+      {
+        "description": "The altitude of a triangle is a line segment from a vertex of a triangle to the opposite edge. It is perpendicular to that edge.",
+        "keyword": "Altitude"
+      }
+    ],
+    "lessonTitle": "Diagonals of a rhombus",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may struggle with a diagonal of a shape being vertical or horizontal.",
+        "response": "By reminding pupils of the definition, ask them to check if it fits and the shape could be rotated as well."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/diagonals-of-a-rhombus",
+    "pupilLessonOutcome": "I can appreciate that the diagonals of a rhombus bisect one another at right angles and the angles are bisected.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "You can set up pair or group work to explore the question 'Is a square a rhombus?' Pupils will need to use good mathematical vocabulary and reasoning to explain their argument. Then you could have them consider 'is a rhombus a square?'."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "draw-angles-accurately-using-a-protractor": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/draw-angles-accurately-using-a-protractor",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A protractor can be used to draw angles."
+      },
+      {
+        "keyLearningPoint": "Protractors have two scales from 0 to 180 degrees."
+      },
+      {
+        "keyLearningPoint": "Start from zero when reading the scale on a protractor."
+      },
+      {
+        "keyLearningPoint": "Line the protractor up with one of the lines forming the angle."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A protractor is an instrument used to measure angles.",
+        "keyword": "Protractor"
+      },
+      {
+        "description": "An angle is a measure of turn.",
+        "keyword": "Angle"
+      },
+      {
+        "description": "A polygon is a 2D shape made up of three or more straight lines.",
+        "keyword": "Polygon"
+      }
+    ],
+    "lessonTitle": "Draw angles accurately using a protractor",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils draw a straight line to begin to create their angle and then place the centre of the protractor in the middle of the straight line.",
+        "response": "Encourage pupils to place the middle spot of the protractor on one end of the straight line as this will make it easier to mark on the second line to create the vertex once the protractor has been removed."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/draw-angles-accurately-using-a-protractor",
+    "pupilLessonOutcome": "I can draw angles accurately using a protractor.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to draw angles in a range of orientations, not just from one vertical or horizontal line. This will continue to help develop their sense of magnitude for angles more broadly."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "draw-polygons-on-isometric-paper": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/draw-polygons-on-isometric-paper",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Different patterns on the paper allow you to draw polygons with different properties."
+      },
+      {
+        "keyLearningPoint": "A ruler helps to draw shapes accurately."
+      },
+      {
+        "keyLearningPoint": "Mark the vertices of the shape and join them with a ruler to create polygons."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "Isometric means distances between points stay the same. In this lesson we use isometric paper which has equally spaced dots or points.",
+        "keyword": "Isometric"
+      },
+      {
+        "description": "Two lines which meet at a right angle are perpendicular.",
+        "keyword": "Perpendicular"
+      },
+      {
+        "description": "Parallel lines are straight lines that are always the same distance apart. They never get closer together or further apart.",
+        "keyword": "Parallel"
+      }
+    ],
+    "lessonTitle": "Draw polygons on isometric paper",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may not identify when a polygon has more than one pair of parallel or perpendicular sides especially when the polygon is not a rectangle.",
+        "response": "Make use of right angle checkers to identify that some shapes have more than one right angle and take time to link this to perpendicular sides."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/draw-polygons-on-isometric-paper",
+    "pupilLessonOutcome": "I can draw polygons on isometric paper.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This lesson uses isometric paper of different types. You may wish to pre-prepare some additional paper so that pupils can explore creating lots of different polygons."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "draw-shapes-with-given-properties": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/draw-shapes-with-given-properties",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "If you know the properties of a shape you can use a ruler and a grid to create it."
+      },
+      {
+        "keyLearningPoint": "Lines are perpendicular when they are at right angles to each other."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quadrilateral is a polygon with four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "A vertex is the point where two lines meet. The plural is vertices.",
+        "keyword": "Vertex / vertices"
+      }
+    ],
+    "lessonTitle": "Draw shapes with given properties",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children overgeneralise about the appearance of polygons such as rectangles and pentagons and do not recognise them when they are less typical.",
+        "response": "Ensure modelling and examples show a range of shapes. For example, show a range of rectangles and focus on the key properties of parallel and perpendicular sides to identify that they are all rectangles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/draw-shapes-with-given-properties",
+    "pupilLessonOutcome": "I can draw quadrilaterals and other polygons with given properties.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Ensure adequate time is given in this lesson for pupils to draw their own examples. Sharing and comparing gives additional opportunities to classify and rehearse properties of polygons."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "draw-shapes-with-given-properties-on-a-range-of-geometric-grids": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/draw-shapes-with-given-properties-on-a-range-of-geometric-grids",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "If you know the properties of a shape you can use a ruler and a range of grids to create it."
+      },
+      {
+        "keyLearningPoint": "Lines are perpendicular when they are at right angles to each other."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A property is a character or quality something has.",
+        "keyword": "Property / properties"
+      }
+    ],
+    "lessonTitle": "Draw shapes with given properties on a range of geometric grids",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may not recognise that the same type of shape, such as a pentagon, can have different properties such as parallel or perpendicular lines.",
+        "response": "Make use of geoboards if possible to create a pentagon and physically move one vertex. Focus on the fact that the shape still has 5 vertices and discuss what is similar and different."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/draw-shapes-with-given-properties-on-a-range-of-geometric-grids",
+    "pupilLessonOutcome": "I can draw shapes with given properties on a range of geometric grids.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Ensure adequate time is given in Cycle 1 to pupils drawing their own shapes so they are confident in properties of shapes before completing shapes in Cycle 2."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "You can estimate angles by comparing to a right angle of 90 degrees."
+      },
+      {
+        "keyLearningPoint": "Half a right angle is 45 degrees."
+      },
+      {
+        "keyLearningPoint": "One and a half right angles are 135 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "To estimate is to find a value that is close enough to the right answer, usually with some thought or calculation involved.",
+        "keyword": "Estimate"
+      },
+      {
+        "description": "A degree is a unit of measure for angles.",
+        "keyword": "Degree"
+      }
+    ],
+    "lessonTitle": "Estimate acute and obtuse angles using the standard unit of degrees",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils significantly over or under-estimate the size of angles, particularly when the initial line of the angle is not vertical or horizontal.",
+        "response": "Encourage pupils to rotate the angle so that one of the lines is vertical or horizontal, or if possible, look at the angle from a different point of view which may help to view a line of the angle from a vertical or horizontal position."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/estimate-acute-and-obtuse-angles-using-the-standard-unit-of-degrees",
+    "pupilLessonOutcome": "I can estimate acute and obtuse angles using the standard unit of degrees.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Spend time moving on from the use of angle tools to estimate angles to estimating only with the two given lines. Pupils should look to develop a sense of different angle sizes in different orientations."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "explore-sort-and-classify-triangles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/explore-sort-and-classify-triangles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "There are three types of triangle - equilateral, isosceles and scalene."
+      },
+      {
+        "keyLearningPoint": "Some triangles can also be described as right-angled triangles if one of the angles is equal to 90\u00b0"
+      },
+      {
+        "keyLearningPoint": "Right-angled triangles can be classified as scalene or isosceles."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A right-angled triangle has one 90\u00b0 angle. Right-angled triangles can be classified as isosceles or scalene.",
+        "keyword": "Right-angled triangle"
+      },
+      {
+        "description": "Equilateral triangles have 3 equal sides and 3 equal angles.",
+        "keyword": "Equilateral triangle"
+      },
+      {
+        "description": "Isosceles triangles have 2 equal sides and 2 equal angles.",
+        "keyword": "Isosceles triangle"
+      },
+      {
+        "description": "Scalene triangles have no equal sides and no equal angles.",
+        "keyword": "Scalene triangle"
+      }
+    ],
+    "lessonTitle": "Explore, sort and classify triangles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children might find it difficult to create triangles with equal angles.",
+        "response": "Allow time to play and explore constructing triangles using items such as lolly sticks and matchsticks. Develop children's understanding of angles in a triangle using angle strips to check whether the angles are equal or not."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/explore-sort-and-classify-triangles",
+    "pupilLessonOutcome": "I can sort triangles in different ways based on their properties.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This lesson uses non-standard units of length such as matchsticks when comparing the lengths of the sides. There could be opportunities to also use standard units of measure, measuring the lengths of sides with a ruler. Pegboards are also used. All support children to construct and draw triangles."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "explore-symmetry-by-joining-two-identical-shapes": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/explore-symmetry-by-joining-two-identical-shapes",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A shape is symmetrical when one half is a reflection of the other half."
+      },
+      {
+        "keyLearningPoint": "When you fold a shape on a line of symmetry, the two halves will match exactly."
+      },
+      {
+        "keyLearningPoint": "You can join two identical shapes together to create a new shape."
+      },
+      {
+        "keyLearningPoint": "When you join two identical shapes, sometimes the new shape will be symmetrical."
+      },
+      {
+        "keyLearningPoint": "When you join two identical shapes, sometimes the new shape will have no lines of symmetry."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "When a shape, pattern or image has two halves that match exactly when folded, it can be described as symmetrical.",
+        "keyword": "Symmetrical"
+      },
+      {
+        "description": "If you were to fold a shape at its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "Two shapes that are exactly the same can be described as identical.",
+        "keyword": "Identical"
+      }
+    ],
+    "lessonTitle": "Explore symmetry by joining two identical shapes",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Some children will think that a parallelogram is symmetrical because it can be divided in half.",
+        "response": "Demonstrate with folding and by using mirrors why dividing a parallelogram in half does not result in a line of symmetry. Allow children to explore this concept with cut-outs of different parallelograms."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/explore-symmetry-by-joining-two-identical-shapes",
+    "pupilLessonOutcome": "I can compose symmetrical shapes from two identical shapes.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "There are additional materials provided for this lesson which will allow children to explore the concept of symmetry practically by using cut-outs of different triangles and quadrilaterals."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "exterior-angles-of-polygons": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/exterior-angles-of-polygons",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The sum of the exterior angles of a polygon can be demonstrated using a point."
+      },
+      {
+        "keyLearningPoint": "The sum of the exterior angles of a polygon can be proven using interior angles and the angles on a straight line."
+      },
+      {
+        "keyLearningPoint": "The angle sum of a triangle can also be proven using exterior angles ."
+      },
+      {
+        "keyLearningPoint": "The size of the exterior angle of any polygon can be found using the sum of angles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "an angle formed inside a polygon by two of its edges.",
+        "keyword": "Interior angle"
+      },
+      {
+        "description": "an angle on the outside of a polygon between an extension of an edge and its adjacent edge.",
+        "keyword": "Exterior angle"
+      },
+      {
+        "description": "a pair of angles that sum to 180\u00b0.",
+        "keyword": "Supplementary angle"
+      }
+    ],
+    "lessonTitle": "Exterior angles of polygons",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "The exterior angle is the entire reflex angle that is on the outside of each vertex of a shape.",
+        "response": "Ask a pupil to stand and walk around the room to trace a shape. The angle that the pupil turns at each vertex is an exterior angle."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/exterior-angles-of-polygons",
+    "pupilLessonOutcome": "I can find the sum of the exterior angles of a polygon.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Some slides contain links to GeoGebra activities which are similar to those on the slides. If pupils have access to web browsers, they could attempt the activities themselves before working through the slides as a class."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "find-lines-of-symmetry-in-2d-shapes": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/find-lines-of-symmetry-in-2d-shapes",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A line of symmetry splits the shape into two equal parts which are mirror images."
+      },
+      {
+        "keyLearningPoint": "Shapes are symmetrical when they look the same when a mirror is placed on the mirror line."
+      },
+      {
+        "keyLearningPoint": "Regular polygons have the same number of lines of symmetry as they have sides."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "When a shape, pattern or image has one half that is the reflection of the other half, it can be described as symmetrical.",
+        "keyword": "Symmetrical"
+      },
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "A regular polygon has sides that are all equal and angles that are all equal.",
+        "keyword": "Regular polygon"
+      }
+    ],
+    "lessonTitle": "Find lines of symmetry in 2D shapes",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may not identify lines of symmetry that are neither horizontal nor vertical.",
+        "response": "Allow opportunities for children to handle and manipulate cut outs of shapes so that they can try to find lines of symmetry in different orientations. Encourage them to describe the position of the line of symmetry to support their understanding."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/find-lines-of-symmetry-in-2d-shapes",
+    "pupilLessonOutcome": "I can find lines of symmetry in 2D shapes and explain the link between lines of symmetry and number of sides in regular polygons.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This lesson teaches children how to use a mirror to find lines of symmetry. It will be really useful for all children to have access to their own mirror during this lesson."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "formal-angle-notation": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/formal-angle-notation",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "It is important to use and understand the mathematical word line."
+      },
+      {
+        "keyLearningPoint": "It is important to use and understand the mathematical word ray."
+      },
+      {
+        "keyLearningPoint": "It is important to use and understand the mathematical phrase line segment."
+      },
+      {
+        "keyLearningPoint": "It is important to use and understand the mathematical word angle."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A line is a straight 1D figure that does not have a thickness, and it extends forever in both directions.",
+        "keyword": "Line"
+      },
+      {
+        "description": "A ray is a part of a line with a fixed starting point that extends forever in one direction.",
+        "keyword": "Ray"
+      },
+      {
+        "description": "A line segment is a part of a line with a fixed start point and a distinct fixed end point.",
+        "keyword": "Line segment"
+      }
+    ],
+    "lessonTitle": "Formal angle notation",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "I can draw a 7 cm line with my ruler.",
+        "response": "A line is a linear path that continues forever in both directions. We can draw line segments with a ruler, which have distinct endpoints."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/formal-angle-notation",
+    "pupilLessonOutcome": "I can use conventional terms and notations for lines, rays, segments and angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Capital letters identify points, whilst lower case letters identify angles. Where possible, when both points and angles are labelled on a diagram, avoid use of letters whose capital and lowercase representations look similar."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "formalising-understanding-of-triangles-from-ks2": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/formalising-understanding-of-triangles-from-ks2",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "An equilateral triangle is a regular triangle and has particular properties."
+      },
+      {
+        "keyLearningPoint": "A scalene triangle has specific properties."
+      },
+      {
+        "keyLearningPoint": "An isosceles triangle has properties including a line of symmetry that splits it into two congruent triangles."
+      },
+      {
+        "keyLearningPoint": "A right-angled triangle can be scalene or isosceles."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "Equilateral triangles have three equal-sized angles and three edges of equal length. They are regular triangles.",
+        "keyword": "Equilateral"
+      },
+      {
+        "description": "Scalene triangles have three different-sized angles and three different-sized edges (sides).",
+        "keyword": "Scalene"
+      },
+      {
+        "description": "Isosceles triangles have two equal-sized angles and two sides of the same length.",
+        "keyword": "Isosceles"
+      },
+      {
+        "description": "A right-angled triangle has exactly one 90\u00b0 interior angle.",
+        "keyword": "Right-angled triangle"
+      }
+    ],
+    "lessonTitle": "Formalising understanding of triangles from KS2",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "The horizontal side length of an isosceles triangle is always the base side.",
+        "response": "The base side of an isosceles triangle can have any orientation. It is important to look at the hash marks, angle markers, or measurements."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/formalising-understanding-of-triangles-from-ks2",
+    "pupilLessonOutcome": "I can classify triangles and know their relevant properties.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It's important to encourage students to be attentive and critical of the information given to them. Interior angles in a triangle sum to 180\u00b0 and so other angle facts need to be used first if exterior or conjugate angles are given instead."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "identify-and-describe-right-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/identify-and-describe-right-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A right angle is a square corner."
+      },
+      {
+        "keyLearningPoint": "A right angle is a quarter turn."
+      },
+      {
+        "keyLearningPoint": "There are right angles in buildings and the environment."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quarter of a full turn, a 'square corner'.",
+        "keyword": "Right angle"
+      }
+    ],
+    "lessonTitle": "Identify and describe right angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may think there is only ever one right angle in an object or shape.",
+        "response": "Provide opportunities for pupils to explore objects and shapes that have more than one right angle and show that these are not always rectangular e.g. some trapeziums can have more than one right angle."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/identify-and-describe-right-angles",
+    "pupilLessonOutcome": "I can identify a square corner as a right angle and can find and identify right angles in the environment.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Take time to make a right angle checker with pupils, using split pins and paper or folding paper to make a right angle. This will support pupils in exploring their environment to identify right angles."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "identify-different-types-of-triangle": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/identify-different-types-of-triangle",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "All triangles have 3 straight sides and 3 vertices."
+      },
+      {
+        "keyLearningPoint": "Equilateral triangles have 3 equal sides and 3 equal angles."
+      },
+      {
+        "keyLearningPoint": "Isosceles triangles have 2 equal sides and 2 equal angles."
+      },
+      {
+        "keyLearningPoint": "Scalene triangles have no equal sides and no equal angles."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "Equilateral triangles have 3 equal sides and 3 equal angles.",
+        "keyword": "Equilateral triangle"
+      },
+      {
+        "description": "Isosceles triangles have 2 equal sides and 2 equal angles.",
+        "keyword": "Isosceles triangle"
+      },
+      {
+        "description": "Scalene triangles have no equal sides and no equal angles.",
+        "keyword": "Scalene triangle"
+      }
+    ],
+    "lessonTitle": "Identify different types of triangle",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Some children may find it harder to recognise the type of triangle when they are drawn in different positions and orientations.",
+        "response": "Allow time for children to manipulate the triangles so that they can see them in different orientations and build their understanding of the properties of each type of triangle."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/identify-different-types-of-triangle",
+    "pupilLessonOutcome": "I can identify different types of triangles and describe their properties.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "There are opportunities throughout this lesson for children to explore the properties of triangles using angle strips and circular peg boards. If you do not have circular peg boards to hand, encourage use of those in the 'additional materials'. Children can achieve the same by drawing on these."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "identify-properties-of-quadrilaterals": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/identify-properties-of-quadrilaterals",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Quadrilaterals always have four sides, vertices and angles."
+      },
+      {
+        "keyLearningPoint": "Quadrilaterals always have straight sides and sharp vertices."
+      },
+      {
+        "keyLearningPoint": "Quadrilaterals can have right angles."
+      },
+      {
+        "keyLearningPoint": "Vertices are the corners of the shape."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A polygon with four straight sides.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "The point where two lines meet.",
+        "keyword": "Vertex"
+      },
+      {
+        "description": "More than one vertex.",
+        "keyword": "Vertices"
+      },
+      {
+        "description": "A character or quality that something has.",
+        "keyword": "Properties"
+      }
+    ],
+    "lessonTitle": "Identify properties of quadrilaterals",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may have trouble recognising right angles or lines of symmetry when shapes have been rotated.",
+        "response": "Encourage pupils to check every angle using a simple right-angle measurer, which can be hand made or even cut from the corner of a piece of paper. Ask them to physically manipulate the shapes so that they can identify properties more easily."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/identify-properties-of-quadrilaterals",
+    "pupilLessonOutcome": "I can use different properties to identify and sort quadrilaterals.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Pupils will already be familiar with the properties of quadrilaterals in this lesson. To explore these ideas further, make this session as practical as possible. Use geoboards, if available, to investigate shapes rather than drawing them."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "identify-properties-of-triangles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/identify-properties-of-triangles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Triangles always have three sides, vertices and angles."
+      },
+      {
+        "keyLearningPoint": "Triangles always have straight sides and sharp vertices."
+      },
+      {
+        "keyLearningPoint": "Triangles can have right angles."
+      },
+      {
+        "keyLearningPoint": "Vertices are the corners of a shape."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A polygon with three straight sides.",
+        "keyword": "Triangle"
+      },
+      {
+        "description": "The point where two lines meet.",
+        "keyword": "Vertex"
+      },
+      {
+        "description": "More than one vertex.",
+        "keyword": "Vertices"
+      },
+      {
+        "description": "A character or quality that something has.",
+        "keyword": "Properties"
+      }
+    ],
+    "lessonTitle": "Identify properties of triangles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may see other shapes and collections of lines as triangles when they are not (e.g. shapes with rounded corners, three lines that do not all meet).",
+        "response": "Provide pupils with shapes, and explore shapes in the environment, classifying them as 'triangles' and 'not triangles'. Ask children, 'Does this shape have three straight sides? Does it have clearly defined, sharp vertices?'"
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/identify-properties-of-triangles",
+    "pupilLessonOutcome": "I can use different properties to identify and sort triangles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Pupils will already have some familiarity with triangles but this lesson helps them to define what a triangle is. Pupils begin to classify and sort triangles by their angles, length of sides and whether they have reflective symmetry or not. The sorting provides opportunities for pupil discussion."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "identifying-parallel-lines": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/identifying-parallel-lines",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "If you extend the side of a shape beyond the shape you can identify parallel and perpendicular lines."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "Parallel lines are straight lines that are always the same distance apart. They never get closer together or further apart.",
+        "keyword": "Parallel"
+      }
+    ],
+    "lessonTitle": "Identifying parallel lines",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may overgeneralise that parallel lines can only come in pairs or must be horizontal or vertical in orientation.",
+        "response": "These misconceptions are addressed in the lesson. You may wish to use these to create additional examples and non-examples to compare and share."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/identifying-parallel-lines",
+    "pupilLessonOutcome": "I can identify parallel lines and extend lines in polygons to determine if sides are parallel.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "In Cycle 2 children learn to extend lines to check if they are parallel. Take time to encourage discussion and prediction so that they are selective about which lines they extend to check."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "interior-and-exterior-angles-of-regular-polygons": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/geometrical-properties-polygons/lessons/interior-and-exterior-angles-of-regular-polygons",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Exterior angles of a regular polygon are equal."
+      },
+      {
+        "keyLearningPoint": "The size of the exterior angle of a regular polygon can be determined."
+      },
+      {
+        "keyLearningPoint": "Interior angles of regular polygons are equal."
+      },
+      {
+        "keyLearningPoint": "The size of the interior angle of a regular polygon can be determined."
+      },
+      {
+        "keyLearningPoint": "The number of sides in a regular polygon can be determined from the size of the interior or exterior angle."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A polygon is a flat (2D), closed figure made up of straight line segments.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "A regular polygon has sides that are equal and interior (inside) angles that are all equal.",
+        "keyword": "Regular polygon"
+      },
+      {
+        "description": "An interior angle is an angle formed inside a polygon by two of its edges.",
+        "keyword": "Interior angle"
+      },
+      {
+        "description": "An exterior angle is an angle on the outside of a polygon between an extension of an edge and its adjacent edge.",
+        "keyword": "Exterior angle"
+      }
+    ],
+    "lessonTitle": "Interior and exterior angles of regular polygons",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may solve angle problems by using methods which are less efficient than others.",
+        "response": "While less efficient methods are fine, encourage pupils to review their work each time they solve a problem to consider alternative methods."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/interior-and-exterior-angles-of-regular-polygons",
+    "pupilLessonOutcome": "I can find the interior and exterior angles of regular polygons.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "One of the slides contains a link to a GeoGebra activity similar to what Sofia uses. If pupils have access to web browsers, they could use it to perform a similar investigation by attempting to draw regular polygons using different exterior angles."
+      }
+    ],
+    "unitSlug": "geometrical-properties-polygons",
+    "unitTitle": "Geometrical properties: polygons"
+  },
+  "investigate-and-draw-other-polygons-with-right-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/investigate-and-draw-other-polygons-with-right-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Polygons with more than four sides can contain a right angle."
+      },
+      {
+        "keyLearningPoint": "Polygons with more than four sides can contain more than one right angle."
+      },
+      {
+        "keyLearningPoint": "Shapes can be drawn to match a description including angles and numbers of sides."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A 2D shape made up of five straight sides and vertices.",
+        "keyword": "Pentagon"
+      },
+      {
+        "description": "A 2D shape made up of six straight sides and vertices.",
+        "keyword": "Hexagon"
+      }
+    ],
+    "lessonTitle": "Investigate and draw other polygons with right angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may find it hard to recognise right angles presented in unusual orientations.",
+        "response": "Encourage pupils to continue to check angles with a right angle measurer. Teach them to recognise where vertices are clearly not right angles and differentiate these from ones that could be right angles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/investigate-and-draw-other-polygons-with-right-angles",
+    "pupilLessonOutcome": "I can investigate right angles in shapes with more than four sides.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This session can be taught practically. Pupils can use geoboards and elastic bands to explore pentagons and hexagons, identifying right angles, and use card strips and split pins to investigate shapes too. Pupils can be presented with strips of different lengths to add further challenge."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "investigate-different-ways-of-decomposing-a-polygon": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/investigate-different-ways-of-decomposing-a-polygon",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The same whole can be split into different parts."
+      },
+      {
+        "keyLearningPoint": "Lines are perpendicular when they are at right angles to each other."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A polygon is a 2D shape made up of three or more straight lines.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "A quadrilateral is a polygon that has four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "Parallel lines are straight lines that are always the same distance apart. They never get closer together or further apart.",
+        "keyword": "Parallel"
+      },
+      {
+        "description": "To decompose means to break something into parts that are the same as the original when you put them back together.",
+        "keyword": "Decompose"
+      }
+    ],
+    "lessonTitle": "Investigate different ways of decomposing a polygon",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils are not able to identify right angles and therefore struggle to identify pairs of perpendicular sides.",
+        "response": "Provide children with a right angle checker. Take time to model its use, focusing on aligning one edge of the checker with a side of the angle they want to check."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/investigate-different-ways-of-decomposing-a-polygon",
+    "pupilLessonOutcome": "I can decompose a polygon in different ways and identify properties of polygons.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Decomposing shapes is a really useful tool for later thinking about area, fractions and spatial reasoning. Ensure pupils have adequate time in this lesson to decompose polygons and discuss similarities and differences."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "investigate-lines-of-symmetry-in-2d-shapes-by-folding": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/investigate-lines-of-symmetry-in-2d-shapes-by-folding",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "When you fold a shape on a line of symmetry, the two halves will match exactly."
+      },
+      {
+        "keyLearningPoint": "A line of symmetry is not always horizontal or vertical."
+      },
+      {
+        "keyLearningPoint": "Some quadrilaterals, such as a parallelogram, have no lines of symmetry."
+      },
+      {
+        "keyLearningPoint": "Others, such as a kite, have one line of symmetry. Others, such as a rectangle, can have more than one line of symmetry."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quadrilateral with two pairs of adjacent, equal sides.",
+        "keyword": "Kite"
+      },
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      }
+    ],
+    "lessonTitle": "Investigate lines of symmetry in 2D shapes by folding",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may not recognise a line of symmetry when it is neither horizontal nor vertical.",
+        "response": "Allow opportunities for exploring lines of symmetry practically by folding cut outs of lots of different shapes. Encourage children to view and describe these in different orientations to help them see that a line of symmetry can be in any direction."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/investigate-lines-of-symmetry-in-2d-shapes-by-folding",
+    "pupilLessonOutcome": "I can use folding to investigate lines of symmetry in different 2D shapes.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This lesson explores the properties of a kite and how some kites could be described using other shape names. Ensure children are confident with this concept already, for example knowing that some rectangles can also be described as squares."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "investigate-symmetry-and-symmetrical-patterns": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/investigate-symmetry-and-symmetrical-patterns",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "There are lots of real life examples where you can find lines of symmetry, for example in flags."
+      },
+      {
+        "keyLearningPoint": "When a pattern is symmetrical, you can fold along its line of symmetry and the two halves will match exactly."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "When a shape, pattern or image has two halves that match exactly when folded, it can be described as symmetrical.",
+        "keyword": "Symmetrical"
+      },
+      {
+        "description": "If you were to fold a shape at its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "When you reflect a shape, you flip it over a mirror line or line of symmetry without turning it or changing the size.",
+        "keyword": "Reflect"
+      }
+    ],
+    "lessonTitle": "Investigate symmetry and symmetrical patterns",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may think that a rectangular flag has diagonal lines of symmetry.",
+        "response": "Allow children to cut out and fold the flags to help them see that a rectangle does not have any diagonal lines of symmetry."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/investigate-symmetry-and-symmetrical-patterns",
+    "pupilLessonOutcome": "I can find lines of symmetry in real life contexts and design my own symmetrical patterns.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Part of this lesson involves children planning their own symmetrical design for a t-shirt. Using a search engine, many real-life examples can be found that could be shared with the children. You may be able to link this lesson to the wider curriculum, for example design and technology or art."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "investigate-the-shapes-made-when-rectangles-are-cut-on-the-diagonal": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/investigate-the-shapes-made-when-rectangles-are-cut-on-the-diagonal",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "An angle can be exactly a right angle."
+      },
+      {
+        "keyLearningPoint": "An angle can be less than or greater than a right angle."
+      },
+      {
+        "keyLearningPoint": "When you cut a square using two diagonal lines, you get four identical triangles."
+      },
+      {
+        "keyLearningPoint": "When you cut a rectangle that is not a square using two diagonal lines, you get two pairs of identical triangles."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A straight line connecting one vertex to another, but is not the side or edge.",
+        "keyword": "Diagonal"
+      }
+    ],
+    "lessonTitle": "Investigate the shapes made when rectangles are cut on the diagonal",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may find it hard to recognise when an angle is greater than a right angle.",
+        "response": "You can model this by trying to move the obtuse angle (though pupils don't need to know the term yet) within a right angle checker. They should be able to see that it is too large to fit."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/investigate-the-shapes-made-when-rectangles-are-cut-on-the-diagonal",
+    "pupilLessonOutcome": "I can describe the shapes made when rectangles are cut on the diagonal.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to draw as accurately as possible. They can also cut out shapes to check that they are the same shape and size. Ask questions that allow pupils to make generalisations (e.g. when you divide squares using two diagonal lines, you get 4 right-angled triangles.)"
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "join-four-right-angles-at-a-point-using-different-right-angled-polygons": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/join-four-right-angles-at-a-point-using-different-right-angled-polygons",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Where four right angles meet, there is a full turn and no gaps between the shapes."
+      },
+      {
+        "keyLearningPoint": "Joining four right angles at a point will always make a full turn."
+      },
+      {
+        "keyLearningPoint": "A right angle is marked with a small square corner inside the angle."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A point is an exact location. It has no size, only position.",
+        "keyword": "At a point"
+      }
+    ],
+    "lessonTitle": "Join four right angles at a point using different right-angled polygons",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may not correctly identify right angles within a shape to join them.",
+        "response": "Make sure that pupils have opportunities to identify right angles within a range of shapes prior to the lesson. If possible, encourage them to mark the right angles to help them. They should only be joining these right angles around a point."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/join-four-right-angles-at-a-point-using-different-right-angled-polygons",
+    "pupilLessonOutcome": "I can recognise right angles and describe what happens when they are joined at a point.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "If possible, give the pupils opportunities to investigate a range of shapes using manipulatives that they can turn over and draw around (coloured plastic shapes work very well for this). Ensure that pupils have a range of shapes, with and without right angles."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "know-that-a-rectangle-is-a-four-sided-polygon-with-four-right-angles": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/know-that-a-rectangle-is-a-four-sided-polygon-with-four-right-angles",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A polygon is a 2D shape made up of 3 or more sides."
+      },
+      {
+        "keyLearningPoint": "A rectangle is a 4-sided polygon with 4 right angles."
+      },
+      {
+        "keyLearningPoint": "A 4-sided shape with fewer than 4 right angles is not a rectangle."
+      },
+      {
+        "keyLearningPoint": "A right angle is marked with a symbol inside the angle."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A polygon is a 2D shape made up of 3 or more straight sides.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "A rectangle is a 2D shape with four straight sides and four right angles.",
+        "keyword": "Rectangle"
+      }
+    ],
+    "lessonTitle": "Know that a rectangle is a four-sided polygon with four right angles",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils need to look at the interior angles in the shape. They may think that an interior angle of 270\u00b0 is a right angle.",
+        "response": "Explain to pupils that we need to measure the interior angles of a shape. Show them examples of this (e.g. an arrowhead) to illustrate."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-a-rectangle-is-a-four-sided-polygon-with-four-right-angles",
+    "pupilLessonOutcome": "I can identify a rectangle as a four-sided polygon with four right angles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "In this lesson, pupils investigate 2D shapes and try to find right angles. Encourage pupils to check all of the angles, rotating shapes and using right-angle measurers, which can be hand made or even cut from the corner of a piece of paper."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "know-that-a-right-angle-describes-a-quarter-turn": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/know-that-a-right-angle-describes-a-quarter-turn",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Two right angles make a half turn."
+      },
+      {
+        "keyLearningPoint": "Three right angles make a three-quarter turn."
+      },
+      {
+        "keyLearningPoint": "Four right angles make a full turn."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "One right angle makes a quarter turn.",
+        "keyword": "Quarter turn"
+      },
+      {
+        "description": "Two right angles make a half turn.",
+        "keyword": "Half turn"
+      },
+      {
+        "description": "Three right angles make a three-quarter turn.",
+        "keyword": "Three-quarter turn"
+      },
+      {
+        "description": "Four right angles make a full turn.",
+        "keyword": "Full turn"
+      }
+    ],
+    "lessonTitle": "Know that a right angle describes a quarter turn",
+    "misconceptionsAndCommonMistakes": [],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-a-right-angle-describes-a-quarter-turn",
+    "pupilLessonOutcome": "I can describe turning through a right angle as making a quarter turn and can turn clockwise or anticlockwise.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "know-that-a-square-is-a-rectangle-in-which-the-four-sides-are-of-equal-length": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/know-that-a-square-is-a-rectangle-in-which-the-four-sides-are-of-equal-length",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The definition of a square is a rectangle with all four sides the same length."
+      },
+      {
+        "keyLearningPoint": "A square has four right angles at its vertices."
+      },
+      {
+        "keyLearningPoint": "A square can rest on a side or a vertex."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A rectangle is a 2D shape with four straight sides and four right angles.",
+        "keyword": "Rectangle"
+      },
+      {
+        "description": "A square is a 2D shape with four equal straight sides.",
+        "keyword": "Square"
+      }
+    ],
+    "lessonTitle": "Know that a square is a rectangle in which the four sides are of equal length",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may not realise that squares are rectangles.",
+        "response": "Emphasise to pupils that all squares are rectangles but not all rectangles are squares. Rectangles are quadrilaterals with 4 right angles, but squares have 4 sides of equal length."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-a-square-is-a-rectangle-in-which-the-four-sides-are-of-equal-length",
+    "pupilLessonOutcome": "I know a square is a rectangle in which all four sides are of equal length.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Draw attention to the properties of all rectangles. Then, draw attention to the additional properties of squares. Squares have 4 sides of equal length. They have 4 lines of symmetry. They are regular shapes (any shape where all angles are the same and all sides are the same length)."
+      }
+    ],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Angles that meet at a point have a sum of 360 degrees."
+      },
+      {
+        "keyLearningPoint": "To calculate missing angles you can use addition and subtraction."
+      },
+      {
+        "keyLearningPoint": "Use mental or written strategies to calculate with angles up to 360 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A point is an exact location. It has no size, only position.",
+        "keyword": "Point"
+      },
+      {
+        "description": "The sum is the total when numbers are added together.",
+        "keyword": "Sum"
+      }
+    ],
+    "lessonTitle": "Know that the angles at a point sum to 360 degrees and use this to solve problems",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils think that the whole 360 degrees must be composed of different sized angles.",
+        "response": "Ensure pupils are exposed to examples where two or more of the angles summing to 360 degrees are the same."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-the-angles-at-a-point-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "pupilLessonOutcome": "I can recognise that angles at a point sum to 360\u00b0 and use this to solve problems.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to look for angles that are the same size and visualise overlapping these angles to help determine whether they might be the same or not. Allow pupils to consider how angles can be composed of smaller sets of angles as well."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "know-that-the-angles-in-a-full-turn-sum-to-360-degrees-and-use-this-to-solve-problems": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/know-that-the-angles-in-a-full-turn-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "There are 360 degrees in a full turn."
+      },
+      {
+        "keyLearningPoint": "Use mental or written strategies to calculate with angles up to 360 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "To turn means to rotate about a point.",
+        "keyword": "Turn"
+      },
+      {
+        "description": "A degree is a unit of measure for angles.",
+        "keyword": "Degrees"
+      }
+    ],
+    "lessonTitle": "Know that the angles in a full turn sum to 360 degrees and use this to solve problems",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "The largest angle that can be created is a 360 degree angle or one full turn.",
+        "response": "Explore examples in everyday life where rotations are greater than one full turn. Discuss how multiples of 180 degrees or 360 degrees are often used to describe movements in sports and other contexts."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-the-angles-in-a-full-turn-sum-to-360-degrees-and-use-this-to-solve-problems",
+    "pupilLessonOutcome": "I can recall that angles in a full turn sum to 360 degrees and use this to solve problems.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to think about efficient calculation when looking to solve problems using their knowledge of 360 degrees. Discuss the difference between repeated subtraction or adding all then subtracting from the whole, using a bar model to support."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Angles on a straight line have a sum of 180 degrees."
+      },
+      {
+        "keyLearningPoint": "To calculate missing angles you can use addition and subtraction."
+      },
+      {
+        "keyLearningPoint": "Use mental or written strategies to calculate with angles up to 180 degrees."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "The sum is the result of adding two or more numbers.",
+        "keyword": "Sum"
+      },
+      {
+        "description": "If something is opposite, it is placed on the other side.",
+        "keyword": "Opposite"
+      }
+    ],
+    "lessonTitle": "Know that the angles on a straight line sum to 180 degrees and use this to solve problems",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils think that the angles on a straight line only applied to lines that are horizontal.",
+        "response": "Ensure pupils are exposed to straight lines in a range of orientations, encouraging them to draw on the 180 degree angle and how this can apply to both sides of the straight line."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/know-that-the-angles-on-a-straight-line-sum-to-180-degrees-and-use-this-to-solve-problems",
+    "pupilLessonOutcome": "I know that the angles on a straight line sum to 180 degrees and use this to solve problems.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "You might like to create two straight lines that are joined by a split pin at the centre. Slowly rotate one of the lines around to reveal the angles it creates. Once pupils know the size of one of the angles, they can then identify the other angles by beginning to generalise about opposite angles."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "make-and-draw-quadrilaterals-on-circular-geoboards": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/make-and-draw-quadrilaterals-on-circular-geoboards",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Join four dots on the edge of the circle to create a quadrilateral."
+      },
+      {
+        "keyLearningPoint": "Use the properties of the quadrilateral to decide if the quadrilaterals are different or the same."
+      },
+      {
+        "keyLearningPoint": "Work systematically to create all the different possible quadrilaterals."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A quadrilateral is a polygon with four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      },
+      {
+        "description": "A vertex is the point where two lines meet. The plural is vertices.",
+        "keyword": "Vertex / vertices"
+      },
+      {
+        "description": "Parallel lines are straight lines that are always the same distance apart. They never get closer together or further apart.",
+        "keyword": "Parallel"
+      }
+    ],
+    "lessonTitle": "Make and draw quadrilaterals on circular geoboards",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils find remembering the types and properties of quadrilaterals challenging.",
+        "response": "Take time to repeat and revisit the key properties within the lesson and beyond. Consider providing a scaffold for some pupils so they can create quadrilaterals without having to recall the specific properties each time."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/make-and-draw-quadrilaterals-on-circular-geoboards",
+    "pupilLessonOutcome": "I can make and draw quadrilaterals on circular geoboards and name quadrilaterals according to their properties.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "This lesson focuses on different types of quadrilaterals. Take time to ensure that you have a secure understanding of the definitions of each. You may wish to create some unusual examples to share."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "make-and-draw-shapes-with-and-without-parallel-and-perpendicular-sides": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/make-and-draw-shapes-with-and-without-parallel-and-perpendicular-sides",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The properties must match the shape you have created."
+      },
+      {
+        "keyLearningPoint": "Lines are not perpendicular when they are not at right angles to each other."
+      },
+      {
+        "keyLearningPoint": "Lines are not parallel because they are not always the same distance apart."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A compound shape is one created using two or more basic shapes.",
+        "keyword": "Compound"
+      },
+      {
+        "description": "A vertex is the point where two lines meet. The plural is vertices.",
+        "keyword": "Vertex / vertices"
+      }
+    ],
+    "lessonTitle": "Make and draw shapes with and without parallel and perpendicular sides",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may find it challenging to recognise that the properties of composed shapes may be different from the shapes they are composed of.",
+        "response": "Drawing around compound shapes can really support children thinking about this as a 'new' shape with new properties."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/make-and-draw-shapes-with-and-without-parallel-and-perpendicular-sides",
+    "pupilLessonOutcome": "I can make and draw compound shapes with and without parallel and perpendicular sides.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "In the first cycle of the lesson the focus is on manipulating shapes to make compound shapes before drawing. Ensure pupils have sufficient time to explore practically before they move on to drawing."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "make-and-draw-triangles-on-circular-geoboards": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/make-and-draw-triangles-on-circular-geoboards",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Three points on a geoboard can be joined to make a triangle."
+      },
+      {
+        "keyLearningPoint": "Triangles can have different properties."
+      },
+      {
+        "keyLearningPoint": "Different triangles can be created on the same geoboard."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A vertex is the point where two lines meet. The plural is vertices.",
+        "keyword": "Vertex / vertices"
+      },
+      {
+        "description": "Two lines which meet at a right angle are perpendicular.",
+        "keyword": "Perpendicular"
+      }
+    ],
+    "lessonTitle": "Make and draw triangles on circular geoboards",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may overgeneralise about the way a triangle should look e.g. not recognising a scalene triangle as a triangle.",
+        "response": "Throughout the lesson, model different triangles in different orientations. Ensure pupils see boundary examples such as scalene triangles with one very small acute angle, or long and thin isosceles triangles."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/make-and-draw-triangles-on-circular-geoboards",
+    "pupilLessonOutcome": "I can make and draw triangles on circular geoboards.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "If you have practical geoboards then this is a good opportunity to make use of them. If these are not available consider making use of large printed geoboards to model examples."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "make-different-sized-angles-by-rotating-two-lines-around-a-fixed-point": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/right-angles/lessons/make-different-sized-angles-by-rotating-two-lines-around-a-fixed-point",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "An angle is a measurement of turn."
+      },
+      {
+        "keyLearningPoint": "It doesn't matter how long the lines are, the amount of turn forms the angle."
+      },
+      {
+        "keyLearningPoint": "The point or angle is where the two lines meet."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "An angle is a measure of turn.",
+        "keyword": "Angle"
+      },
+      {
+        "description": "To turn around a fixed point.",
+        "keyword": "Rotate"
+      },
+      {
+        "description": "A point that does not change or move.",
+        "keyword": "Fixed point"
+      },
+      {
+        "description": "Clockwise is the direction that the hands of an analogue clock travel.",
+        "keyword": "Clockwise"
+      },
+      {
+        "description": "Anti-clockwise is the opposite direction to which the hands of an analogue clock travel.",
+        "keyword": "Anticlockwise"
+      }
+    ],
+    "lessonTitle": "Make different sized angles by rotating two lines around a fixed point",
+    "misconceptionsAndCommonMistakes": [],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/make-different-sized-angles-by-rotating-two-lines-around-a-fixed-point",
+    "pupilLessonOutcome": "I can create different sized angles by rotating lines around a point.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [],
+    "unitSlug": "right-angles",
+    "unitTitle": "Right angles"
+  },
+  "make-shapes-by-joining-two-polygons-in-different-ways": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/parallel-and-perpendicular-sides-in-polygons-and-perimeter/lessons/make-shapes-by-joining-two-polygons-in-different-ways",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The same parts can create a different whole."
+      },
+      {
+        "keyLearningPoint": "Lines are parallel because they are always the same distance apart."
+      },
+      {
+        "keyLearningPoint": "A quadrilateral with two pairs of parallel sides is called a parallelogram."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A 2D shape made up of three or more straight lines.",
+        "keyword": "Polygon"
+      },
+      {
+        "description": "Polygons with four straight sides and four vertices.",
+        "keyword": "Quadrilateral"
+      }
+    ],
+    "lessonTitle": "Make shapes by joining two polygons in different ways",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils do not recognise the new shape and only identify the smaller shapes it is composed of.",
+        "response": "Using plastic shapes to compose a new shape and drawing around the shape can support pupils to see the properties of the new shape. Drawing around removes the joined sides inside the new polygon."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/make-shapes-by-joining-two-polygons-in-different-ways",
+    "pupilLessonOutcome": "I can make compound shapes by joining two polygons in different ways.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Allow time for pupils to explore making polygons with two identical triangles. You could use identical plastic shapes to support manipulation."
+      }
+    ],
+    "unitSlug": "parallel-and-perpendicular-sides-in-polygons-and-perimeter",
+    "unitTitle": "Parallel and perpendicular sides in polygons"
+  },
+  "measure-the-size-of-angles-accurately-using-a-protractor": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/angles-compare-name-estimate-and-measure-angles/lessons/measure-the-size-of-angles-accurately-using-a-protractor",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A protractor is an angle measurer."
+      },
+      {
+        "keyLearningPoint": "Protractors have two scales from 0 to 180 degrees."
+      },
+      {
+        "keyLearningPoint": "Start from zero when reading the scale on a protractor."
+      },
+      {
+        "keyLearningPoint": "Line the protractor up with one of the lines forming the angle."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "An angle is a measure of turn. It shows how far something has rotated. It is often displayed as the rotation between two line segments.",
+        "keyword": "Angle"
+      },
+      {
+        "description": "A point is an exact location. It has no size, only position.",
+        "keyword": "Point"
+      },
+      {
+        "description": "A vertex is a point where two or more lines meet.",
+        "keyword": "Vertex"
+      },
+      {
+        "description": "A scale is a number line with equal divisions for equal values.",
+        "keyword": "Scale"
+      }
+    ],
+    "lessonTitle": "Measure the size of angles accurately using a protractor",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils incorrectly place the protractor on the angle and therefore cannot measure the angle. Pupils use the incorrect scale to read the angle.",
+        "response": "Stress the importance of using the middle spot on the protractor to line this up with the vertex of the angle as well as placing one of the lines on a zero line, ensuring the remaining line crosses the scale of the protractor."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/measure-the-size-of-angles-accurately-using-a-protractor",
+    "pupilLessonOutcome": "I can measure the size of angles accurately using a protractor.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Encourage pupils to explain how other pupils have incorrectly attempted to measure an angle using a protractor. Highlighting these misconceptions can benefit everyone in deepening their understanding for how to measure using a protractor."
+      }
+    ],
+    "unitSlug": "angles-compare-name-estimate-and-measure-angles",
+    "unitTitle": "Angles: compare, name, estimate and measure angles"
+  },
+  "perpendicular-bisector-of-a-line-segment": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/perpendicular-bisector-of-a-line-segment",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A rhombus can be constructed from two congruent isosceles triangles."
+      },
+      {
+        "keyLearningPoint": "The diagonals of a rhombus meet at right angles and bisect each other."
+      },
+      {
+        "keyLearningPoint": "It is possible to construct the perpendicular bisector of a line segment without drawing the rhombus."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "To bisect means to cut or divide an object into two equal parts.",
+        "keyword": "Bisect"
+      },
+      {
+        "description": "A rhombus is a parallelogram where all sides are the same length.",
+        "keyword": "Rhombus"
+      }
+    ],
+    "lessonTitle": "Perpendicular bisector of a line segment",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "I can use a ruler to measure the midpoint of a line segment, and a protractor to find 90\u00b0.",
+        "response": "Constructions, such as perpendicular bisectors, are methods of creating & modifying shapes & angles in ways that don't require measurements."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/perpendicular-bisector-of-a-line-segment",
+    "pupilLessonOutcome": "I can use the properties of a rhombus to construct a perpendicular bisector of a line segment.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "When checking that the radius of each circle or arc constructed is equal (and in cases where its length is important), it might help to get students to draw a reference line that can be used to readjust the compass width after each arc is drawn."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "perpendicular-to-a-given-line-through-a-given-point": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/perpendicular-to-a-given-line-through-a-given-point",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A rhombus can be constructed from two congruent isosceles triangles."
+      },
+      {
+        "keyLearningPoint": "This can be used to construct a perpendicular to a line through a point."
+      },
+      {
+        "keyLearningPoint": "This perpendicular has special properties that can be investigated."
+      },
+      {
+        "keyLearningPoint": "Shortest distances can be found using constructions with perpendicular lines."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "To bisect means to cut or divide an object into two equal parts.",
+        "keyword": "Bisect"
+      },
+      {
+        "description": "A rhombus is a parallelogram where all sides are the same length.",
+        "keyword": "Rhombus"
+      }
+    ],
+    "lessonTitle": "Perpendicular to a given line through a given point",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "You can't accurately draw the perpendicular to a point on a line segment close to its endpoint.",
+        "response": "The perpendicular to a line segment through any point can be found; some line segments just require extending in length first."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/perpendicular-to-a-given-line-through-a-given-point",
+    "pupilLessonOutcome": "I can use the properties of a rhombus to construct a perpendicular to a given line through a given point.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Whilst circles of any radius can be used to modify the length of a line segment, the bigger the circle, the smaller the influence of any imprecision in the construction process."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "problem-solving-with-constructions": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/problem-solving-with-constructions",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Shapes made from triangles can be constructed."
+      },
+      {
+        "keyLearningPoint": "By investigation it is possible to accurately construct multiple polygons."
+      },
+      {
+        "keyLearningPoint": "Shortest distances can be found using constructions with perpendicular lines."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "To bisect means to cut or divide an object into two equal parts.",
+        "keyword": "Bisect"
+      },
+      {
+        "description": "A rhombus is a parallelogram where all sides are the same length.",
+        "keyword": "Rhombus"
+      }
+    ],
+    "lessonTitle": "Problem solving with constructions",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "You always need to draw circles that are the same size to construct any polygon.",
+        "response": "Some polygons, such as kites, require you to construct two circles of different size, as long as they still intersect at two points."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/problem-solving-with-constructions",
+    "pupilLessonOutcome": "I can use my knowledge of constructions to solve problems.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Whilst students are exploring possible shapes that can be found on constructions, providing the \"six-petal flower construction\" additional material  gives multiple copies of premade constructions for students to draw over."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "reason-about-compound-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/reason-about-compound-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Area and perimeter are calculated from the side lengths of 2D shapes."
+      },
+      {
+        "keyLearningPoint": "Area and perimeter are measured in different units."
+      },
+      {
+        "keyLearningPoint": "Compound shapes can be decomposed and rearranged in different ways."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A compound shape is a shape created using two or more basic shapes.",
+        "keyword": "Compound"
+      },
+      {
+        "description": "A dimension is a measurement of length in one direction.",
+        "keyword": "Dimension"
+      }
+    ],
+    "lessonTitle": "Reason about compound shapes using the relationship between side lengths and area and perimeter",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "The numbers used as side lengths in this lesson are generally relatively low, and based around times tables. As a result, pupils might be tempted to guess / estimate the missing side lengths.",
+        "response": "Remind pupils that the shapes are not to scale and encourage them to use subtraction skills instead - what is the difference between this known side length and this known side length?"
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/reason-about-compound-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "pupilLessonOutcome": "I can reason about compound shapes using the relationship between side lengths and area and perimeter.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Physically cutting out the compound shapes and decomposing them that way, rather than drawing a line inside them, provides a powerful reminder that compound shapes are composed of two or more shapes. Manipulating the shapes will help to show how the missing side lengths can be calculated."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "reason-about-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/reason-about-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Area and perimeter are calculated from the side lengths of 2D shapes."
+      },
+      {
+        "keyLearningPoint": "Area is measured in square units."
+      },
+      {
+        "keyLearningPoint": "Perimeter is measured in units of length."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "Area is the measurement of a flat surface and measures 2D space.",
+        "keyword": "Area"
+      },
+      {
+        "description": "The distance around a 2D shape is its perimeter.",
+        "keyword": "Perimeter"
+      }
+    ],
+    "lessonTitle": "Reason about shapes using the relationship between side lengths and area and perimeter",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Area and perimeter are easily confused. In this lesson, both concepts are explored, often at the same time.",
+        "response": "Use your knowledge of the pupils' attainment (including using the Starter Quiz) to see which pupils are confusing the terms. All pupils will benefit from access to a working wall which gives a clear reminder of which is which."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/reason-about-shapes-using-the-relationship-between-side-lengths-and-area-and-perimeter",
+    "pupilLessonOutcome": "I can reason about shapes using the relationship between side lengths and area and perimeter.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "The final two questions of the Practice section of Cycle B are open-ended and therefore have many possible answers. You may wish to allocate a set amount of time for pupils to work on each of them, encouraging them to find the most possible answers in that time."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "reflect-polygons-in-a-line-of-symmetry": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/reflect-polygons-in-a-line-of-symmetry",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "When you reflect a shape, it will be the same distance from the mirror line on both sides."
+      },
+      {
+        "keyLearningPoint": "You can reflect a shape by counting the position of each vertex and making a mark, and then joining the marks."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "Another term for a line of symmetry. If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Mirror line"
+      },
+      {
+        "description": "When you reflect a shape, you flip it over a mirror line or line of symmetry without turning it or changing the size.",
+        "keyword": "Reflect"
+      },
+      {
+        "description": "The mirror image of a shape.",
+        "keyword": "Reflection"
+      }
+    ],
+    "lessonTitle": "Reflect polygons in a line of symmetry",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may translate or copy a shape rather than 'flipping it' over the line of symmetry.",
+        "response": "Use mirrors to support children's understanding of how a shape flips when it is reflected. Explore this idea with a wide variety of shapes."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/reflect-polygons-in-a-line-of-symmetry",
+    "pupilLessonOutcome": "I can reflect polygons in a line of symmetry, including when there are no sides parallel to the line of symmetry.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Although children are taught different strategies to reflect shapes in this lesson, they may benefit from using a mirror to support their understanding of reflective symmetry."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "reflect-polygons-that-are-dissected-by-the-line-of-symmetry": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/symmetry-in-2d-shapes/lessons/reflect-polygons-that-are-dissected-by-the-line-of-symmetry",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "When you reflect a shape, each vertex will be the same distance from the line of symmetry."
+      },
+      {
+        "keyLearningPoint": "When you reflect a polygon that has a side that is touching the mirror line, you can sometimes create a new shape."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "If you were to fold a shape on its line of symmetry, both halves would match exactly.",
+        "keyword": "Line of symmetry"
+      },
+      {
+        "description": "Mirror line is another term to describe the line of symmetry.",
+        "keyword": "Mirror line"
+      },
+      {
+        "description": "When you reflect a shape, you flip it over a mirror line or line of symmetry without turning it or changing the size.",
+        "keyword": "Reflect"
+      },
+      {
+        "description": "The reflection of a shape is the mirror image of a shape.",
+        "keyword": "Reflection"
+      }
+    ],
+    "lessonTitle": "Reflect polygons that are dissected by the line of symmetry",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may miscount the number of squares from the mirror line when plotting each vertex to reflect the shape.",
+        "response": "Encourage children to work systematically by only marking one vertex at a time to reduce the chance of errors. Also encourage use of mirrors to check."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/reflect-polygons-that-are-dissected-by-the-line-of-symmetry",
+    "pupilLessonOutcome": "I can reflect polygons that are dissected (cut in half) by the line of symmetry, and explore the new shapes that are created when a polygon is reflected.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Although this lesson has been designed to teach other strategies for reflecting in a line of symmetry, children may benefit from being able to use mirrors to support their understanding of reflective symmetry."
+      }
+    ],
+    "unitSlug": "symmetry-in-2d-shapes",
+    "unitTitle": "Properties of 2D and 3D shapes and symmetry"
+  },
+  "securing-the-skill-of-using-a-pair-of-compasses": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/securing-the-skill-of-using-a-pair-of-compasses",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw a circle with a particular radius."
+      },
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw two circles that intersect."
+      },
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw two circles that only intersect once."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "The radius is any line segment that joins the centre of a circle to its edge.",
+        "keyword": "Radius"
+      },
+      {
+        "description": "A pair of compasses is a tool which can be used to draw circles and arcs. A pair of compasses is sometimes referred to just as a compass.",
+        "keyword": "Compass"
+      }
+    ],
+    "lessonTitle": "Securing the skill of using a pair of compasses",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils may find it difficult to decide where to mark the centre point of each circle during Task A.",
+        "response": "Pupils could start the task by drawing a pair of circles and labelling it with the question that presents the matching description."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/securing-the-skill-of-using-a-pair-of-compasses",
+    "pupilLessonOutcome": "I can use a pair of compasses to draw different circles.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "For this lesson, pupils will need a pair of compasses, pencil, ruler and several sheets of plain paper."
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "shapes-with-the-same-areas-can-have-different-perimeters-and-vice-versa": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/shapes-with-the-same-areas-can-have-different-perimeters-and-vice-versa",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Area and perimeter are calculated from the side lengths of 2D shapes."
+      },
+      {
+        "keyLearningPoint": "Area is measured in square units."
+      },
+      {
+        "keyLearningPoint": "Perimeter is measured in units of length."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "Area is a measurement of a flat surface. It measures a 2D space.",
+        "keyword": "Area"
+      },
+      {
+        "description": "The distance around a 2D shape is its perimeter.",
+        "keyword": "Perimeter"
+      }
+    ],
+    "lessonTitle": "Shapes with the same areas can have different perimeters and vice versa",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "It is highly common for pupils to mix up area and perimeter or to confuse the notations for the two.",
+        "response": "Allow children plenty of opportunity to identify perimeter and area for the same shapes and discuss why the unit of measure is different. You may also wish to build in deliberate errors when modelling or into tasks for children to identify and check."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/shapes-with-the-same-areas-can-have-different-perimeters-and-vice-versa",
+    "pupilLessonOutcome": "I know that shapes with the same area can have different perimeters and vice-versa.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is assumed that children have had prior experience of area and perimeter and units of measure before this lesson. Consider whether your learners require pre-teaching or a reminder prior to this lesson."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "the-same-3d-shapes-can-be-composed-from-different-2d-nets": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/the-same-3d-shapes-can-be-composed-from-different-2d-nets",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A net is a 2D shape that can be folded and joined to create a 3D shape."
+      },
+      {
+        "keyLearningPoint": "There can be more than one way to create a net for a given 3D shape."
+      },
+      {
+        "keyLearningPoint": "Not all arrangements of shapes will form the net of a 3D shape."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A net is a 2D representation of the faces of a 3D shape, that can be folded up into the 3D object.",
+        "keyword": "Net"
+      }
+    ],
+    "lessonTitle": "The same 3D shapes can be composed from different 2D nets",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "It is perfectly possible for pupils to be highly numerate but struggle with the spatial awareness needed to visualise / imagine whether a 2D net will fold together to form a 2D shape.",
+        "response": "As part of the lesson design process you may wish to incorporate manipulatives such as construction materials for those pupils whose learning needs scaffolding. As with all scaffolding, aim to move pupils away from this when you can."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/the-same-3d-shapes-can-be-composed-from-different-2d-nets",
+    "pupilLessonOutcome": "I can identify different 2D nets which will create the same 3D shape.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "If pupils are miscounting the faces of a 2D shape when planning to create its net, provide small sticky notes for them to place on a face when it has been counted."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "two-congruent-triangles-can-be-arranged-to-compose-a-parallelogram": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/two-congruent-triangles-can-be-arranged-to-compose-a-parallelogram",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The area of a triangle is equal to half the area of the parallelogram you create from 2 congruent triangles."
+      },
+      {
+        "keyLearningPoint": "Any parallelogram can be decomposed into two congruent triangles."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "If one shape can fit exactly on top of another using rotation, reflection or translation, then the shapes are congruent.",
+        "keyword": "Congruent"
+      },
+      {
+        "description": "A parallelogram is a quadrilateral with two pairs of parallel and equal sides.",
+        "keyword": "Parallelogram"
+      }
+    ],
+    "lessonTitle": "Two congruent triangles can be arranged to compose a parallelogram",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "If pupils do not cut a parallelogram from vertex to opposite vertex, they will end up with either two non-congruent shapes or two congruent quadrilaterals.",
+        "response": "Modelling is key and this is a useful time to revisit the concept of a shape's diagonal, that is, a line connecting vertex to a non-adjacent vertex."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/two-congruent-triangles-can-be-arranged-to-compose-a-parallelogram",
+    "pupilLessonOutcome": "I can explain how two congruent triangles can arranged to compose a parallelogram.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "In this lesson pupils will need to be familiar with triangle types and their properties. Consider how you might scaffold this knowledge for learners if required."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "understanding-constructing-a-circle": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks3/units/constructions/lessons/understanding-constructing-a-circle",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A pair of compasses can be used to draw circle with a particular radius."
+      },
+      {
+        "keyLearningPoint": "All the points on the circle will be the same distance from the centre."
+      },
+      {
+        "keyLearningPoint": "The centre of a circle is the point that is the same distance from every point on the circle."
+      },
+      {
+        "keyLearningPoint": "The collection of points an equal distance from a given point form a circle."
+      }
+    ],
+    "keyStageSlug": "ks3",
+    "keyStageTitle": "Key Stage 3",
+    "lessonKeywords": [
+      {
+        "description": "A fixed point is a point that does not change or move.",
+        "keyword": "Fixed point"
+      },
+      {
+        "description": "The circumference of a circle is the perimeter of the circle.",
+        "keyword": "Circumference"
+      },
+      {
+        "description": "An arc is part of a curve. An arc of a circle is part of the circle\u2019s circumference.",
+        "keyword": "Arc"
+      },
+      {
+        "description": "Points A and B are equidistant from a third point C if the distance AC is equal to the distance BC.",
+        "keyword": "Equidistant"
+      }
+    ],
+    "lessonTitle": "Understanding constructing a circle",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "During tasks, pupils may use a ruler to draw or check whether points are equidistant from a centre.",
+        "response": "While the tasks could be completed with a ruler, it may be quicker, easier and more accurate to use a pair of compasses."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/understanding-constructing-a-circle",
+    "pupilLessonOutcome": "I can recognise a circle as a collection of points equidistant from a fixed point.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "The teacher could sit or stand in the middle of a large empty space and ask all pupils to position themselves equidistantly to the teacher. What shape have the pupils formed?"
+      }
+    ],
+    "unitSlug": "constructions",
+    "unitTitle": "Constructions"
+  },
+  "use-knowledge-of-shape-properties-to-draw-shapes-accurately-using-rulers-and-protractors": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/use-knowledge-of-shape-properties-to-draw-shapes-accurately-using-rulers-and-protractors",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "A protractor is used to draw and measure angles accurately."
+      },
+      {
+        "keyLearningPoint": "Read the scale from zero on a protractor to draw and measure angles accurately."
+      },
+      {
+        "keyLearningPoint": "Read the scale from zero on a ruler to draw and measure accurately."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A protractor is an instrument used in measuring or drawing angles.",
+        "keyword": "Protractor"
+      }
+    ],
+    "lessonTitle": "Use knowledge of shape properties to draw shapes accurately using rulers and protractors",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils can find protractors tricky, sometimes drawing the wrong angle because the outer scale has been used rather than the inner-scale, or vice-versa.",
+        "response": "Emphasise estimation through knowledge of angle types. Model discussion of whether an angle is acute or obtuse and use this knowledge to identify which value on which scale is the measurement."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/use-knowledge-of-shape-properties-to-draw-shapes-accurately-using-rulers-and-protractors",
+    "pupilLessonOutcome": "I can use my knowledge of shape properties to draw shapes accurately using rulers and protractors.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "Consider how confident pupils are in using a protractor independently. Independent tasks could be scaffolded further by adapting angles to measure in multiples of 5 or 10"
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "use-knowledge-of-shape-properties-to-sketch-and-identify-shapes": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/use-knowledge-of-shape-properties-to-sketch-and-identify-shapes",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "Regular shapes have all sides the same length and all angles equal size."
+      },
+      {
+        "keyLearningPoint": "Knowledge of properties of shapes helps to sketch shapes."
+      },
+      {
+        "keyLearningPoint": "Knowledge of properties of shapes helps to identify shapes."
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A regular polygon has all sides equal and all angles equal.",
+        "keyword": "Regular"
+      },
+      {
+        "description": "An irregular polygon does not have all sides equal and does not have all angles equal.",
+        "keyword": "Irregular"
+      }
+    ],
+    "lessonTitle": "Use knowledge of shape properties to sketch and identify shapes",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Pupils might get confused by shapes which are almost polygons - for example, one of the lines is slightly curved - or almost regular - for example, one side is slightly longer than the others.",
+        "response": "These are either not polygons or are irregular polygons. Ensure pupils are clear about that. Examples and non-examples are given, including 'almost' examples. You may wish to include more and display these in your Maths environment."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/use-knowledge-of-shape-properties-to-sketch-and-identify-shapes",
+    "pupilLessonOutcome": "I can use my knowledge of shape properties to sketch and identify shapes.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "There is a lot of technical language in this lesson. Consider the most effective ways to introduce this to your children and how best to ensure its continued use, such as displaying key vocabulary or developing stem sentences with children."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  },
+  "when-a-2d-shape-is-decomposed-and-the-parts-rearranged-the-areas-remains-the-same": {
+    "canonicalUrl": "https://www.thenational.academy/teachers/programmes/maths-primary-ks2/units/draw-compose-and-decompose-shapes/lessons/when-a-2d-shape-is-decomposed-and-the-parts-rearranged-the-areas-remains-the-same",
+    "contentGuidance": null,
+    "downloadsAvailable": true,
+    "keyLearningPoints": [
+      {
+        "keyLearningPoint": "The area of the compound shape is equal to the total areas of its parts"
+      },
+      {
+        "keyLearningPoint": "2D shapes can be decomposed and rearranged in different ways"
+      },
+      {
+        "keyLearningPoint": "2D shapes can be decomposed and rearranged in different ways but the total area stays the same"
+      }
+    ],
+    "keyStageSlug": "ks2",
+    "keyStageTitle": "Key Stage 2",
+    "lessonKeywords": [
+      {
+        "description": "A compound shape is a shape created using two or more basic shapes.",
+        "keyword": "Compound shape"
+      },
+      {
+        "description": "Area is the measurement of a flat surface. It measures a 2D space.",
+        "keyword": "Area"
+      }
+    ],
+    "lessonTitle": "When a 2D shape is decomposed and the parts rearranged, the areas remains the same",
+    "misconceptionsAndCommonMistakes": [
+      {
+        "misconception": "Children may assume some shapes have a larger area than others by comparison of a certain dimension. In this lesson, pattern blocks can be arranged to create shapes with very different dimensions.",
+        "response": "Encourage pupils to rearrange the composing shapes to prove that the compound shapes have the same area. This can be done effectively with tangrams or pattern blocks, both of which feature heavily in this lesson."
+      }
+    ],
+    "oakUrl": "https://www.thenational.academy/teachers/lessons/when-a-2d-shape-is-decomposed-and-the-parts-rearranged-the-areas-remains-the-same",
+    "pupilLessonOutcome": "I can decompose a 2D shape and create a different shape from the parts and explain why the area of the new compound shape is the same as the original 2D shape.",
+    "subjectSlug": "maths",
+    "subjectTitle": "Maths",
+    "supervisionLevel": null,
+    "teacherTips": [
+      {
+        "teacherTip": "It is important pupils have opportunities to manipulate shapes in this lesson and tangrams and pattern blocks are used to this effect. If physical versions are unavailable these manipulatives can be found online for a virtual experience."
+      }
+    ],
+    "unitSlug": "draw-compose-and-decompose-shapes",
+    "unitTitle": "Draw, compose and decompose shapes"
+  }
+}
