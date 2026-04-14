@@ -95,8 +95,7 @@ def test_build_manifest_enriches_entries_with_oak_summary_data(tmp_path: Path) -
                                 "are always equal."
                             ),
                             "response": (
-                                "Show non-symmetrical examples as well as "
-                                "symmetrical ones."
+                                "Show non-symmetrical examples as well as symmetrical ones."
                             ),
                         }
                     ],
@@ -119,6 +118,73 @@ def test_build_manifest_enriches_entries_with_oak_summary_data(tmp_path: Path) -
         "Pupils may think adjacent angles on a straight line are always equal."
         in entry["misconceptions"]
     )
+
+
+def test_build_manifest_preserves_verified_oak_slugs_and_dedupes_enrichment(
+    tmp_path: Path,
+) -> None:
+    mapping_path = tmp_path / "euclid_to_oak.yaml"
+    mapping_path.write_text(
+        """
+- scene: PropIX
+  euclid_type: proposition
+  euclid_numbers: [9]
+  title: Bisect an angle
+  description: Bisect a rectilinear angle.
+  alt_text: Compass arcs meet and a line splits an angle into equal parts.
+  duration_seconds: 40
+  nc_references:
+    - key_stage: KS3
+      year: 8
+      domain: Geometry and measures
+      statement: Derive and use the standard ruler and compass constructions
+  oak_lesson_slugs:
+    - bisecting-an-angle
+  oak_thread_slugs:
+    - geometry-and-measure
+  keywords:
+    - angle bisector
+  misconceptions:
+    - I can use a protractor to measure an angle, then half that angle to bisect it.
+""".strip()
+    )
+
+    entries = load_mapping_entries(mapping_path)
+    manifest = build_manifest(
+        entries,
+        oak_data={
+            "lesson_summaries": {
+                "bisecting-an-angle": {
+                    "lessonKeywords": [
+                        {"keyword": "angle bisector"},
+                        {"keyword": "construction"},
+                    ],
+                    "misconceptionsAndCommonMistakes": [
+                        {
+                            "misconception": (
+                                "I can use a protractor to measure an angle, then "
+                                "half that angle to bisect it."
+                            )
+                        }
+                    ],
+                }
+            }
+        },
+        generated_at=datetime(2026, 4, 14, 4, 45, tzinfo=UTC),
+    )
+
+    entry = manifest["animations"][0]
+    assert entry["oak_lesson_slugs"] == ["bisecting-an-angle"]
+    assert entry["oak_thread_slugs"] == ["geometry-and-measure"]
+    assert entry["keywords"] == ["angle bisector", "construction"]
+    assert entry["misconceptions"] == [
+        "I can use a protractor to measure an angle, then half that angle to bisect it."
+    ]
+    assert entry["files"] == {
+        "gif": "output/gif/PropIX.gif",
+        "mp4": "output/mp4/PropIX.mp4",
+        "png": "output/png/PropIX.png",
+    }
 
 
 def test_render_curriculum_mapping_markdown_groups_entries_by_key_stage_and_year() -> None:
@@ -174,8 +240,7 @@ def test_render_curriculum_mapping_markdown_groups_entries_by_key_stage_and_year
                 "keywords": ["angle bisector"],
                 "misconceptions": [],
                 "alt_text": (
-                    "Two compass arcs meet and a line through their intersection "
-                    "bisects an angle."
+                    "Two compass arcs meet and a line through their intersection bisects an angle."
                 ),
                 "files": {
                     "gif": "output/gif/PropIX.gif",

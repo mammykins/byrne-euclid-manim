@@ -6,7 +6,7 @@ This directory holds the hand-maintained curriculum mapping and any cached Oak N
 
 - `euclid_to_oak.yaml` — the source-of-truth mapping from scene class to Euclid reference, national curriculum references, and draft Oak linkage
 - `curriculum_manifest.json` — generated JSON manifest for programmatic consumers
-- `oak_*.json` — cached Oak API responses written by `scripts/fetch_oak_curriculum.py`
+- `oak_*.json` — cached Oak API responses written by `scripts/fetch_oak_curriculum.py`, including normalised geometry thread, unit, lesson, and lesson-summary data
 - `demo_curriculum_preview.yaml` — hand-authored synthetic preview entries for demoing the final enriched output shape
 - `demo_curriculum_enrichment.json` — hand-authored synthetic lesson-summary data used to enrich the demo preview
 - `demo_curriculum_manifest.json` — generated JSON preview built from the synthetic demo inputs
@@ -22,6 +22,8 @@ Oak National Academy content is used under the Open Government Licence. When les
 ## Update workflow
 
 1. Refresh Oak cache data with `uv run --env-file .env python scripts/fetch_oak_curriculum.py` using `OAK_OPEN_API_KEY` or `OAK_API_KEY`
+   - The fetcher normalises Oak's live grouped unit and lesson payloads into stable cached JSON files
+   - By default it fetches lesson summaries for all selected geometry lessons; use `--summary-limit N` to reduce that locally if needed
 2. Review or adjust `curriculum/euclid_to_oak.yaml`
 3. Rebuild the manifest and curriculum document with `uv run python scripts/build_manifest.py`
 
